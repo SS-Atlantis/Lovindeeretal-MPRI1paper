@@ -40,9 +40,9 @@ def main():
     url = f"{NBVIEWER}/{GITHUB_ORG}/{REPO_NAME}/blob/{DEFAULT_BRANCH_NAME}/{Path.cwd().name}"
 
     readme = f"""\
-The Jupyter Notebooks in this directory are made by
-{CREATOR_NAME} for sharing of Python code techniques
-and notes.
+This repository contains interactive Jupyter notebooks and Python scripts that will allow for reproducability of the results and figures presented in:
+>Lovindeer R, S. Mynott, J. Porobic, E. A. Fulton, S. E. Allen, D. J. Latornell, H. N. Morzaria-Luna, A. Morell, N. C. Ban, 
+Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea.
 
 The links below are to static renderings of the notebooks via
 [nbviewer.jupyter.org](https://nbviewer.jupyter.org/).

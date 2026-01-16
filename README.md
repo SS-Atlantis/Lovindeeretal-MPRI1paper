@@ -1,6 +1,6 @@
-The Jupyter Notebooks in this directory are made by
-Raisha Lovindeer for sharing of Python code techniques
-and notes.
+This repository contains interactive Jupyter notebooks and Python scripts that will allow for reproducability of the results and figures presented in:
+>Lovindeer R, S. Mynott, J. Porobic, E. A. Fulton, S. E. Allen, D. J. Latornell, H. N. Morzaria-Luna, A. Morell, N. C. Ban, 
+Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea.
 
 The links below are to static renderings of the notebooks via
 [nbviewer.jupyter.org](https://nbviewer.jupyter.org/).
