@@ -1,0 +1,481 @@
+,bio_group,time_label,scenario,percent_change,sensitivity,sensitivity_negative
+0,benthic_invertebrates,spill year,AP-1,0.1845389728655111,0.5,-0.5
+1,benthic_invertebrates,spill year,AP-2,0.1503188635390498,0.5,-0.5
+2,benthic_invertebrates,spill year,AP-3,0.0442716662692688,0.5,-0.5
+3,benthic_invertebrates,spill year,AP-4,0.0237040643056724,0.5,-0.5
+4,benthic_invertebrates,spill year,TP-1,1.3307182748834403,0.5,-0.5
+5,benthic_invertebrates,spill year,TP-2,0.9688579585373835,0.5,-0.5
+6,benthic_invertebrates,spill year,TP-3,0.3280075688042799,0.5,-0.5
+7,benthic_invertebrates,spill year,TP-4,0.3377062641587245,0.5,-0.5
+8,benthic_invertebrates,spill year,EB-1,0.1524001533761357,0.5,-0.5
+9,benthic_invertebrates,spill year,EB-2,0.1487513684567406,0.5,-0.5
+10,benthic_invertebrates,spill year,EB-3,0.0428593809743281,0.5,-0.5
+11,benthic_invertebrates,spill year,EB-4,0.0357663596003992,0.5,-0.5
+12,benthic_invertebrates,spill year,JF-1,0.3986710773511426,0.5,-0.5
+13,benthic_invertebrates,spill year,JF-2,0.4002689952894211,0.5,-0.5
+14,benthic_invertebrates,spill year,JF-3,0.1318937769187091,0.5,-0.5
+15,benthic_invertebrates,spill year,JF-4,0.1277606718319366,0.5,-0.5
+16,benthic_invertebrates,10 years later,AP-1,5.140299708340296,0.5,-0.5
+17,benthic_invertebrates,10 years later,AP-2,1.0641097879320611,0.5,-0.5
+18,benthic_invertebrates,10 years later,AP-3,4.127035896288182,0.5,-0.5
+19,benthic_invertebrates,10 years later,AP-4,4.940956505317379,0.5,-0.5
+20,benthic_invertebrates,10 years later,TP-1,6.33592944471639,0.5,-0.5
+21,benthic_invertebrates,10 years later,TP-2,4.0138980351981,0.5,-0.5
+22,benthic_invertebrates,10 years later,TP-3,5.040237350455017,0.5,-0.5
+23,benthic_invertebrates,10 years later,TP-4,4.838007679384721,0.5,-0.5
+24,benthic_invertebrates,10 years later,EB-1,2.797958751392755,0.5,-0.5
+25,benthic_invertebrates,10 years later,EB-2,5.044586536855784,0.5,-0.5
+26,benthic_invertebrates,10 years later,EB-3,6.396782996498606,0.5,-0.5
+27,benthic_invertebrates,10 years later,EB-4,2.983063353202178,0.5,-0.5
+28,benthic_invertebrates,10 years later,JF-1,1.3485527047559136,0.5,-0.5
+29,benthic_invertebrates,10 years later,JF-2,1.304170456855358,0.5,-0.5
+30,benthic_invertebrates,10 years later,JF-3,1.2263816844827626,0.5,-0.5
+31,benthic_invertebrates,10 years later,JF-4,1.5822142626431497,0.5,-0.5
+32,benthic_invertebrates,20 years later,AP-1,9.403669256355531,0.5,-0.5
+33,benthic_invertebrates,20 years later,AP-2,0.4806163147619994,0.5,-0.5
+34,benthic_invertebrates,20 years later,AP-3,7.013496497730068,0.5,-0.5
+35,benthic_invertebrates,20 years later,AP-4,9.509860331067214,0.5,-0.5
+36,benthic_invertebrates,20 years later,TP-1,-1.810779019821948,0.5,-0.5
+37,benthic_invertebrates,20 years later,TP-2,-2.9373763058371054,0.5,-0.5
+38,benthic_invertebrates,20 years later,TP-3,-1.131593765171548,0.5,-0.5
+39,benthic_invertebrates,20 years later,TP-4,-2.7672498903862155,0.5,-0.5
+40,benthic_invertebrates,20 years later,EB-1,4.537667650484847,0.5,-0.5
+41,benthic_invertebrates,20 years later,EB-2,6.854771591357065,0.5,-0.5
+42,benthic_invertebrates,20 years later,EB-3,12.23614545502886,0.5,-0.5
+43,benthic_invertebrates,20 years later,EB-4,2.5817787231515257,0.5,-0.5
+44,benthic_invertebrates,20 years later,JF-1,-0.8570510210761589,0.5,-0.5
+45,benthic_invertebrates,20 years later,JF-2,-0.0900891024493582,0.5,-0.5
+46,benthic_invertebrates,20 years later,JF-3,0.220911497934392,0.5,-0.5
+47,benthic_invertebrates,20 years later,JF-4,-0.8051080758960089,0.5,-0.5
+48,cetaceans,spill year,AP-1,-0.0218711598384246,0.4,-0.4
+49,cetaceans,spill year,AP-2,-0.0241918957284906,0.4,-0.4
+50,cetaceans,spill year,AP-3,-0.0203942147227687,0.4,-0.4
+51,cetaceans,spill year,AP-4,-0.0177569086739037,0.4,-0.4
+52,cetaceans,spill year,TP-1,-0.1475999855129364,0.4,-0.4
+53,cetaceans,spill year,TP-2,-0.1694715913075517,0.4,-0.4
+54,cetaceans,spill year,TP-3,-0.0450864609040763,0.4,-0.4
+55,cetaceans,spill year,TP-4,-0.0679310945951192,0.4,-0.4
+56,cetaceans,spill year,EB-1,-0.0537645406532186,0.4,-0.4
+57,cetaceans,spill year,EB-2,-0.0501487296964703,0.4,-0.4
+58,cetaceans,spill year,EB-3,-0.0072711386789531,0.4,-0.4
+59,cetaceans,spill year,EB-4,-0.0025595042096157,0.4,-0.4
+60,cetaceans,spill year,JF-1,-0.0842826151629103,0.4,-0.4
+61,cetaceans,spill year,JF-2,-0.076115627331651,0.4,-0.4
+62,cetaceans,spill year,JF-3,-0.0340035801488181,0.4,-0.4
+63,cetaceans,spill year,JF-4,-0.0371012165604714,0.4,-0.4
+64,cetaceans,10 years later,AP-1,0.7312563803600357,0.4,-0.4
+65,cetaceans,10 years later,AP-2,-0.2745766848485923,0.4,-0.4
+66,cetaceans,10 years later,AP-3,0.782843658004309,0.4,-0.4
+67,cetaceans,10 years later,AP-4,0.6221390906416319,0.4,-0.4
+68,cetaceans,10 years later,TP-1,-2.010181062026379,0.4,-0.4
+69,cetaceans,10 years later,TP-2,0.2514553483937767,0.4,-0.4
+70,cetaceans,10 years later,TP-3,1.0959279840025928,0.4,-0.4
+71,cetaceans,10 years later,TP-4,-0.8632061990164511,0.4,-0.4
+72,cetaceans,10 years later,EB-1,0.3801484640710589,0.4,-0.4
+73,cetaceans,10 years later,EB-2,0.3620900553436063,0.4,-0.4
+74,cetaceans,10 years later,EB-3,0.7169308955201426,0.4,-0.4
+75,cetaceans,10 years later,EB-4,0.7686513711009935,0.4,-0.4
+76,cetaceans,10 years later,JF-1,-0.6665755932555351,0.4,-0.4
+77,cetaceans,10 years later,JF-2,-0.7074721735449827,0.4,-0.4
+78,cetaceans,10 years later,JF-3,-1.01353304607385,0.4,-0.4
+79,cetaceans,10 years later,JF-4,-0.6021499503870389,0.4,-0.4
+80,cetaceans,20 years later,AP-1,-0.8169995389747426,0.4,-0.4
+81,cetaceans,20 years later,AP-2,-0.2784555611823194,0.4,-0.4
+82,cetaceans,20 years later,AP-3,-1.6311741836173046,0.4,-0.4
+83,cetaceans,20 years later,AP-4,-1.1343502453783776,0.4,-0.4
+84,cetaceans,20 years later,TP-1,-4.94056063262751,0.4,-0.4
+85,cetaceans,20 years later,TP-2,-5.270946843831809,0.4,-0.4
+86,cetaceans,20 years later,TP-3,-4.023119438743957,0.4,-0.4
+87,cetaceans,20 years later,TP-4,-2.9554429443291643,0.4,-0.4
+88,cetaceans,20 years later,EB-1,-1.6038166005437828,0.4,-0.4
+89,cetaceans,20 years later,EB-2,-1.750872248846372,0.4,-0.4
+90,cetaceans,20 years later,EB-3,-0.9104454029352655,0.4,-0.4
+91,cetaceans,20 years later,EB-4,-1.004820470993695,0.4,-0.4
+92,cetaceans,20 years later,JF-1,-2.932836490944153,0.4,-0.4
+93,cetaceans,20 years later,JF-2,-3.0784351125346645,0.4,-0.4
+94,cetaceans,20 years later,JF-3,-3.781172937085097,0.4,-0.4
+95,cetaceans,20 years later,JF-4,-2.5759439471982253,0.4,-0.4
+96,demersal_fish,spill year,AP-1,-0.2043585326017734,0.2,-0.2
+97,demersal_fish,spill year,AP-2,-0.1049734438121597,0.2,-0.2
+98,demersal_fish,spill year,AP-3,-0.102078653183004,0.2,-0.2
+99,demersal_fish,spill year,AP-4,-0.1025822757890487,0.2,-0.2
+100,demersal_fish,spill year,TP-1,-1.5037800780792765,0.2,-0.2
+101,demersal_fish,spill year,TP-2,-1.252721047787081,0.2,-0.2
+102,demersal_fish,spill year,TP-3,-0.4277029216151591,0.2,-0.2
+103,demersal_fish,spill year,TP-4,-0.5555472020840243,0.2,-0.2
+104,demersal_fish,spill year,EB-1,-0.4958598385415801,0.2,-0.2
+105,demersal_fish,spill year,EB-2,-0.4433853840321198,0.2,-0.2
+106,demersal_fish,spill year,EB-3,-0.117818720271939,0.2,-0.2
+107,demersal_fish,spill year,EB-4,-0.0534504532590028,0.2,-0.2
+108,demersal_fish,spill year,JF-1,-1.0754148666911736,0.2,-0.2
+109,demersal_fish,spill year,JF-2,-0.8943752524835359,0.2,-0.2
+110,demersal_fish,spill year,JF-3,-0.5852877564816735,0.2,-0.2
+111,demersal_fish,spill year,JF-4,-0.5139930780659451,0.2,-0.2
+112,demersal_fish,10 years later,AP-1,-4.145424519625801,0.2,-0.2
+113,demersal_fish,10 years later,AP-2,-0.2485300057886666,0.2,-0.2
+114,demersal_fish,10 years later,AP-3,-1.492641784213517,0.2,-0.2
+115,demersal_fish,10 years later,AP-4,-1.407727619911035,0.2,-0.2
+116,demersal_fish,10 years later,TP-1,-5.238289454504253,0.2,-0.2
+117,demersal_fish,10 years later,TP-2,-6.477316963053137,0.2,-0.2
+118,demersal_fish,10 years later,TP-3,-6.440053370012868,0.2,-0.2
+119,demersal_fish,10 years later,TP-4,-4.446086712828085,0.2,-0.2
+120,demersal_fish,10 years later,EB-1,-6.024240854566411,0.2,-0.2
+121,demersal_fish,10 years later,EB-2,-2.116287202103756,0.2,-0.2
+122,demersal_fish,10 years later,EB-3,-2.999474302421905,0.2,-0.2
+123,demersal_fish,10 years later,EB-4,-1.9039415155701365,0.2,-0.2
+124,demersal_fish,10 years later,JF-1,-2.5651155496025138,0.2,-0.2
+125,demersal_fish,10 years later,JF-2,-2.102905356583936,0.2,-0.2
+126,demersal_fish,10 years later,JF-3,-1.487303385180616,0.2,-0.2
+127,demersal_fish,10 years later,JF-4,-2.7504820251719173,0.2,-0.2
+128,demersal_fish,20 years later,AP-1,-1.442899767977863,0.2,-0.2
+129,demersal_fish,20 years later,AP-2,-0.6381498636353027,0.2,-0.2
+130,demersal_fish,20 years later,AP-3,-2.3749732369986405,0.2,-0.2
+131,demersal_fish,20 years later,AP-4,-2.1187531920070284,0.2,-0.2
+132,demersal_fish,20 years later,TP-1,-9.850235878631455,0.2,-0.2
+133,demersal_fish,20 years later,TP-2,-10.773622147931697,0.2,-0.2
+134,demersal_fish,20 years later,TP-3,-11.934360003690072,0.2,-0.2
+135,demersal_fish,20 years later,TP-4,-11.401486304047658,0.2,-0.2
+136,demersal_fish,20 years later,EB-1,-11.353086052146482,0.2,-0.2
+137,demersal_fish,20 years later,EB-2,-2.2566553767980797,0.2,-0.2
+138,demersal_fish,20 years later,EB-3,-3.5567807287607494,0.2,-0.2
+139,demersal_fish,20 years later,EB-4,-0.4180635434673858,0.2,-0.2
+140,demersal_fish,20 years later,JF-1,-1.0718915514041638,0.2,-0.2
+141,demersal_fish,20 years later,JF-2,0.0392617684037848,0.2,-0.2
+142,demersal_fish,20 years later,JF-3,3.5546677438074803,0.2,-0.2
+143,demersal_fish,20 years later,JF-4,-3.4265307918407157,0.2,-0.2
+144,elasmobranchs,spill year,AP-1,-0.0083089925409346,0.1,-0.1
+145,elasmobranchs,spill year,AP-2,-0.0059481787061524,0.1,-0.1
+146,elasmobranchs,spill year,AP-3,-0.0032214943848818,0.1,-0.1
+147,elasmobranchs,spill year,AP-4,-0.0028145486392219,0.1,-0.1
+148,elasmobranchs,spill year,TP-1,-0.0798285396529568,0.1,-0.1
+149,elasmobranchs,spill year,TP-2,-0.0572531261377301,0.1,-0.1
+150,elasmobranchs,spill year,TP-3,-0.0145149363393495,0.1,-0.1
+151,elasmobranchs,spill year,TP-4,-0.0308767982816685,0.1,-0.1
+152,elasmobranchs,spill year,EB-1,-0.0411710544666885,0.1,-0.1
+153,elasmobranchs,spill year,EB-2,-0.0126565001827416,0.1,-0.1
+154,elasmobranchs,spill year,EB-3,-0.0020392031549323,0.1,-0.1
+155,elasmobranchs,spill year,EB-4,-0.0008252787599435,0.1,-0.1
+156,elasmobranchs,spill year,JF-1,-0.1503134766264735,0.1,-0.1
+157,elasmobranchs,spill year,JF-2,-0.1069651681266797,0.1,-0.1
+158,elasmobranchs,spill year,JF-3,-0.0397670077673967,0.1,-0.1
+159,elasmobranchs,spill year,JF-4,-0.0586013748739952,0.1,-0.1
+160,elasmobranchs,10 years later,AP-1,-1.6501643923823517,0.1,-0.1
+161,elasmobranchs,10 years later,AP-2,-0.0303536015511826,0.1,-0.1
+162,elasmobranchs,10 years later,AP-3,-0.0987940907845164,0.1,-0.1
+163,elasmobranchs,10 years later,AP-4,-0.1926003188346586,0.1,-0.1
+164,elasmobranchs,10 years later,TP-1,-0.3909537062897316,0.1,-0.1
+165,elasmobranchs,10 years later,TP-2,-0.3732739984824651,0.1,-0.1
+166,elasmobranchs,10 years later,TP-3,-0.3410906617584175,0.1,-0.1
+167,elasmobranchs,10 years later,TP-4,-0.2630798747630356,0.1,-0.1
+168,elasmobranchs,10 years later,EB-1,-2.2453232889332355,0.1,-0.1
+169,elasmobranchs,10 years later,EB-2,-0.1576553067960168,0.1,-0.1
+170,elasmobranchs,10 years later,EB-3,-0.2546419742062586,0.1,-0.1
+171,elasmobranchs,10 years later,EB-4,-0.0647341152439426,0.1,-0.1
+172,elasmobranchs,10 years later,JF-1,-0.3096819970230419,0.1,-0.1
+173,elasmobranchs,10 years later,JF-2,-0.2403658959759591,0.1,-0.1
+174,elasmobranchs,10 years later,JF-3,-0.0498134358458957,0.1,-0.1
+175,elasmobranchs,10 years later,JF-4,-0.3794489227803908,0.1,-0.1
+176,elasmobranchs,20 years later,AP-1,-0.2124257225471912,0.1,-0.1
+177,elasmobranchs,20 years later,AP-2,-0.0263736587016949,0.1,-0.1
+178,elasmobranchs,20 years later,AP-3,-0.3909918581429986,0.1,-0.1
+179,elasmobranchs,20 years later,AP-4,-0.3497228340363681,0.1,-0.1
+180,elasmobranchs,20 years later,TP-1,-0.8752871242253455,0.1,-0.1
+181,elasmobranchs,20 years later,TP-2,-1.0195436186751885,0.1,-0.1
+182,elasmobranchs,20 years later,TP-3,-1.115362841909929,0.1,-0.1
+183,elasmobranchs,20 years later,TP-4,-0.7020356585425518,0.1,-0.1
+184,elasmobranchs,20 years later,EB-1,-3.621021020553168,0.1,-0.1
+185,elasmobranchs,20 years later,EB-2,-0.2803121692575977,0.1,-0.1
+186,elasmobranchs,20 years later,EB-3,-0.4743785995585053,0.1,-0.1
+187,elasmobranchs,20 years later,EB-4,-0.0519630360750142,0.1,-0.1
+188,elasmobranchs,20 years later,JF-1,-0.2684019375949853,0.1,-0.1
+189,elasmobranchs,20 years later,JF-2,-0.2502679957863149,0.1,-0.1
+190,elasmobranchs,20 years later,JF-3,0.0899964254512594,0.1,-0.1
+191,elasmobranchs,20 years later,JF-4,-0.4250515031729259,0.1,-0.1
+192,marine_plants,spill year,AP-1,-0.0009738076860166,2.0,-2.0
+193,marine_plants,spill year,AP-2,-0.0011272408264872,2.0,-2.0
+194,marine_plants,spill year,AP-3,-0.0117490907431461,2.0,-2.0
+195,marine_plants,spill year,AP-4,0.0001889704326074,2.0,-2.0
+196,marine_plants,spill year,TP-1,-0.0163294698856841,2.0,-2.0
+197,marine_plants,spill year,TP-2,-0.0115324370130953,2.0,-2.0
+198,marine_plants,spill year,TP-3,0.0011527806282496,2.0,-2.0
+199,marine_plants,spill year,TP-4,0.0013765058088588,2.0,-2.0
+200,marine_plants,spill year,EB-1,0.0003659020908819,2.0,-2.0
+201,marine_plants,spill year,EB-2,-0.0005109431658378,2.0,-2.0
+202,marine_plants,spill year,EB-3,0.0002124733906261,2.0,-2.0
+203,marine_plants,spill year,EB-4,0.0001133623663052,2.0,-2.0
+204,marine_plants,spill year,JF-1,-0.017633510449988,2.0,-2.0
+205,marine_plants,spill year,JF-2,-0.0129445474204459,2.0,-2.0
+206,marine_plants,spill year,JF-3,0.0019385961324003,2.0,-2.0
+207,marine_plants,spill year,JF-4,0.0019459871991311,2.0,-2.0
+208,marine_plants,10 years later,AP-1,0.0782411922159331,2.0,-2.0
+209,marine_plants,10 years later,AP-2,0.0321393022825522,2.0,-2.0
+210,marine_plants,10 years later,AP-3,0.0338548313592923,2.0,-2.0
+211,marine_plants,10 years later,AP-4,0.0959000153149758,2.0,-2.0
+212,marine_plants,10 years later,TP-1,-0.5143411766801886,2.0,-2.0
+213,marine_plants,10 years later,TP-2,-1.8801563986868275,2.0,-2.0
+214,marine_plants,10 years later,TP-3,-0.3515854841043886,2.0,-2.0
+215,marine_plants,10 years later,TP-4,-0.0759039022217689,2.0,-2.0
+216,marine_plants,10 years later,EB-1,0.1376642965731978,2.0,-2.0
+217,marine_plants,10 years later,EB-2,0.1090656641697052,2.0,-2.0
+218,marine_plants,10 years later,EB-3,0.1469368521066161,2.0,-2.0
+219,marine_plants,10 years later,EB-4,0.041380542514946,2.0,-2.0
+220,marine_plants,10 years later,JF-1,-0.0703068165939901,2.0,-2.0
+221,marine_plants,10 years later,JF-2,-2.4640054076306592,2.0,-2.0
+222,marine_plants,10 years later,JF-3,-0.2342078750221465,2.0,-2.0
+223,marine_plants,10 years later,JF-4,-0.3926310399783472,2.0,-2.0
+224,marine_plants,20 years later,AP-1,-1.9940931400263149,2.0,-2.0
+225,marine_plants,20 years later,AP-2,0.3041870958790604,2.0,-2.0
+226,marine_plants,20 years later,AP-3,-2.2554300089840496,2.0,-2.0
+227,marine_plants,20 years later,AP-4,-2.251724909298075,2.0,-2.0
+228,marine_plants,20 years later,TP-1,-11.0629016420019,2.0,-2.0
+229,marine_plants,20 years later,TP-2,-22.442394071076688,2.0,-2.0
+230,marine_plants,20 years later,TP-3,-26.15623848435299,2.0,-2.0
+231,marine_plants,20 years later,TP-4,-27.01444722892091,2.0,-2.0
+232,marine_plants,20 years later,EB-1,-9.823438806318125,2.0,-2.0
+233,marine_plants,20 years later,EB-2,-4.255516270886977,2.0,-2.0
+234,marine_plants,20 years later,EB-3,-3.754468051181548,2.0,-2.0
+235,marine_plants,20 years later,EB-4,-1.5992266368984764,2.0,-2.0
+236,marine_plants,20 years later,JF-1,-3.163834802646642,2.0,-2.0
+237,marine_plants,20 years later,JF-2,-1.215634931581039,2.0,-2.0
+238,marine_plants,20 years later,JF-3,-0.6508230179482488,2.0,-2.0
+239,marine_plants,20 years later,JF-4,-4.166466045133744,2.0,-2.0
+240,pelagic_fish,spill year,AP-1,-0.1544930449861748,0.3,-0.3
+241,pelagic_fish,spill year,AP-2,-0.1026407021705053,0.3,-0.3
+242,pelagic_fish,spill year,AP-3,-0.1173559783836533,0.3,-0.3
+243,pelagic_fish,spill year,AP-4,-0.10626312230767,0.3,-0.3
+244,pelagic_fish,spill year,TP-1,-0.9762235217166276,0.3,-0.3
+245,pelagic_fish,spill year,TP-2,-0.8956032410445144,0.3,-0.3
+246,pelagic_fish,spill year,TP-3,-0.3249836593038291,0.3,-0.3
+247,pelagic_fish,spill year,TP-4,-0.4067430115021296,0.3,-0.3
+248,pelagic_fish,spill year,EB-1,-0.3119025866717561,0.3,-0.3
+249,pelagic_fish,spill year,EB-2,-0.3147407464389647,0.3,-0.3
+250,pelagic_fish,spill year,EB-3,-0.0913352806612846,0.3,-0.3
+251,pelagic_fish,spill year,EB-4,-0.0313134551163065,0.3,-0.3
+252,pelagic_fish,spill year,JF-1,-0.8599965739511523,0.3,-0.3
+253,pelagic_fish,spill year,JF-2,-0.645942447076941,0.3,-0.3
+254,pelagic_fish,spill year,JF-3,-0.3934984712830147,0.3,-0.3
+255,pelagic_fish,spill year,JF-4,-0.4294055165318727,0.3,-0.3
+256,pelagic_fish,10 years later,AP-1,-0.9141863654858122,0.3,-0.3
+257,pelagic_fish,10 years later,AP-2,-0.8765125292415714,0.3,-0.3
+258,pelagic_fish,10 years later,AP-3,-1.1239874317719831,0.3,-0.3
+259,pelagic_fish,10 years later,AP-4,-1.3661133835219337,0.3,-0.3
+260,pelagic_fish,10 years later,TP-1,-6.964639106629801,0.3,-0.3
+261,pelagic_fish,10 years later,TP-2,-5.326626354948984,0.3,-0.3
+262,pelagic_fish,10 years later,TP-3,-3.663205245023795,0.3,-0.3
+263,pelagic_fish,10 years later,TP-4,-4.253959204683696,0.3,-0.3
+264,pelagic_fish,10 years later,EB-1,-1.2910995115681392,0.3,-0.3
+265,pelagic_fish,10 years later,EB-2,-1.9044458776949624,0.3,-0.3
+266,pelagic_fish,10 years later,EB-3,-1.1145705066728993,0.3,-0.3
+267,pelagic_fish,10 years later,EB-4,-0.2571904740440309,0.3,-0.3
+268,pelagic_fish,10 years later,JF-1,-3.931218517352789,0.3,-0.3
+269,pelagic_fish,10 years later,JF-2,-3.942234033579283,0.3,-0.3
+270,pelagic_fish,10 years later,JF-3,-5.787601599508677,0.3,-0.3
+271,pelagic_fish,10 years later,JF-4,-3.480777157662672,0.3,-0.3
+272,pelagic_fish,20 years later,AP-1,-1.7278390607926215,0.3,-0.3
+273,pelagic_fish,20 years later,AP-2,1.1513847245655846,0.3,-0.3
+274,pelagic_fish,20 years later,AP-3,-2.786973909998647,0.3,-0.3
+275,pelagic_fish,20 years later,AP-4,-1.451907252431461,0.3,-0.3
+276,pelagic_fish,20 years later,TP-1,-2.796741577268813,0.3,-0.3
+277,pelagic_fish,20 years later,TP-2,-1.5129685975987488,0.3,-0.3
+278,pelagic_fish,20 years later,TP-3,2.402113467302095,0.3,-0.3
+279,pelagic_fish,20 years later,TP-4,5.927672252464201,0.3,-0.3
+280,pelagic_fish,20 years later,EB-1,-3.178621921275974,0.3,-0.3
+281,pelagic_fish,20 years later,EB-2,0.6319526414839027,0.3,-0.3
+282,pelagic_fish,20 years later,EB-3,-2.453923699105613,0.3,-0.3
+283,pelagic_fish,20 years later,EB-4,-1.143812981530816,0.3,-0.3
+284,pelagic_fish,20 years later,JF-1,7.181224595327575,0.3,-0.3
+285,pelagic_fish,20 years later,JF-2,7.054644001747701,0.3,-0.3
+286,pelagic_fish,20 years later,JF-3,3.847494172304368,0.3,-0.3
+287,pelagic_fish,20 years later,JF-4,9.231971202702177,0.3,-0.3
+288,pinnipeds,spill year,AP-1,-0.007044161077237,0.1,-0.1
+289,pinnipeds,spill year,AP-2,-0.0040168039845028,0.1,-0.1
+290,pinnipeds,spill year,AP-3,-0.0030069337321075,0.1,-0.1
+291,pinnipeds,spill year,AP-4,-0.0025704790293407,0.1,-0.1
+292,pinnipeds,spill year,TP-1,-0.0530136332204667,0.1,-0.1
+293,pinnipeds,spill year,TP-2,-0.0357145267704817,0.1,-0.1
+294,pinnipeds,spill year,TP-3,-0.0132687663405078,0.1,-0.1
+295,pinnipeds,spill year,TP-4,-0.0150838257508173,0.1,-0.1
+296,pinnipeds,spill year,EB-1,-0.0140371613061646,0.1,-0.1
+297,pinnipeds,spill year,EB-2,-0.0137542531393408,0.1,-0.1
+298,pinnipeds,spill year,EB-3,-0.0023185827637772,0.1,-0.1
+299,pinnipeds,spill year,EB-4,-0.0006820085386188,0.1,-0.1
+300,pinnipeds,spill year,JF-1,-0.0490251536979668,0.1,-0.1
+301,pinnipeds,spill year,JF-2,-0.0361604890881867,0.1,-0.1
+302,pinnipeds,spill year,JF-3,-0.0170395549362301,0.1,-0.1
+303,pinnipeds,spill year,JF-4,-0.0173884885841901,0.1,-0.1
+304,pinnipeds,10 years later,AP-1,-0.0830080934182581,0.1,-0.1
+305,pinnipeds,10 years later,AP-2,-0.0596162067509703,0.1,-0.1
+306,pinnipeds,10 years later,AP-3,0.0834435282500722,0.1,-0.1
+307,pinnipeds,10 years later,AP-4,0.0680090017686396,0.1,-0.1
+308,pinnipeds,10 years later,TP-1,-0.6181915421807893,0.1,-0.1
+309,pinnipeds,10 years later,TP-2,-0.0608794879271262,0.1,-0.1
+310,pinnipeds,10 years later,TP-3,0.0830862162091988,0.1,-0.1
+311,pinnipeds,10 years later,TP-4,-0.222245483121129,0.1,-0.1
+312,pinnipeds,10 years later,EB-1,-0.2508493026535519,0.1,-0.1
+313,pinnipeds,10 years later,EB-2,-0.1757873321887387,0.1,-0.1
+314,pinnipeds,10 years later,EB-3,-0.1271756773709359,0.1,-0.1
+315,pinnipeds,10 years later,EB-4,-0.0428731288458317,0.1,-0.1
+316,pinnipeds,10 years later,JF-1,-0.2291806143954267,0.1,-0.1
+317,pinnipeds,10 years later,JF-2,-0.1836359957093403,0.1,-0.1
+318,pinnipeds,10 years later,JF-3,-0.2749731924051879,0.1,-0.1
+319,pinnipeds,10 years later,JF-4,-0.2034050119067243,0.1,-0.1
+320,pinnipeds,20 years later,AP-1,-0.2130851059983612,0.1,-0.1
+321,pinnipeds,20 years later,AP-2,-0.0613959630120053,0.1,-0.1
+322,pinnipeds,20 years later,AP-3,-0.1832260582089162,0.1,-0.1
+323,pinnipeds,20 years later,AP-4,-0.201987892566115,0.1,-0.1
+324,pinnipeds,20 years later,TP-1,-1.6007975348699,0.1,-0.1
+325,pinnipeds,20 years later,TP-2,-1.4809514268161317,0.1,-0.1
+326,pinnipeds,20 years later,TP-3,-1.3773217522655106,0.1,-0.1
+327,pinnipeds,20 years later,TP-4,-1.255784996942727,0.1,-0.1
+328,pinnipeds,20 years later,EB-1,-0.6514329132026025,0.1,-0.1
+329,pinnipeds,20 years later,EB-2,-0.4970200712920297,0.1,-0.1
+330,pinnipeds,20 years later,EB-3,-0.3533817484898038,0.1,-0.1
+331,pinnipeds,20 years later,EB-4,-0.2657593187655144,0.1,-0.1
+332,pinnipeds,20 years later,JF-1,-0.8774898903617585,0.1,-0.1
+333,pinnipeds,20 years later,JF-2,-0.8647274347089473,0.1,-0.1
+334,pinnipeds,20 years later,JF-3,-0.9641811256988996,0.1,-0.1
+335,pinnipeds,20 years later,JF-4,-0.8406588050527602,0.1,-0.1
+336,plankton,spill year,AP-1,-1.2499436996522673,0.1,-0.1
+337,plankton,spill year,AP-2,-6.342408630487572,0.1,-0.1
+338,plankton,spill year,AP-3,-4.583256006581992,0.1,-0.1
+339,plankton,spill year,AP-4,-4.18823284691312,0.1,-0.1
+340,plankton,spill year,TP-1,-26.856938402556963,0.1,-0.1
+341,plankton,spill year,TP-2,-24.86679906789429,0.1,-0.1
+342,plankton,spill year,TP-3,-11.651465932584136,0.1,-0.1
+343,plankton,spill year,TP-4,-9.359076096940475,0.1,-0.1
+344,plankton,spill year,EB-1,-18.12419632102588,0.1,-0.1
+345,plankton,spill year,EB-2,-22.314408013024902,0.1,-0.1
+346,plankton,spill year,EB-3,-4.2068698892114735,0.1,-0.1
+347,plankton,spill year,EB-4,-3.200477087747311,0.1,-0.1
+348,plankton,spill year,JF-1,4.860073306158586,0.1,-0.1
+349,plankton,spill year,JF-2,3.066703396212056,0.1,-0.1
+350,plankton,spill year,JF-3,1.3093703807570356,0.1,-0.1
+351,plankton,spill year,JF-4,0.7427828390792923,0.1,-0.1
+352,plankton,10 years later,AP-1,5.041534648374514,0.1,-0.1
+353,plankton,10 years later,AP-2,-44.60737713811909,0.1,-0.1
+354,plankton,10 years later,AP-3,322.3578718180894,0.1,-0.1
+355,plankton,10 years later,AP-4,270.92699782032173,0.1,-0.1
+356,plankton,10 years later,TP-1,-34.75783446106275,0.1,-0.1
+357,plankton,10 years later,TP-2,452.1460793910246,0.1,-0.1
+358,plankton,10 years later,TP-3,1676.3880913159317,0.1,-0.1
+359,plankton,10 years later,TP-4,44.53717639857089,0.1,-0.1
+360,plankton,10 years later,EB-1,-48.57379788215484,0.1,-0.1
+361,plankton,10 years later,EB-2,-115.75850112014498,0.1,-0.1
+362,plankton,10 years later,EB-3,-25.287886167125592,0.1,-0.1
+363,plankton,10 years later,EB-4,-22.713253345429827,0.1,-0.1
+364,plankton,10 years later,JF-1,-83.6897629976161,0.1,-0.1
+365,plankton,10 years later,JF-2,-75.64090133978522,0.1,-0.1
+366,plankton,10 years later,JF-3,-78.21242453296342,0.1,-0.1
+367,plankton,10 years later,JF-4,-81.51749136985335,0.1,-0.1
+368,plankton,20 years later,AP-1,-0.6240109128024196,0.1,-0.1
+369,plankton,20 years later,AP-2,1.2822643449272086,0.1,-0.1
+370,plankton,20 years later,AP-3,-101.88017030977502,0.1,-0.1
+371,plankton,20 years later,AP-4,-96.54026978282022,0.1,-0.1
+372,plankton,20 years later,TP-1,-99.62970577553122,0.1,-0.1
+373,plankton,20 years later,TP-2,-98.58040671097436,0.1,-0.1
+374,plankton,20 years later,TP-3,-94.54925024196496,0.1,-0.1
+375,plankton,20 years later,TP-4,-84.94176939145322,0.1,-0.1
+376,plankton,20 years later,EB-1,-107.54329532553676,0.1,-0.1
+377,plankton,20 years later,EB-2,8.24297745251986,0.1,-0.1
+378,plankton,20 years later,EB-3,-2.723716621606032,0.1,-0.1
+379,plankton,20 years later,EB-4,16.471083712148065,0.1,-0.1
+380,plankton,20 years later,JF-1,2.03398800378013,0.1,-0.1
+381,plankton,20 years later,JF-2,15.924903833988791,0.1,-0.1
+382,plankton,20 years later,JF-3,3.174552694010346,0.1,-0.1
+383,plankton,20 years later,JF-4,-7.518758617420787,0.1,-0.1
+384,salmon,spill year,AP-1,-0.1037911546093963,0.6,-0.6
+385,salmon,spill year,AP-2,-0.094692365480251,0.6,-0.6
+386,salmon,spill year,AP-3,-0.0805566019394812,0.6,-0.6
+387,salmon,spill year,AP-4,-0.06150167204971,0.6,-0.6
+388,salmon,spill year,TP-1,-0.7876969937534628,0.6,-0.6
+389,salmon,spill year,TP-2,-0.5096247822816286,0.6,-0.6
+390,salmon,spill year,TP-3,-0.2735889045027496,0.6,-0.6
+391,salmon,spill year,TP-4,-0.3533067197309726,0.6,-0.6
+392,salmon,spill year,EB-1,-0.2673464394760148,0.6,-0.6
+393,salmon,spill year,EB-2,-0.2192511474840946,0.6,-0.6
+394,salmon,spill year,EB-3,-0.1047852236976685,0.6,-0.6
+395,salmon,spill year,EB-4,-0.0383337087286476,0.6,-0.6
+396,salmon,spill year,JF-1,-0.473322368608097,0.6,-0.6
+397,salmon,spill year,JF-2,-0.3413852413562842,0.6,-0.6
+398,salmon,spill year,JF-3,-0.1988722412851929,0.6,-0.6
+399,salmon,spill year,JF-4,-0.2219053082882337,0.6,-0.6
+400,salmon,10 years later,AP-1,-0.7742088142850218,0.6,-0.6
+401,salmon,10 years later,AP-2,-0.1195003516379389,0.6,-0.6
+402,salmon,10 years later,AP-3,-0.2390595475833767,0.6,-0.6
+403,salmon,10 years later,AP-4,-0.394682711925084,0.6,-0.6
+404,salmon,10 years later,TP-1,-1.8449134568372787,0.6,-0.6
+405,salmon,10 years later,TP-2,-1.141087037718184,0.6,-0.6
+406,salmon,10 years later,TP-3,-0.907920012819596,0.6,-0.6
+407,salmon,10 years later,TP-4,-0.8240503683074315,0.6,-0.6
+408,salmon,10 years later,EB-1,-1.5871218394977882,0.6,-0.6
+409,salmon,10 years later,EB-2,-0.5832385950852412,0.6,-0.6
+410,salmon,10 years later,EB-3,-0.7279920070505068,0.6,-0.6
+411,salmon,10 years later,EB-4,-0.2136831385479571,0.6,-0.6
+412,salmon,10 years later,JF-1,-0.521195095188892,0.6,-0.6
+413,salmon,10 years later,JF-2,-0.3575685440518958,0.6,-0.6
+414,salmon,10 years later,JF-3,-0.6221560110317422,0.6,-0.6
+415,salmon,10 years later,JF-4,-0.6149213523512955,0.6,-0.6
+416,salmon,20 years later,AP-1,-0.0371504468927134,0.6,-0.6
+417,salmon,20 years later,AP-2,-0.1183025543225799,0.6,-0.6
+418,salmon,20 years later,AP-3,-0.0909751058783682,0.6,-0.6
+419,salmon,20 years later,AP-4,-0.3757447213878138,0.6,-0.6
+420,salmon,20 years later,TP-1,-5.8554813103643015,0.6,-0.6
+421,salmon,20 years later,TP-2,-6.443856300449293,0.6,-0.6
+422,salmon,20 years later,TP-3,-5.954584195411376,0.6,-0.6
+423,salmon,20 years later,TP-4,-5.261980415458122,0.6,-0.6
+424,salmon,20 years later,EB-1,-1.7549947335073566,0.6,-0.6
+425,salmon,20 years later,EB-2,-1.0434059281249344,0.6,-0.6
+426,salmon,20 years later,EB-3,-0.7598573626464911,0.6,-0.6
+427,salmon,20 years later,EB-4,-0.2002606532906666,0.6,-0.6
+428,salmon,20 years later,JF-1,-2.7579620561933518,0.6,-0.6
+429,salmon,20 years later,JF-2,-2.713540878347554,0.6,-0.6
+430,salmon,20 years later,JF-3,-3.100502792386909,0.6,-0.6
+431,salmon,20 years later,JF-4,-2.661168395716274,0.6,-0.6
+432,seabirds,spill year,AP-1,-0.0025521551716589,1.2,-1.2
+433,seabirds,spill year,AP-2,-0.0007715731399265,1.2,-1.2
+434,seabirds,spill year,AP-3,-0.0011588890826963,1.2,-1.2
+435,seabirds,spill year,AP-4,-0.0011682286884612,1.2,-1.2
+436,seabirds,spill year,TP-1,0.0144645565478845,1.2,-1.2
+437,seabirds,spill year,TP-2,0.0088130995342272,1.2,-1.2
+438,seabirds,spill year,TP-3,-0.0011794361261413,1.2,-1.2
+439,seabirds,spill year,TP-4,-0.0030725953205595,1.2,-1.2
+440,seabirds,spill year,EB-1,-0.0094662337992762,1.2,-1.2
+441,seabirds,spill year,EB-2,-0.0089898361449125,1.2,-1.2
+442,seabirds,spill year,EB-3,-0.0016815944890735,1.2,-1.2
+443,seabirds,spill year,EB-4,-0.0010268002379226,1.2,-1.2
+444,seabirds,spill year,JF-1,0.0058056554527774,1.2,-1.2
+445,seabirds,spill year,JF-2,0.0082161871460062,1.2,-1.2
+446,seabirds,spill year,JF-3,-2.946257586067258e-05,1.2,-1.2
+447,seabirds,spill year,JF-4,-0.0017582276123767,1.2,-1.2
+448,seabirds,10 years later,AP-1,0.101572125377794,1.2,-1.2
+449,seabirds,10 years later,AP-2,0.2207852602979071,1.2,-1.2
+450,seabirds,10 years later,AP-3,0.5487028976085973,1.2,-1.2
+451,seabirds,10 years later,AP-4,0.1827138821132623,1.2,-1.2
+452,seabirds,10 years later,TP-1,0.5187356874145171,1.2,-1.2
+453,seabirds,10 years later,TP-2,0.0620093629837886,1.2,-1.2
+454,seabirds,10 years later,TP-3,0.4729014103596379,1.2,-1.2
+455,seabirds,10 years later,TP-4,0.4459424482600583,1.2,-1.2
+456,seabirds,10 years later,EB-1,-0.0982855582075209,1.2,-1.2
+457,seabirds,10 years later,EB-2,-0.0203941784930949,1.2,-1.2
+458,seabirds,10 years later,EB-3,-0.0104019240155461,1.2,-1.2
+459,seabirds,10 years later,EB-4,0.0274483185695972,1.2,-1.2
+460,seabirds,10 years later,JF-1,0.0598841562822688,1.2,-1.2
+461,seabirds,10 years later,JF-2,0.0602124241263646,1.2,-1.2
+462,seabirds,10 years later,JF-3,0.2702194370525884,1.2,-1.2
+463,seabirds,10 years later,JF-4,0.058980999930967,1.2,-1.2
+464,seabirds,20 years later,AP-1,0.2394404854787263,1.2,-1.2
+465,seabirds,20 years later,AP-2,0.5134245270191684,1.2,-1.2
+466,seabirds,20 years later,AP-3,0.6584909527890421,1.2,-1.2
+467,seabirds,20 years later,AP-4,-0.0836349649794426,1.2,-1.2
+468,seabirds,20 years later,TP-1,-1.4629377975335207,1.2,-1.2
+469,seabirds,20 years later,TP-2,-1.4791143333369956,1.2,-1.2
+470,seabirds,20 years later,TP-3,-1.4101682907317292,1.2,-1.2
+471,seabirds,20 years later,TP-4,-1.2191078591645912,1.2,-1.2
+472,seabirds,20 years later,EB-1,-0.7842467840859606,1.2,-1.2
+473,seabirds,20 years later,EB-2,-0.7054646700006307,1.2,-1.2
+474,seabirds,20 years later,EB-3,-0.6024006285264338,1.2,-1.2
+475,seabirds,20 years later,EB-4,-0.1585011170102129,1.2,-1.2
+476,seabirds,20 years later,JF-1,-0.5094368975276037,1.2,-1.2
+477,seabirds,20 years later,JF-2,-0.2541680053115064,1.2,-1.2
+478,seabirds,20 years later,JF-3,-0.2174860485949881,1.2,-1.2
+479,seabirds,20 years later,JF-4,-0.6668155703770717,1.2,-1.2
