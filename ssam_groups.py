@@ -22,6 +22,14 @@ mammals = {
     'porpoises':'Harbor_porpoise', 'seals':'Harbor_seals', 'humpbacks':'Humpback_whales','sealions':'Sealions',
     'resident orcas':'Orcas_resident', 'transient orcas':'Orcas_transient',
 }
+
+pinnipeds = {
+    'porpoises':'Harbor_porpoise', 'seals':'Harbor_seals', 'sealions':'Sealions',
+}
+
+whales = {
+    'humpbacks':'Humpback_whales','resident orcas':'Orcas_resident', 'transient orcas':'Orcas_transient',
+}
     
 other_fish = {
     'benthopelagic':'Benthopelagic', 'small pelagic':'Small_pelagic_fish', 'small demersal':'Small_Demersal_fish', 
