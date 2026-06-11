@@ -1,0 +1,2353 @@
+,bio_group,time_label,scenario,percent_change,sensitivity,sensitivity_negative
+0,benthic grazers,spill year,AP-FlTs,-3.296988626555475e-06,0.4,-0.4
+1,other filter feeders,spill year,AP-FlTs,1.0210503553764738e-06,0.0,-0.0
+2,macrobenthos,spill year,AP-FlTs,0.0011370509398478,0.09,-0.09
+3,sponges,spill year,AP-FlTs,0.0003908168126898,0.0,-0.0
+4,bivalves,spill year,AP-FlTs,0.1478047215966116,0.02,-0.02
+5,crabs,spill year,AP-FlTs,0.0084651592375806,0.02,-0.02
+6,dungeness crabs,spill year,AP-FlTs,-0.0088119100910555,0.004,-0.004
+7,benthic grazers,spill year,AP-FlTn,-1.830580631523304e-06,0.4,-0.4
+8,other filter feeders,spill year,AP-FlTn,6.321280388021933e-07,0.0,-0.0
+9,macrobenthos,spill year,AP-FlTn,0.0042972207757507,0.09,-0.09
+10,sponges,spill year,AP-FlTn,0.0061034527003567,0.0,-0.0
+11,bivalves,spill year,AP-FlTn,0.5466569968744617,0.02,-0.02
+12,crabs,spill year,AP-FlTn,0.0368190390364508,0.02,-0.02
+13,dungeness crabs,spill year,AP-FlTn,-0.0116289377212419,0.004,-0.004
+14,benthic grazers,spill year,AP-FhTs,-7.004076352234989e-06,0.4,-0.4
+15,other filter feeders,spill year,AP-FhTs,4.854007196186672e-07,0.0,-0.0
+16,macrobenthos,spill year,AP-FhTs,0.0004413273977599,0.09,-0.09
+17,sponges,spill year,AP-FhTs,0.0007729388395771,0.0,-0.0
+18,bivalves,spill year,AP-FhTs,0.123979149139819,0.02,-0.02
+19,crabs,spill year,AP-FhTs,0.0038536593836457,0.02,-0.02
+20,dungeness crabs,spill year,AP-FhTs,-0.002241620298149,0.004,-0.004
+21,benthic grazers,spill year,AP-FhTn,-6.977307998035087e-06,0.4,-0.4
+22,other filter feeders,spill year,AP-FhTn,5.109494161104067e-07,0.0,-0.0
+23,macrobenthos,spill year,AP-FhTn,0.0003224777151311,0.09,-0.09
+24,sponges,spill year,AP-FhTn,0.0003028272465011,0.0,-0.0
+25,bivalves,spill year,AP-FhTn,0.0769682566066132,0.02,-0.02
+26,crabs,spill year,AP-FhTn,0.002601336017749,0.02,-0.02
+27,dungeness crabs,spill year,AP-FhTn,-0.002389746075293,0.004,-0.004
+28,benthic grazers,spill year,TP-FlTs,6.447363245509763e-05,0.4,-0.4
+29,other filter feeders,spill year,TP-FlTs,1.6148826476047873e-05,0.0,-0.0
+30,macrobenthos,spill year,TP-FlTs,0.0418249612007981,0.09,-0.09
+31,sponges,spill year,TP-FlTs,0.0097763427026054,0.0,-0.0
+32,bivalves,spill year,TP-FlTs,2.792550436600316,0.02,-0.02
+33,crabs,spill year,TP-FlTs,0.3355118337373008,0.02,-0.02
+34,dungeness crabs,spill year,TP-FlTs,0.0108337672300784,0.004,-0.004
+35,benthic grazers,spill year,TP-FlTn,6.368791749533642e-05,0.4,-0.4
+36,other filter feeders,spill year,TP-FlTn,1.2263916016053145e-05,0.0,-0.0
+37,macrobenthos,spill year,TP-FlTn,0.0435663191701518,0.09,-0.09
+38,sponges,spill year,TP-FlTn,0.007751087460428,0.0,-0.0
+39,bivalves,spill year,TP-FlTn,2.5040798899552907,0.02,-0.02
+40,crabs,spill year,TP-FlTn,0.3092844359266156,0.02,-0.02
+41,dungeness crabs,spill year,TP-FlTn,0.0041484544641479,0.004,-0.004
+42,benthic grazers,spill year,TP-FhTs,6.154546272618688e-06,0.4,-0.4
+43,other filter feeders,spill year,TP-FhTs,3.153535055311352e-06,0.0,-0.0
+44,macrobenthos,spill year,TP-FhTs,0.0081890801647332,0.09,-0.09
+45,sponges,spill year,TP-FhTs,0.0051321333737197,0.0,-0.0
+46,bivalves,spill year,TP-FhTs,0.9197497788511422,0.02,-0.02
+47,crabs,spill year,TP-FhTs,0.0554162479986297,0.02,-0.02
+48,dungeness crabs,spill year,TP-FhTs,-0.0088558059350485,0.004,-0.004
+49,benthic grazers,spill year,TP-FhTn,1.6685054005094457e-05,0.4,-0.4
+50,other filter feeders,spill year,TP-FhTn,2.989413006027064e-06,0.0,-0.0
+51,macrobenthos,spill year,TP-FhTn,0.0083580114353054,0.09,-0.09
+52,sponges,spill year,TP-FhTn,0.0008791795472973,0.0,-0.0
+53,bivalves,spill year,TP-FhTn,0.9292255059793586,0.02,-0.02
+54,crabs,spill year,TP-FhTn,0.0625058806695388,0.02,-0.02
+55,dungeness crabs,spill year,TP-FhTn,-0.0060177360520996,0.004,-0.004
+56,benthic grazers,spill year,EB-FlTs,-7.742766594542871e-06,0.4,-0.4
+57,other filter feeders,spill year,EB-FlTs,1.4385511448722357e-06,0.0,-0.0
+58,macrobenthos,spill year,EB-FlTs,0.0204872012099732,0.09,-0.09
+59,sponges,spill year,EB-FlTs,0.0452125890271881,0.0,-0.0
+60,bivalves,spill year,EB-FlTs,0.4491301186693386,0.02,-0.02
+61,crabs,spill year,EB-FlTs,0.0421624549719945,0.02,-0.02
+62,dungeness crabs,spill year,EB-FlTs,-0.0774828426794549,0.004,-0.004
+63,benthic grazers,spill year,EB-FlTn,-1.7248075656617345e-05,0.4,-0.4
+64,other filter feeders,spill year,EB-FlTn,1.4861178510017226e-06,0.0,-0.0
+65,macrobenthos,spill year,EB-FlTn,0.0066443893240286,0.09,-0.09
+66,sponges,spill year,EB-FlTn,0.2948262348085873,0.0,-0.0
+67,bivalves,spill year,EB-FlTn,0.5040922341701171,0.02,-0.02
+68,crabs,spill year,EB-FlTn,0.0503152200911127,0.02,-0.02
+69,dungeness crabs,spill year,EB-FlTn,-0.0697882712673236,0.004,-0.004
+70,benthic grazers,spill year,EB-FhTs,-3.443779161838023e-06,0.4,-0.4
+71,other filter feeders,spill year,EB-FhTs,4.938596198655887e-07,0.0,-0.0
+72,macrobenthos,spill year,EB-FhTs,0.0009987985856385,0.09,-0.09
+73,sponges,spill year,EB-FhTs,0.0081779743289933,0.0,-0.0
+74,bivalves,spill year,EB-FhTs,0.1019562702125886,0.02,-0.02
+75,crabs,spill year,EB-FhTs,0.0046580566991583,0.02,-0.02
+76,dungeness crabs,spill year,EB-FhTs,-0.0126341920328787,0.004,-0.004
+77,benthic grazers,spill year,EB-FhTn,-4.697069833081713e-06,0.4,-0.4
+78,other filter feeders,spill year,EB-FhTn,1.2369660851163644e-07,0.0,-0.0
+79,macrobenthos,spill year,EB-FhTn,0.0003131852277737,0.09,-0.09
+80,sponges,spill year,EB-FhTn,0.003776141408851,0.0,-0.0
+81,bivalves,spill year,EB-FhTn,0.0973985475456906,0.02,-0.02
+82,crabs,spill year,EB-FhTn,0.0030684440575301,0.02,-0.02
+83,dungeness crabs,spill year,EB-FhTn,-0.0067811610855561,0.004,-0.004
+84,benthic grazers,spill year,JF-FlTs,5.643124456611304e-06,0.4,-0.4
+85,other filter feeders,spill year,JF-FlTs,1.2343029243133684e-05,0.0,-0.0
+86,macrobenthos,spill year,JF-FlTs,0.0279653335938601,0.09,-0.09
+87,sponges,spill year,JF-FlTs,0.0016868343335696,0.0,-0.0
+88,bivalves,spill year,JF-FlTs,1.4411837011875095,0.02,-0.02
+89,crabs,spill year,JF-FlTs,0.1962565724473952,0.02,-0.02
+90,dungeness crabs,spill year,JF-FlTs,0.0200733238902017,0.004,-0.004
+91,benthic grazers,spill year,JF-FlTn,9.440796722159916e-06,0.4,-0.4
+92,other filter feeders,spill year,JF-FlTn,8.567650144897243e-06,0.0,-0.0
+93,macrobenthos,spill year,JF-FlTn,0.0224286099586468,0.09,-0.09
+94,sponges,spill year,JF-FlTn,0.0015395081725211,0.0,-0.0
+95,bivalves,spill year,JF-FlTn,1.0857251898298337,0.02,-0.02
+96,crabs,spill year,JF-FlTn,0.145030847118055,0.02,-0.02
+97,dungeness crabs,spill year,JF-FlTn,0.0090164234602507,0.004,-0.004
+98,benthic grazers,spill year,JF-FhTs,1.4744321186199729e-05,0.4,-0.4
+99,other filter feeders,spill year,JF-FhTs,3.312564889057512e-06,0.0,-0.0
+100,macrobenthos,spill year,JF-FhTs,0.0063016696252304,0.09,-0.09
+101,sponges,spill year,JF-FhTs,0.0003644158685256,0.0,-0.0
+102,bivalves,spill year,JF-FhTs,0.582997413658326,0.02,-0.02
+103,crabs,spill year,JF-FhTs,0.0494158552337475,0.02,-0.02
+104,dungeness crabs,spill year,JF-FhTs,0.0026011810239534,0.004,-0.004
+105,benthic grazers,spill year,JF-FhTn,1.6381704659451657e-06,0.4,-0.4
+106,other filter feeders,spill year,JF-FhTn,3.5218761684774336e-06,0.0,-0.0
+107,macrobenthos,spill year,JF-FhTn,0.0055171263202202,0.09,-0.09
+108,sponges,spill year,JF-FhTn,0.0003720579321742,0.0,-0.0
+109,bivalves,spill year,JF-FhTn,0.5071633677294907,0.02,-0.02
+110,crabs,spill year,JF-FhTn,0.0399768557208579,0.02,-0.02
+111,dungeness crabs,spill year,JF-FhTn,-0.0001135978836885,0.004,-0.004
+112,benthic grazers,10 years later,AP-FlTs,0.0024144453417473,0.4,-0.4
+113,other filter feeders,10 years later,AP-FlTs,1.3528194786616154e-05,0.0,-0.0
+114,macrobenthos,10 years later,AP-FlTs,0.0797037866495875,0.09,-0.09
+115,sponges,10 years later,AP-FlTs,0.0288041712692921,0.0,-0.0
+116,bivalves,10 years later,AP-FlTs,0.5799690914023659,0.02,-0.02
+117,crabs,10 years later,AP-FlTs,0.280323794768722,0.02,-0.02
+118,dungeness crabs,10 years later,AP-FlTs,-0.1061233114718729,0.004,-0.004
+119,benthic grazers,10 years later,AP-FlTn,0.00110252602179,0.4,-0.4
+120,other filter feeders,10 years later,AP-FlTn,-1.2517856196048172e-06,0.0,-0.0
+121,macrobenthos,10 years later,AP-FlTn,0.2269129219012677,0.09,-0.09
+122,sponges,10 years later,AP-FlTn,0.184591473137452,0.0,-0.0
+123,bivalves,10 years later,AP-FlTn,1.865643821595886,0.02,-0.02
+124,crabs,10 years later,AP-FlTn,0.8617152344169154,0.02,-0.02
+125,dungeness crabs,10 years later,AP-FlTn,0.0463337220550919,0.004,-0.004
+126,benthic grazers,10 years later,AP-FhTs,0.006151922246711,0.4,-0.4
+127,other filter feeders,10 years later,AP-FhTs,7.137055213490839e-06,0.0,-0.0
+128,macrobenthos,10 years later,AP-FhTs,0.1532452088838454,0.09,-0.09
+129,sponges,10 years later,AP-FhTs,0.0232589695611018,0.0,-0.0
+130,bivalves,10 years later,AP-FhTs,1.6491542718186647,0.02,-0.02
+131,crabs,10 years later,AP-FhTs,0.5854131521578543,0.02,-0.02
+132,dungeness crabs,10 years later,AP-FhTs,-0.1732250840806748,0.004,-0.004
+133,benthic grazers,10 years later,AP-FhTn,0.0040761882155182,0.4,-0.4
+134,other filter feeders,10 years later,AP-FhTn,9.91264792471469e-06,0.0,-0.0
+135,macrobenthos,10 years later,AP-FhTn,0.1731917151369222,0.09,-0.09
+136,sponges,10 years later,AP-FhTn,0.0101763121806763,0.0,-0.0
+137,bivalves,10 years later,AP-FhTn,1.9774865662101735,0.02,-0.02
+138,crabs,10 years later,AP-FhTn,0.6927911347168969,0.02,-0.02
+139,dungeness crabs,10 years later,AP-FhTn,-0.1272942522162146,0.004,-0.004
+140,benthic grazers,10 years later,TP-FlTs,0.0027004349107739,0.4,-0.4
+141,other filter feeders,10 years later,TP-FlTs,0.0001254507194792,0.0,-0.0
+142,macrobenthos,10 years later,TP-FlTs,0.8859758039983845,0.09,-0.09
+143,sponges,10 years later,TP-FlTs,0.0536792621845361,0.0,-0.0
+144,bivalves,10 years later,TP-FlTs,4.819700836764351,0.02,-0.02
+145,crabs,10 years later,TP-FlTs,2.7125800515583443,0.02,-0.02
+146,dungeness crabs,10 years later,TP-FlTs,0.6406929973074682,0.004,-0.004
+147,benthic grazers,10 years later,TP-FlTn,0.0029859071707383,0.4,-0.4
+148,other filter feeders,10 years later,TP-FlTn,0.0001249174315764,0.0,-0.0
+149,macrobenthos,10 years later,TP-FlTn,0.7829253017088256,0.09,-0.09
+150,sponges,10 years later,TP-FlTn,0.0280137008632497,0.0,-0.0
+151,bivalves,10 years later,TP-FlTn,3.452396891873022,0.02,-0.02
+152,crabs,10 years later,TP-FlTn,1.4261873865685004,0.02,-0.02
+153,dungeness crabs,10 years later,TP-FlTn,0.1409429457656319,0.004,-0.004
+154,benthic grazers,10 years later,TP-FhTs,0.0037614357033088,0.4,-0.4
+155,other filter feeders,10 years later,TP-FhTs,0.0001110691371097,0.0,-0.0
+156,macrobenthos,10 years later,TP-FhTs,0.6998242499595575,0.09,-0.09
+157,sponges,10 years later,TP-FhTs,0.1594526363876136,0.0,-0.0
+158,bivalves,10 years later,TP-FhTs,3.3234629329213616,0.02,-0.02
+159,crabs,10 years later,TP-FhTs,1.216451427891374,0.02,-0.02
+160,dungeness crabs,10 years later,TP-FhTs,0.0859307842557832,0.004,-0.004
+161,benthic grazers,10 years later,TP-FhTn,0.0061902948532477,0.4,-0.4
+162,other filter feeders,10 years later,TP-FhTn,6.15406025472609e-05,0.0,-0.0
+163,macrobenthos,10 years later,TP-FhTn,0.7714520375332379,0.09,-0.09
+164,sponges,10 years later,TP-FhTn,0.0071072344767442,0.0,-0.0
+165,bivalves,10 years later,TP-FhTn,4.466181597159147,0.02,-0.02
+166,crabs,10 years later,TP-FhTn,2.113638292171083,0.02,-0.02
+167,dungeness crabs,10 years later,TP-FhTn,0.4043366314371299,0.004,-0.004
+168,benthic grazers,10 years later,EB-FlTs,0.0032911243643907,0.4,-0.4
+169,other filter feeders,10 years later,EB-FlTs,2.9798659340052325e-05,0.0,-0.0
+170,macrobenthos,10 years later,EB-FlTs,0.6875955295436276,0.09,-0.09
+171,sponges,10 years later,EB-FlTs,0.67605850308321,0.0,-0.0
+172,bivalves,10 years later,EB-FlTs,0.4194305364319195,0.02,-0.02
+173,crabs,10 years later,EB-FlTs,0.2550768201968978,0.02,-0.02
+174,dungeness crabs,10 years later,EB-FlTs,-0.7161834736103101,0.004,-0.004
+175,benthic grazers,10 years later,EB-FlTn,0.0033073909071923,0.4,-0.4
+176,other filter feeders,10 years later,EB-FlTn,2.676205421714428e-05,0.0,-0.0
+177,macrobenthos,10 years later,EB-FlTn,0.2197411501875024,0.09,-0.09
+178,sponges,10 years later,EB-FlTn,0.8300481880725297,0.0,-0.0
+179,bivalves,10 years later,EB-FlTn,0.2830175910821575,0.02,-0.02
+180,crabs,10 years later,EB-FlTn,0.4327379372224271,0.02,-0.02
+181,dungeness crabs,10 years later,EB-FlTn,-0.7279088599004835,0.004,-0.004
+182,benthic grazers,10 years later,EB-FhTs,0.002316242012279,0.4,-0.4
+183,other filter feeders,10 years later,EB-FhTs,4.158512072471865e-05,0.0,-0.0
+184,macrobenthos,10 years later,EB-FhTs,0.4864457313822345,0.09,-0.09
+185,sponges,10 years later,EB-FhTs,0.450598598871732,0.0,-0.0
+186,bivalves,10 years later,EB-FhTs,0.0177333757170439,0.02,-0.02
+187,crabs,10 years later,EB-FhTs,0.2766264248302619,0.02,-0.02
+188,dungeness crabs,10 years later,EB-FhTs,-0.7200004853841424,0.004,-0.004
+189,benthic grazers,10 years later,EB-FhTn,0.0005265069537685,0.4,-0.4
+190,other filter feeders,10 years later,EB-FhTn,1.0645962911226547e-05,0.0,-0.0
+191,macrobenthos,10 years later,EB-FhTn,0.168698302993242,0.09,-0.09
+192,sponges,10 years later,EB-FhTn,0.3906878763740185,0.0,-0.0
+193,bivalves,10 years later,EB-FhTn,0.0728676302391706,0.02,-0.02
+194,crabs,10 years later,EB-FhTn,0.3713869034446482,0.02,-0.02
+195,dungeness crabs,10 years later,EB-FhTn,-0.6414708655886336,0.004,-0.004
+196,benthic grazers,10 years later,JF-FlTs,0.0006387249788852,0.4,-0.4
+197,other filter feeders,10 years later,JF-FlTs,0.0001046544293004,0.0,-0.0
+198,macrobenthos,10 years later,JF-FlTs,0.6048998831006402,0.09,-0.09
+199,sponges,10 years later,JF-FlTs,0.0069706693848425,0.0,-0.0
+200,bivalves,10 years later,JF-FlTs,2.5862080378497687,0.02,-0.02
+201,crabs,10 years later,JF-FlTs,1.3051202633050265,0.02,-0.02
+202,dungeness crabs,10 years later,JF-FlTs,0.4403207416683319,0.004,-0.004
+203,benthic grazers,10 years later,JF-FlTn,0.0009482384301096,0.4,-0.4
+204,other filter feeders,10 years later,JF-FlTn,6.557165566078993e-05,0.0,-0.0
+205,macrobenthos,10 years later,JF-FlTn,0.5632241244555969,0.09,-0.09
+206,sponges,10 years later,JF-FlTn,0.0074833032163157,0.0,-0.0
+207,bivalves,10 years later,JF-FlTn,2.568088277499303,0.02,-0.02
+208,crabs,10 years later,JF-FlTn,1.3094072108946977,0.02,-0.02
+209,dungeness crabs,10 years later,JF-FlTn,0.4393343354027301,0.004,-0.004
+210,benthic grazers,10 years later,JF-FhTs,0.0013568904209115,0.4,-0.4
+211,other filter feeders,10 years later,JF-FhTs,8.708990859584986e-05,0.0,-0.0
+212,macrobenthos,10 years later,JF-FhTs,0.5330807657327741,0.09,-0.09
+213,sponges,10 years later,JF-FhTs,0.00802037302845,0.0,-0.0
+214,bivalves,10 years later,JF-FhTs,2.7530916741731914,0.02,-0.02
+215,crabs,10 years later,JF-FhTs,1.357688995123851,0.02,-0.02
+216,dungeness crabs,10 years later,JF-FhTs,0.4332577968457096,0.004,-0.004
+217,benthic grazers,10 years later,JF-FhTn,0.0018530730846011,0.4,-0.4
+218,other filter feeders,10 years later,JF-FhTn,9.720920917111188e-05,0.0,-0.0
+219,macrobenthos,10 years later,JF-FhTn,0.5223081406233954,0.09,-0.09
+220,sponges,10 years later,JF-FhTn,0.0069929984813921,0.0,-0.0
+221,bivalves,10 years later,JF-FhTn,2.52840171293629,0.02,-0.02
+222,crabs,10 years later,JF-FhTn,1.2841061603572124,0.02,-0.02
+223,dungeness crabs,10 years later,JF-FhTn,0.3966870106125952,0.004,-0.004
+224,benthic grazers,20 years later,AP-FlTs,-1.5401457235268756,0.4,-0.4
+225,other filter feeders,20 years later,AP-FlTs,3.592735018376203e-05,0.0,-0.0
+226,macrobenthos,20 years later,AP-FlTs,0.1670456922042484,0.09,-0.09
+227,sponges,20 years later,AP-FlTs,0.3922527874764991,0.0,-0.0
+228,bivalves,20 years later,AP-FlTs,0.8853292205855068,0.02,-0.02
+229,crabs,20 years later,AP-FlTs,0.5530697637589066,0.02,-0.02
+230,dungeness crabs,20 years later,AP-FlTs,-0.138394245254958,0.004,-0.004
+231,benthic grazers,20 years later,AP-FlTn,-0.0539652398573675,0.4,-0.4
+232,other filter feeders,20 years later,AP-FlTn,-7.439076803450462e-05,0.0,-0.0
+233,macrobenthos,20 years later,AP-FlTn,0.5228004497447314,0.09,-0.09
+234,sponges,20 years later,AP-FlTn,0.1042114797715543,0.0,-0.0
+235,bivalves,20 years later,AP-FlTn,0.8418596600474393,0.02,-0.02
+236,crabs,20 years later,AP-FlTn,0.7753283633170183,0.02,-0.02
+237,dungeness crabs,20 years later,AP-FlTn,-0.0383035322290226,0.004,-0.004
+238,benthic grazers,20 years later,AP-FhTs,-2.555298752563673,0.4,-0.4
+239,other filter feeders,20 years later,AP-FhTs,-0.0001555803817887,0.0,-0.0
+240,macrobenthos,20 years later,AP-FhTs,0.2949375229054807,0.09,-0.09
+241,sponges,20 years later,AP-FhTs,0.3454059454566893,0.0,-0.0
+242,bivalves,20 years later,AP-FhTs,0.4436363721531888,0.02,-0.02
+243,crabs,20 years later,AP-FhTs,0.7879682907674823,0.02,-0.02
+244,dungeness crabs,20 years later,AP-FhTs,-0.1564679003349001,0.004,-0.004
+245,benthic grazers,20 years later,AP-FhTn,-1.2170922570817422,0.4,-0.4
+246,other filter feeders,20 years later,AP-FhTn,-0.0001383801446985,0.0,-0.0
+247,macrobenthos,20 years later,AP-FhTn,0.6424358301841515,0.09,-0.09
+248,sponges,20 years later,AP-FhTn,0.7050863422354059,0.0,-0.0
+249,bivalves,20 years later,AP-FhTn,1.421741156760481,0.02,-0.02
+250,crabs,20 years later,AP-FhTn,1.3475056927115148,0.02,-0.02
+251,dungeness crabs,20 years later,AP-FhTn,0.1058169816754439,0.004,-0.004
+252,benthic grazers,20 years later,TP-FlTs,-1.5291453963116597,0.4,-0.4
+253,other filter feeders,20 years later,TP-FlTs,-1.9744894685924663e-05,0.0,-0.0
+254,macrobenthos,20 years later,TP-FlTs,1.6650681748572316,0.09,-0.09
+255,sponges,20 years later,TP-FlTs,0.1275822707647256,0.0,-0.0
+256,bivalves,20 years later,TP-FlTs,6.203913794502625,0.02,-0.02
+257,crabs,20 years later,TP-FlTs,3.0880232481773406,0.02,-0.02
+258,dungeness crabs,20 years later,TP-FlTs,0.7936318729471648,0.004,-0.004
+259,benthic grazers,20 years later,TP-FlTn,-1.737626375883039,0.4,-0.4
+260,other filter feeders,20 years later,TP-FlTn,-0.0001111014580668,0.0,-0.0
+261,macrobenthos,20 years later,TP-FlTn,1.5647093593516015,0.09,-0.09
+262,sponges,20 years later,TP-FlTn,0.1096565377586289,0.0,-0.0
+263,bivalves,20 years later,TP-FlTn,4.229099668039149,0.02,-0.02
+264,crabs,20 years later,TP-FlTn,1.9802492598439687,0.02,-0.02
+265,dungeness crabs,20 years later,TP-FlTn,0.5547619849576746,0.004,-0.004
+266,benthic grazers,20 years later,TP-FhTs,-0.2882907079960861,0.4,-0.4
+267,other filter feeders,20 years later,TP-FhTs,9.458233096726332e-05,0.0,-0.0
+268,macrobenthos,20 years later,TP-FhTs,1.5742882918671652,0.09,-0.09
+269,sponges,20 years later,TP-FhTs,0.266738483397777,0.0,-0.0
+270,bivalves,20 years later,TP-FhTs,5.375615615054485,0.02,-0.02
+271,crabs,20 years later,TP-FhTs,1.960581343836609,0.02,-0.02
+272,dungeness crabs,20 years later,TP-FhTs,0.1672363698816514,0.004,-0.004
+273,benthic grazers,20 years later,TP-FhTn,-1.0145876716264546,0.4,-0.4
+274,other filter feeders,20 years later,TP-FhTn,-0.0001497867305966,0.0,-0.0
+275,macrobenthos,20 years later,TP-FhTn,1.4936588381733618,0.09,-0.09
+276,sponges,20 years later,TP-FhTn,0.0403009219453576,0.0,-0.0
+277,bivalves,20 years later,TP-FhTn,3.763520273783105,0.02,-0.02
+278,crabs,20 years later,TP-FhTn,1.7649612367151235,0.02,-0.02
+279,dungeness crabs,20 years later,TP-FhTn,0.3023651158905904,0.004,-0.004
+280,benthic grazers,20 years later,EB-FlTs,-2.338202729191652,0.4,-0.4
+281,other filter feeders,20 years later,EB-FlTs,5.321590408335908e-05,0.0,-0.0
+282,macrobenthos,20 years later,EB-FlTs,1.599779334515361,0.09,-0.09
+283,sponges,20 years later,EB-FlTs,1.5706075443587597,0.0,-0.0
+284,bivalves,20 years later,EB-FlTs,0.026780081517308,0.02,-0.02
+285,crabs,20 years later,EB-FlTs,0.014325262438386,0.02,-0.02
+286,dungeness crabs,20 years later,EB-FlTs,-0.9579211307516156,0.004,-0.004
+287,benthic grazers,20 years later,EB-FlTn,-5.267158692451924,0.4,-0.4
+288,other filter feeders,20 years later,EB-FlTn,-5.175813988511635e-06,0.0,-0.0
+289,macrobenthos,20 years later,EB-FlTn,0.086428106245151,0.09,-0.09
+290,sponges,20 years later,EB-FlTn,1.8868363332254836,0.0,-0.0
+291,bivalves,20 years later,EB-FlTn,0.5493954279199631,0.02,-0.02
+292,crabs,20 years later,EB-FlTn,0.3200420987982122,0.02,-0.02
+293,dungeness crabs,20 years later,EB-FlTn,-1.1894216186012163,0.004,-0.004
+294,benthic grazers,20 years later,EB-FhTs,-4.594053084928717,0.4,-0.4
+295,other filter feeders,20 years later,EB-FhTs,9.933721969446196e-05,0.0,-0.0
+296,macrobenthos,20 years later,EB-FhTs,1.174729101906946,0.09,-0.09
+297,sponges,20 years later,EB-FhTs,1.2937948891104112,0.0,-0.0
+298,bivalves,20 years later,EB-FhTs,-0.042846785716033,0.02,-0.02
+299,crabs,20 years later,EB-FhTs,0.0689017173911787,0.02,-0.02
+300,dungeness crabs,20 years later,EB-FhTs,-1.082341096571826,0.004,-0.004
+301,benthic grazers,20 years later,EB-FhTn,-4.895975395263919,0.4,-0.4
+302,other filter feeders,20 years later,EB-FhTn,4.271216444973192e-05,0.0,-0.0
+303,macrobenthos,20 years later,EB-FhTn,-0.1579322981922759,0.09,-0.09
+304,sponges,20 years later,EB-FhTn,0.4939692123472117,0.0,-0.0
+305,bivalves,20 years later,EB-FhTn,0.8896755460856776,0.02,-0.02
+306,crabs,20 years later,EB-FhTn,0.3905692529714066,0.02,-0.02
+307,dungeness crabs,20 years later,EB-FhTn,-0.5377872052339083,0.004,-0.004
+308,benthic grazers,20 years later,JF-FlTs,-0.3817856268461317,0.4,-0.4
+309,other filter feeders,20 years later,JF-FlTs,-5.1703124870350337e-05,0.0,-0.0
+310,macrobenthos,20 years later,JF-FlTs,1.195218109487195,0.09,-0.09
+311,sponges,20 years later,JF-FlTs,0.0044476120873548,0.0,-0.0
+312,bivalves,20 years later,JF-FlTs,2.311536568647865,0.02,-0.02
+313,crabs,20 years later,JF-FlTs,1.100396597683595,0.02,-0.02
+314,dungeness crabs,20 years later,JF-FlTs,0.5436004710616116,0.004,-0.004
+315,benthic grazers,20 years later,JF-FlTn,-0.1597609779082076,0.4,-0.4
+316,other filter feeders,20 years later,JF-FlTn,-8.840430932854915e-05,0.0,-0.0
+317,macrobenthos,20 years later,JF-FlTn,1.0625479356196177,0.09,-0.09
+318,sponges,20 years later,JF-FlTn,0.0042685368130568,0.0,-0.0
+319,bivalves,20 years later,JF-FlTn,1.893565497151961,0.02,-0.02
+320,crabs,20 years later,JF-FlTn,0.9818645807274208,0.02,-0.02
+321,dungeness crabs,20 years later,JF-FlTn,0.4996877683540734,0.004,-0.004
+322,benthic grazers,20 years later,JF-FhTs,-0.0678481664325159,0.4,-0.4
+323,other filter feeders,20 years later,JF-FhTs,-6.160235236363221e-05,0.0,-0.0
+324,macrobenthos,20 years later,JF-FhTs,1.167899596752231,0.09,-0.09
+325,sponges,20 years later,JF-FhTs,0.0042056845650728,0.0,-0.0
+326,bivalves,20 years later,JF-FhTs,2.6997777221019703,0.02,-0.02
+327,crabs,20 years later,JF-FhTs,1.4349918607567735,0.02,-0.02
+328,dungeness crabs,20 years later,JF-FhTs,0.6741360675580177,0.004,-0.004
+329,benthic grazers,20 years later,JF-FhTn,-0.3040320771190319,0.4,-0.4
+330,other filter feeders,20 years later,JF-FhTn,-5.530382022334024e-05,0.0,-0.0
+331,macrobenthos,20 years later,JF-FhTn,1.0855994901867394,0.09,-0.09
+332,sponges,20 years later,JF-FhTn,0.0042627586929189,0.0,-0.0
+333,bivalves,20 years later,JF-FhTn,2.32853600262144,0.02,-0.02
+334,crabs,20 years later,JF-FhTn,1.078299965890683,0.02,-0.02
+335,dungeness crabs,20 years later,JF-FhTn,0.4796675558129015,0.004,-0.004
+336,benthopelagic,spill year,AP-FlTs,-0.0492933865279276,0.0,-0.0
+337,small pelagic,spill year,AP-FlTs,-0.0858882928767774,0.06,-0.06
+338,small demersal,spill year,AP-FlTs,-0.0337069366913123,0.0,-0.0
+339,large demersal,spill year,AP-FlTs,-0.0144287148637201,0.0004,-0.0004
+340,small flatfish,spill year,AP-FlTs,-0.0342177074517768,0.0006,-0.0006
+341,large flatfish,spill year,AP-FlTs,-0.0351425787717007,0.0,-0.0
+342,benthopelagic,spill year,AP-FlTn,-0.0179461159933369,0.0,-0.0
+343,small pelagic,spill year,AP-FlTn,-0.0888497421143988,0.06,-0.06
+344,small demersal,spill year,AP-FlTn,-0.0189966288748644,0.0,-0.0
+345,large demersal,spill year,AP-FlTn,-0.0098812178050922,0.0004,-0.0004
+346,small flatfish,spill year,AP-FlTn,-0.0311405719575164,0.0006,-0.0006
+347,large flatfish,spill year,AP-FlTn,-0.0426977015872731,0.0,-0.0
+348,benthopelagic,spill year,AP-FhTs,-0.0302552628180685,0.0,-0.0
+349,small pelagic,spill year,AP-FhTs,-0.1175089827783756,0.06,-0.06
+350,small demersal,spill year,AP-FhTs,-0.0538016896391368,0.0,-0.0
+351,large demersal,spill year,AP-FhTs,-0.0142901446522425,0.0004,-0.0004
+352,small flatfish,spill year,AP-FhTs,-0.0245091909524941,0.0006,-0.0006
+353,large flatfish,spill year,AP-FhTs,-0.0277590492701396,0.0,-0.0
+354,benthopelagic,spill year,AP-FhTn,-0.0235186836875311,0.0,-0.0
+355,small pelagic,spill year,AP-FhTn,-0.0726831078908299,0.06,-0.06
+356,small demersal,spill year,AP-FhTn,-0.0380391335551366,0.0,-0.0
+357,large demersal,spill year,AP-FhTn,-0.0115542460767814,0.0004,-0.0004
+358,small flatfish,spill year,AP-FhTn,-0.021752134723878,0.0006,-0.0006
+359,large flatfish,spill year,AP-FhTn,-0.0231687596738205,0.0,-0.0
+360,benthopelagic,spill year,TP-FlTs,-0.1368248901021462,0.0,-0.0
+361,small pelagic,spill year,TP-FlTs,-0.9370465594189588,0.06,-0.06
+362,small demersal,spill year,TP-FlTs,-0.4301676842503132,0.0,-0.0
+363,large demersal,spill year,TP-FlTs,-0.1162476737165751,0.0004,-0.0004
+364,small flatfish,spill year,TP-FlTs,-0.2520582938198945,0.0006,-0.0006
+365,large flatfish,spill year,TP-FlTs,-0.365017570944659,0.0,-0.0
+366,benthopelagic,spill year,TP-FlTn,-0.1439338788083122,0.0,-0.0
+367,small pelagic,spill year,TP-FlTn,-1.2468452028239336,0.06,-0.06
+368,small demersal,spill year,TP-FlTn,-0.5003889085980531,0.0,-0.0
+369,large demersal,spill year,TP-FlTn,-0.1025820469209071,0.0004,-0.0004
+370,small flatfish,spill year,TP-FlTn,-0.2321476609660144,0.0006,-0.0006
+371,large flatfish,spill year,TP-FlTn,-0.3464151672109261,0.0,-0.0
+372,benthopelagic,spill year,TP-FhTs,-0.0596644844206639,0.0,-0.0
+373,small pelagic,spill year,TP-FhTs,-0.2513293403899671,0.06,-0.06
+374,small demersal,spill year,TP-FhTs,-0.1683758481533181,0.0,-0.0
+375,large demersal,spill year,TP-FhTs,-0.0461406418707299,0.0004,-0.0004
+376,small flatfish,spill year,TP-FhTs,-0.0960102485654856,0.0006,-0.0006
+377,large flatfish,spill year,TP-FhTs,-0.1161139632915331,0.0,-0.0
+378,benthopelagic,spill year,TP-FhTn,-0.0883153897793442,0.0,-0.0
+379,small pelagic,spill year,TP-FhTn,-0.3539766712443207,0.06,-0.06
+380,small demersal,spill year,TP-FhTn,-0.1647845014501903,0.0,-0.0
+381,large demersal,spill year,TP-FhTn,-0.0488906431633751,0.0004,-0.0004
+382,small flatfish,spill year,TP-FhTn,-0.0997107068363778,0.0006,-0.0006
+383,large flatfish,spill year,TP-FhTn,-0.130350920666119,0.0,-0.0
+384,benthopelagic,spill year,EB-FlTs,-0.0875422816418125,0.0,-0.0
+385,small pelagic,spill year,EB-FlTs,-0.1967086437640954,0.06,-0.06
+386,small demersal,spill year,EB-FlTs,-0.066579353867705,0.0,-0.0
+387,large demersal,spill year,EB-FlTs,-0.0255901553464055,0.0004,-0.0004
+388,small flatfish,spill year,EB-FlTs,-0.0588419049972677,0.0006,-0.0006
+389,large flatfish,spill year,EB-FlTs,-0.0614352315859023,0.0,-0.0
+390,benthopelagic,spill year,EB-FlTn,-0.0788734777766941,0.0,-0.0
+391,small pelagic,spill year,EB-FlTn,-0.185947733263035,0.06,-0.06
+392,small demersal,spill year,EB-FlTn,-0.055778272061352,0.0,-0.0
+393,large demersal,spill year,EB-FlTn,-0.0263008485278892,0.0004,-0.0004
+394,small flatfish,spill year,EB-FlTn,-0.0573347830789816,0.0006,-0.0006
+395,large flatfish,spill year,EB-FlTn,-0.0615516279708805,0.0,-0.0
+396,benthopelagic,spill year,EB-FhTs,-0.0234482558126092,0.0,-0.0
+397,small pelagic,spill year,EB-FhTs,-0.0416522133132479,0.06,-0.06
+398,small demersal,spill year,EB-FhTs,-0.0144628254156142,0.0,-0.0
+399,large demersal,spill year,EB-FhTs,-0.009621976387486,0.0004,-0.0004
+400,small flatfish,spill year,EB-FhTs,-0.0130184840421687,0.0006,-0.0006
+401,large flatfish,spill year,EB-FhTs,-0.0157490206158039,0.0,-0.0
+402,benthopelagic,spill year,EB-FhTn,-0.0093488106663319,0.0,-0.0
+403,small pelagic,spill year,EB-FhTn,-0.0149801522803654,0.06,-0.06
+404,small demersal,spill year,EB-FhTn,-0.0056117587419102,0.0,-0.0
+405,large demersal,spill year,EB-FhTn,-0.0035887760072117,0.0004,-0.0004
+406,small flatfish,spill year,EB-FhTn,-0.005031782924294,0.0006,-0.0006
+407,large flatfish,spill year,EB-FhTn,-0.0046705583070283,0.0,-0.0
+408,benthopelagic,spill year,JF-FlTs,-0.0922011503475317,0.0,-0.0
+409,small pelagic,spill year,JF-FlTs,-0.4580417675657771,0.06,-0.06
+410,small demersal,spill year,JF-FlTs,-0.1818032480680165,0.0,-0.0
+411,large demersal,spill year,JF-FlTs,-0.0875072563586476,0.0004,-0.0004
+412,small flatfish,spill year,JF-FlTs,-0.2251162141310869,0.0006,-0.0006
+413,large flatfish,spill year,JF-FlTs,-0.2568291049349747,0.0,-0.0
+414,benthopelagic,spill year,JF-FlTn,-0.0685759993232737,0.0,-0.0
+415,small pelagic,spill year,JF-FlTn,-0.4655132604857123,0.06,-0.06
+416,small demersal,spill year,JF-FlTn,-0.1685823728870494,0.0,-0.0
+417,large demersal,spill year,JF-FlTn,-0.0627174825943577,0.0004,-0.0004
+418,small flatfish,spill year,JF-FlTn,-0.1602045239867455,0.0006,-0.0006
+419,large flatfish,spill year,JF-FlTn,-0.1996572708587096,0.0,-0.0
+420,benthopelagic,spill year,JF-FhTs,-0.0449829303352855,0.0,-0.0
+421,small pelagic,spill year,JF-FhTs,-0.2482210695808467,0.06,-0.06
+422,small demersal,spill year,JF-FhTs,-0.1597808970557268,0.0,-0.0
+423,large demersal,spill year,JF-FhTs,-0.038041613799693,0.0004,-0.0004
+424,small flatfish,spill year,JF-FhTs,-0.0914066981958028,0.0006,-0.0006
+425,large flatfish,spill year,JF-FhTs,-0.0952950612752789,0.0,-0.0
+426,benthopelagic,spill year,JF-FhTn,-0.0484363997317704,0.0,-0.0
+427,small pelagic,spill year,JF-FhTn,-0.1936840105268067,0.06,-0.06
+428,small demersal,spill year,JF-FhTn,-0.0890616864906057,0.0,-0.0
+429,large demersal,spill year,JF-FhTn,-0.0468230374843459,0.0004,-0.0004
+430,small flatfish,spill year,JF-FhTn,-0.1063948085094257,0.0006,-0.0006
+431,large flatfish,spill year,JF-FhTn,-0.1047142583105797,0.0,-0.0
+432,benthopelagic,10 years later,AP-FlTs,-0.2206143427152862,0.0,-0.0
+433,small pelagic,10 years later,AP-FlTs,-0.143186003151655,0.06,-0.06
+434,small demersal,10 years later,AP-FlTs,-0.0420866190610613,0.0,-0.0
+435,large demersal,10 years later,AP-FlTs,0.1140058369385876,0.0004,-0.0004
+436,small flatfish,10 years later,AP-FlTs,-0.0387526144964844,0.0006,-0.0006
+437,large flatfish,10 years later,AP-FlTs,-0.6919056017880919,0.0,-0.0
+438,benthopelagic,10 years later,AP-FlTn,-0.0221095752435473,0.0,-0.0
+439,small pelagic,10 years later,AP-FlTn,-3.017668734033116,0.06,-0.06
+440,small demersal,10 years later,AP-FlTn,-0.6642100552744168,0.0,-0.0
+441,large demersal,10 years later,AP-FlTn,0.0639819854595169,0.0004,-0.0004
+442,small flatfish,10 years later,AP-FlTn,-0.0302241755965404,0.0006,-0.0006
+443,large flatfish,10 years later,AP-FlTn,-0.1502371599105101,0.0,-0.0
+444,benthopelagic,10 years later,AP-FhTs,0.0374946077101878,0.0,-0.0
+445,small pelagic,10 years later,AP-FhTs,-16.23895425753936,0.06,-0.06
+446,small demersal,10 years later,AP-FhTs,-3.278791006856673,0.0,-0.0
+447,large demersal,10 years later,AP-FhTs,0.2328803994231654,0.0004,-0.0004
+448,small flatfish,10 years later,AP-FhTs,-0.330748316924484,0.0006,-0.0006
+449,large flatfish,10 years later,AP-FhTs,-0.820253452995493,0.0,-0.0
+450,benthopelagic,10 years later,AP-FhTn,-0.1370081163587644,0.0,-0.0
+451,small pelagic,10 years later,AP-FhTn,-11.129303241645298,0.06,-0.06
+452,small demersal,10 years later,AP-FhTn,-2.452154416246096,0.0,-0.0
+453,large demersal,10 years later,AP-FhTn,0.1008633513871981,0.0004,-0.0004
+454,small flatfish,10 years later,AP-FhTn,-0.2765508605475286,0.0006,-0.0006
+455,large flatfish,10 years later,AP-FhTn,-0.5779101951531862,0.0,-0.0
+456,benthopelagic,10 years later,TP-FlTs,-0.7011093694342696,0.0,-0.0
+457,small pelagic,10 years later,TP-FlTs,-16.93947733186398,0.06,-0.06
+458,small demersal,10 years later,TP-FlTs,-4.061832954247706,0.0,-0.0
+459,large demersal,10 years later,TP-FlTs,0.133582698531447,0.0004,-0.0004
+460,small flatfish,10 years later,TP-FlTs,-0.5075808800161974,0.0006,-0.0006
+461,large flatfish,10 years later,TP-FlTs,-0.670413395622359,0.0,-0.0
+462,benthopelagic,10 years later,TP-FlTn,-0.877250334888846,0.0,-0.0
+463,small pelagic,10 years later,TP-FlTn,-12.6593436552358,0.06,-0.06
+464,small demersal,10 years later,TP-FlTn,-2.267260434035429,0.0,-0.0
+465,large demersal,10 years later,TP-FlTn,0.1476105840573516,0.0004,-0.0004
+466,small flatfish,10 years later,TP-FlTn,-0.584879758574991,0.0006,-0.0006
+467,large flatfish,10 years later,TP-FlTn,-1.183698903533117,0.0,-0.0
+468,benthopelagic,10 years later,TP-FhTs,-0.9511608340024068,0.0,-0.0
+469,small pelagic,10 years later,TP-FhTs,-4.367094984218849,0.06,-0.06
+470,small demersal,10 years later,TP-FhTs,-0.2514251113653597,0.0,-0.0
+471,large demersal,10 years later,TP-FhTs,0.4230041702894982,0.0004,-0.0004
+472,small flatfish,10 years later,TP-FhTs,-0.2419646453678026,0.0006,-0.0006
+473,large flatfish,10 years later,TP-FhTs,-2.648783724356922,0.0,-0.0
+474,benthopelagic,10 years later,TP-FhTn,-0.4099932501601822,0.0,-0.0
+475,small pelagic,10 years later,TP-FhTn,-20.52898412315065,0.06,-0.06
+476,small demersal,10 years later,TP-FhTn,-4.079291054669175,0.0,-0.0
+477,large demersal,10 years later,TP-FhTn,0.4542903701913703,0.0004,-0.0004
+478,small flatfish,10 years later,TP-FhTn,-0.5897697900811061,0.0006,-0.0006
+479,large flatfish,10 years later,TP-FhTn,-0.90476593433097,0.0,-0.0
+480,benthopelagic,10 years later,EB-FlTs,-0.2647991509474134,0.0,-0.0
+481,small pelagic,10 years later,EB-FlTs,-0.1665684312017016,0.06,-0.06
+482,small demersal,10 years later,EB-FlTs,-0.2096403742404606,0.0,-0.0
+483,large demersal,10 years later,EB-FlTs,0.1590954250071596,0.0004,-0.0004
+484,small flatfish,10 years later,EB-FlTs,-0.2836762256756286,0.0006,-0.0006
+485,large flatfish,10 years later,EB-FlTs,-1.6610042878260771,0.0,-0.0
+486,benthopelagic,10 years later,EB-FlTn,-0.1933474172703397,0.0,-0.0
+487,small pelagic,10 years later,EB-FlTn,-3.169442399218113,0.06,-0.06
+488,small demersal,10 years later,EB-FlTn,-0.5199579298070376,0.0,-0.0
+489,large demersal,10 years later,EB-FlTn,0.1821902120369478,0.0004,-0.0004
+490,small flatfish,10 years later,EB-FlTn,-0.7516024152479385,0.0006,-0.0006
+491,large flatfish,10 years later,EB-FlTn,-2.08662248626172,0.0,-0.0
+492,benthopelagic,10 years later,EB-FhTs,-0.2397568886256573,0.0,-0.0
+493,small pelagic,10 years later,EB-FhTs,-0.0555679063118438,0.06,-0.06
+494,small demersal,10 years later,EB-FhTs,-0.0862206415633659,0.0,-0.0
+495,large demersal,10 years later,EB-FhTs,0.0829722349925743,0.0004,-0.0004
+496,small flatfish,10 years later,EB-FhTs,-0.6246099332619671,0.0006,-0.0006
+497,large flatfish,10 years later,EB-FhTs,-2.1330591184219827,0.0,-0.0
+498,benthopelagic,10 years later,EB-FhTn,-0.1794605692843731,0.0,-0.0
+499,small pelagic,10 years later,EB-FhTn,-0.1241024657712601,0.06,-0.06
+500,small demersal,10 years later,EB-FhTn,-0.0519450117252873,0.0,-0.0
+501,large demersal,10 years later,EB-FhTn,0.0187994956986703,0.0004,-0.0004
+502,small flatfish,10 years later,EB-FhTn,-0.6282479018012909,0.0006,-0.0006
+503,large flatfish,10 years later,EB-FhTn,-1.8729002926283456,0.0,-0.0
+504,benthopelagic,10 years later,JF-FlTs,-0.6065756133952538,0.0,-0.0
+505,small pelagic,10 years later,JF-FlTs,-9.092506905637858,0.06,-0.06
+506,small demersal,10 years later,JF-FlTs,-1.994624044025355,0.0,-0.0
+507,large demersal,10 years later,JF-FlTs,-0.0302279557802342,0.0004,-0.0004
+508,small flatfish,10 years later,JF-FlTs,-0.2108451075631989,0.0006,-0.0006
+509,large flatfish,10 years later,JF-FlTs,0.3352916816888717,0.0,-0.0
+510,benthopelagic,10 years later,JF-FlTn,-0.5442462318124963,0.0,-0.0
+511,small pelagic,10 years later,JF-FlTn,-9.347095410787745,0.06,-0.06
+512,small demersal,10 years later,JF-FlTn,-2.065083519622367,0.0,-0.0
+513,large demersal,10 years later,JF-FlTn,0.0171193386872703,0.0004,-0.0004
+514,small flatfish,10 years later,JF-FlTn,-0.1169480469804917,0.0006,-0.0006
+515,large flatfish,10 years later,JF-FlTn,0.4852023437795184,0.0,-0.0
+516,benthopelagic,10 years later,JF-FhTs,-0.4699128029164779,0.0,-0.0
+517,small pelagic,10 years later,JF-FhTs,-9.570079453377838,0.06,-0.06
+518,small demersal,10 years later,JF-FhTs,-2.224340727463007,0.0,-0.0
+519,large demersal,10 years later,JF-FhTs,0.0445703799771823,0.0004,-0.0004
+520,small flatfish,10 years later,JF-FhTs,-0.1220016606190055,0.0006,-0.0006
+521,large flatfish,10 years later,JF-FhTs,0.2607626000555319,0.0,-0.0
+522,benthopelagic,10 years later,JF-FhTn,-0.5807486265582718,0.0,-0.0
+523,small pelagic,10 years later,JF-FhTn,-6.958345230405311,0.06,-0.06
+524,small demersal,10 years later,JF-FhTn,-1.4933755988326856,0.0,-0.0
+525,large demersal,10 years later,JF-FhTn,0.0139568545478585,0.0004,-0.0004
+526,small flatfish,10 years later,JF-FhTn,-0.2392802165971697,0.0006,-0.0006
+527,large flatfish,10 years later,JF-FhTn,-0.0504676440628582,0.0,-0.0
+528,benthopelagic,20 years later,AP-FlTs,0.6364711823469404,0.0,-0.0
+529,small pelagic,20 years later,AP-FlTs,-0.4942948286795469,0.06,-0.06
+530,small demersal,20 years later,AP-FlTs,0.7275376030165248,0.0,-0.0
+531,large demersal,20 years later,AP-FlTs,0.361821687485897,0.0004,-0.0004
+532,small flatfish,20 years later,AP-FlTs,0.043136981859998,0.0006,-0.0006
+533,large flatfish,20 years later,AP-FlTs,-1.7012323556741535,0.0,-0.0
+534,benthopelagic,20 years later,AP-FlTn,0.3465289051095788,0.0,-0.0
+535,small pelagic,20 years later,AP-FlTn,4.611791225354707,0.06,-0.06
+536,small demersal,20 years later,AP-FlTn,0.2620370514257664,0.0,-0.0
+537,large demersal,20 years later,AP-FlTn,0.2616494408178815,0.0004,-0.0004
+538,small flatfish,20 years later,AP-FlTn,0.5244299275546949,0.0006,-0.0006
+539,large flatfish,20 years later,AP-FlTn,0.8209960961413953,0.0,-0.0
+540,benthopelagic,20 years later,AP-FhTs,2.754854042879966,0.0,-0.0
+541,small pelagic,20 years later,AP-FhTs,60.54436008868954,0.06,-0.06
+542,small demersal,20 years later,AP-FhTs,0.0168328280441635,0.0,-0.0
+543,large demersal,20 years later,AP-FhTs,0.030017516800187,0.0004,-0.0004
+544,small flatfish,20 years later,AP-FhTs,-0.6237627587911254,0.0006,-0.0006
+545,large flatfish,20 years later,AP-FhTs,11.99106758004768,0.0,-0.0
+546,benthopelagic,20 years later,AP-FhTn,1.4951930584804338,0.0,-0.0
+547,small pelagic,20 years later,AP-FhTn,60.83587606356326,0.06,-0.06
+548,small demersal,20 years later,AP-FhTn,-0.2985724720770421,0.0,-0.0
+549,large demersal,20 years later,AP-FhTn,0.1452099914659432,0.0004,-0.0004
+550,small flatfish,20 years later,AP-FhTn,-0.0150201584628095,0.0006,-0.0006
+551,large flatfish,20 years later,AP-FhTn,7.056747311565002,0.0,-0.0
+552,benthopelagic,20 years later,TP-FlTs,0.6331550990368994,0.0,-0.0
+553,small pelagic,20 years later,TP-FlTs,60.00895294934618,0.06,-0.06
+554,small demersal,20 years later,TP-FlTs,-1.7063544959238008,0.0,-0.0
+555,large demersal,20 years later,TP-FlTs,0.486985651084888,0.0004,-0.0004
+556,small flatfish,20 years later,TP-FlTs,1.335886708747531,0.0006,-0.0006
+557,large flatfish,20 years later,TP-FlTs,13.994739059045065,0.0,-0.0
+558,benthopelagic,20 years later,TP-FlTn,1.8102881014086705,0.0,-0.0
+559,small pelagic,20 years later,TP-FlTn,60.17096560797588,0.06,-0.06
+560,small demersal,20 years later,TP-FlTn,-1.2614398725953575,0.0,-0.0
+561,large demersal,20 years later,TP-FlTn,0.2521259500278561,0.0004,-0.0004
+562,small flatfish,20 years later,TP-FlTn,0.1368337087073301,0.0006,-0.0006
+563,large flatfish,20 years later,TP-FlTn,12.464739966077458,0.0,-0.0
+564,benthopelagic,20 years later,TP-FhTs,1.9550698181333208,0.0,-0.0
+565,small pelagic,20 years later,TP-FhTs,6.045561038692335,0.06,-0.06
+566,small demersal,20 years later,TP-FhTs,0.5810962088111516,0.0,-0.0
+567,large demersal,20 years later,TP-FhTs,0.9473484935336242,0.0004,-0.0004
+568,small flatfish,20 years later,TP-FhTs,0.9545987289185788,0.0006,-0.0006
+569,large flatfish,20 years later,TP-FhTs,-1.5619417893667564,0.0,-0.0
+570,benthopelagic,20 years later,TP-FhTn,0.8686444947659302,0.0,-0.0
+571,small pelagic,20 years later,TP-FhTn,57.4333982979964,0.06,-0.06
+572,small demersal,20 years later,TP-FhTn,-2.167972624572628,0.0,-0.0
+573,large demersal,20 years later,TP-FhTn,0.4117684662992349,0.0004,-0.0004
+574,small flatfish,20 years later,TP-FhTn,0.7373302826722195,0.0006,-0.0006
+575,large flatfish,20 years later,TP-FhTn,13.593106391912109,0.0,-0.0
+576,benthopelagic,20 years later,EB-FlTs,0.2733347288008026,0.0,-0.0
+577,small pelagic,20 years later,EB-FlTs,-0.0594900290336216,0.06,-0.06
+578,small demersal,20 years later,EB-FlTs,0.3516137284299558,0.0,-0.0
+579,large demersal,20 years later,EB-FlTs,0.5368542600736392,0.0004,-0.0004
+580,small flatfish,20 years later,EB-FlTs,-0.8879516148904987,0.0006,-0.0006
+581,large flatfish,20 years later,EB-FlTs,-5.013798543064662,0.0,-0.0
+582,benthopelagic,20 years later,EB-FlTn,1.0712687166938717,0.0,-0.0
+583,small pelagic,20 years later,EB-FlTn,8.87645793746662,0.06,-0.06
+584,small demersal,20 years later,EB-FlTn,1.566593187816916,0.0,-0.0
+585,large demersal,20 years later,EB-FlTn,0.5374718143595525,0.0004,-0.0004
+586,small flatfish,20 years later,EB-FlTn,-0.4742320783955467,0.0006,-0.0006
+587,large flatfish,20 years later,EB-FlTn,-4.005662480544079,0.0,-0.0
+588,benthopelagic,20 years later,EB-FhTs,0.5354446095690614,0.0,-0.0
+589,small pelagic,20 years later,EB-FhTs,-0.4679102899267285,0.06,-0.06
+590,small demersal,20 years later,EB-FhTs,1.1934357176521992,0.0,-0.0
+591,large demersal,20 years later,EB-FhTs,0.4788859543879919,0.0004,-0.0004
+592,small flatfish,20 years later,EB-FhTs,-0.7097393103844274,0.0006,-0.0006
+593,large flatfish,20 years later,EB-FhTs,-5.776468453541034,0.0,-0.0
+594,benthopelagic,20 years later,EB-FhTn,1.072134937876548,0.0,-0.0
+595,small pelagic,20 years later,EB-FhTn,-0.726467259060147,0.06,-0.06
+596,small demersal,20 years later,EB-FhTn,1.745114488260078,0.0,-0.0
+597,large demersal,20 years later,EB-FhTn,0.5919626304619208,0.0004,-0.0004
+598,small flatfish,20 years later,EB-FhTn,-0.3080076141363774,0.0006,-0.0006
+599,large flatfish,20 years later,EB-FhTn,-2.7415530759595947,0.0,-0.0
+600,benthopelagic,20 years later,JF-FlTs,0.2729464099790358,0.0,-0.0
+601,small pelagic,20 years later,JF-FlTs,56.64478025074306,0.06,-0.06
+602,small demersal,20 years later,JF-FlTs,-1.5138094766159316,0.0,-0.0
+603,large demersal,20 years later,JF-FlTs,-0.1063638732982619,0.0004,-0.0004
+604,small flatfish,20 years later,JF-FlTs,0.6439872873394537,0.0006,-0.0006
+605,large flatfish,20 years later,JF-FlTs,14.004238839699028,0.0,-0.0
+606,benthopelagic,20 years later,JF-FlTn,0.540926519389837,0.0,-0.0
+607,small pelagic,20 years later,JF-FlTn,59.48834139305813,0.06,-0.06
+608,small demersal,20 years later,JF-FlTn,-1.5915175085244446,0.0,-0.0
+609,large demersal,20 years later,JF-FlTn,-0.0983848262875808,0.0004,-0.0004
+610,small flatfish,20 years later,JF-FlTn,0.5684350024542661,0.0006,-0.0006
+611,large flatfish,20 years later,JF-FlTn,13.773036615958125,0.0,-0.0
+612,benthopelagic,20 years later,JF-FhTs,0.5525707783215305,0.0,-0.0
+613,small pelagic,20 years later,JF-FhTs,63.40835698288057,0.06,-0.06
+614,small demersal,20 years later,JF-FhTs,-1.4930676320927794,0.0,-0.0
+615,large demersal,20 years later,JF-FhTs,0.1774710920717614,0.0004,-0.0004
+616,small flatfish,20 years later,JF-FhTs,1.0926154468553804,0.0006,-0.0006
+617,large flatfish,20 years later,JF-FhTs,15.656268391713652,0.0,-0.0
+618,benthopelagic,20 years later,JF-FhTn,0.3091896897529789,0.0,-0.0
+619,small pelagic,20 years later,JF-FhTn,35.785737936349015,0.06,-0.06
+620,small demersal,20 years later,JF-FhTn,-0.9919704768760074,0.0,-0.0
+621,large demersal,20 years later,JF-FhTn,0.0206481366301092,0.0004,-0.0004
+622,small flatfish,20 years later,JF-FhTn,0.7170782600621939,0.0006,-0.0006
+623,large flatfish,20 years later,JF-FhTn,9.194304452040358,0.0,-0.0
+624,porpoises,spill year,AP-FlTs,-0.0070466104872679,0.003,-0.003
+625,seals,spill year,AP-FlTs,-0.00637359875159,0.0001,-0.0001
+626,humpbacks,spill year,AP-FlTs,-0.0617458301597073,0.0,-0.0
+627,sealions,spill year,AP-FlTs,-0.0015065727435215,0.0,-0.0
+628,resident orcas,spill year,AP-FlTs,-0.0045246607807158,0.0,-0.0
+629,transient orcas,spill year,AP-FlTs,-0.0004856700867617,0.0,-0.0
+630,porpoises,spill year,AP-FlTn,-0.005253571590833,0.003,-0.003
+631,seals,spill year,AP-FlTn,-0.0029298898583562,0.0001,-0.0001
+632,humpbacks,spill year,AP-FlTn,-0.0646671718731239,0.0,-0.0
+633,sealions,spill year,AP-FlTn,-0.0012058837457495,0.0,-0.0
+634,resident orcas,spill year,AP-FlTn,-0.0029742890293937,0.0,-0.0
+635,transient orcas,spill year,AP-FlTn,-0.0003656897252213,0.0,-0.0
+636,porpoises,spill year,AP-FhTs,-0.0023070333649022,0.003,-0.003
+637,seals,spill year,AP-FhTs,-0.0014332267129635,0.0001,-0.0001
+638,humpbacks,spill year,AP-FhTs,-0.0728041320016059,0.0,-0.0
+639,sealions,spill year,AP-FhTs,-0.0007452753985504,0.0,-0.0
+640,resident orcas,spill year,AP-FhTs,-0.0025049889591655,0.0,-0.0
+641,transient orcas,spill year,AP-FhTs,-0.0001452629212028,0.0,-0.0
+642,porpoises,spill year,AP-FhTn,-0.000660916390297,0.003,-0.003
+643,seals,spill year,AP-FhTn,-0.0008864405848718,0.0001,-0.0001
+644,humpbacks,spill year,AP-FhTn,-0.0451659758497446,0.0,-0.0
+645,sealions,spill year,AP-FhTn,-0.0005315946609318,0.0,-0.0
+646,resident orcas,spill year,AP-FhTn,-0.0018382337793354,0.0,-0.0
+647,transient orcas,spill year,AP-FhTn,-9.970458739627652e-05,0.0,-0.0
+648,porpoises,spill year,TP-FlTs,-0.0346024270416256,0.003,-0.003
+649,seals,spill year,TP-FlTs,0.0773585368966178,0.0001,-0.0001
+650,humpbacks,spill year,TP-FlTs,-0.4716067015198799,0.0,-0.0
+651,sealions,spill year,TP-FlTs,-0.0112428629148475,0.0,-0.0
+652,resident orcas,spill year,TP-FlTs,-0.0224149991254896,0.0,-0.0
+653,transient orcas,spill year,TP-FlTs,-0.004618147345361,0.0,-0.0
+654,porpoises,spill year,TP-FlTn,-0.0491326329252594,0.003,-0.003
+655,seals,spill year,TP-FlTn,0.0965812772972862,0.0001,-0.0001
+656,humpbacks,spill year,TP-FlTn,-0.5222113555670058,0.0,-0.0
+657,sealions,spill year,TP-FlTn,-0.0117044194606608,0.0,-0.0
+658,resident orcas,spill year,TP-FlTn,-0.02030748553134,0.0,-0.0
+659,transient orcas,spill year,TP-FlTn,-0.0051198437129151,0.0,-0.0
+660,porpoises,spill year,TP-FhTs,-0.0107688743407241,0.003,-0.003
+661,seals,spill year,TP-FhTs,-0.0066417985823297,0.0001,-0.0001
+662,humpbacks,spill year,TP-FhTs,-0.1578249123852615,0.0,-0.0
+663,sealions,spill year,TP-FhTs,-0.0028078903069372,0.0,-0.0
+664,resident orcas,spill year,TP-FhTs,-0.0063932560381174,0.0,-0.0
+665,transient orcas,spill year,TP-FhTs,-0.0007669764630457,0.0,-0.0
+666,porpoises,spill year,TP-FhTn,-0.0148384178976013,0.003,-0.003
+667,seals,spill year,TP-FhTn,0.0855643516748205,0.0001,-0.0001
+668,humpbacks,spill year,TP-FhTn,-0.2233300058452092,0.0,-0.0
+669,sealions,spill year,TP-FhTn,-0.0032639337246964,0.0,-0.0
+670,resident orcas,spill year,TP-FhTn,-0.0079025695731382,0.0,-0.0
+671,transient orcas,spill year,TP-FhTn,-0.0007208043906692,0.0,-0.0
+672,porpoises,spill year,EB-FlTs,-0.0136534758791717,0.003,-0.003
+673,seals,spill year,EB-FlTs,-0.0111237330533042,0.0001,-0.0001
+674,humpbacks,spill year,EB-FlTs,-0.1305026180191115,0.0,-0.0
+675,sealions,spill year,EB-FlTs,-0.0029027193756536,0.0,-0.0
+676,resident orcas,spill year,EB-FlTs,-0.0073208377993749,0.0,-0.0
+677,transient orcas,spill year,EB-FlTs,-0.0008427501828633,0.0,-0.0
+678,porpoises,spill year,EB-FlTn,-0.012349537739924,0.003,-0.003
+679,seals,spill year,EB-FlTn,-0.0103948694196487,0.0001,-0.0001
+680,humpbacks,spill year,EB-FlTn,-0.1200298553731393,0.0,-0.0
+681,sealions,spill year,EB-FlTn,-0.0026418637536418,0.0,-0.0
+682,resident orcas,spill year,EB-FlTn,-0.0071041251547132,0.0,-0.0
+683,transient orcas,spill year,EB-FlTn,-0.0007708399994377,0.0,-0.0
+684,porpoises,spill year,EB-FhTs,-0.001796845074069,0.003,-0.003
+685,seals,spill year,EB-FhTs,-0.0012855259250232,0.0001,-0.0001
+686,humpbacks,spill year,EB-FhTs,-0.0214868219160946,0.0,-0.0
+687,sealions,spill year,EB-FhTs,-0.0003447925466415,0.0,-0.0
+688,resident orcas,spill year,EB-FhTs,-0.0012984448863251,0.0,-0.0
+689,transient orcas,spill year,EB-FhTs,-6.067194978864876e-05,0.0,-0.0
+690,porpoises,spill year,EB-FhTn,-0.0006759306737424,0.003,-0.003
+691,seals,spill year,EB-FhTn,-0.0004842591746145,0.0001,-0.0001
+692,humpbacks,spill year,EB-FhTn,-0.0078569008221873,0.0,-0.0
+693,sealions,spill year,EB-FhTn,-0.0001011107080262,0.0,-0.0
+694,resident orcas,spill year,EB-FhTn,-0.0004849471993373,0.0,-0.0
+695,transient orcas,spill year,EB-FhTn,-1.8662424655646603e-05,0.0,-0.0
+696,porpoises,spill year,JF-FlTs,-0.0164063956189208,0.003,-0.003
+697,seals,spill year,JF-FlTs,-0.0052045452317583,0.0001,-0.0001
+698,humpbacks,spill year,JF-FlTs,-0.1807192021951931,0.0,-0.0
+699,sealions,spill year,JF-FlTs,-0.0059647613408908,0.0,-0.0
+700,resident orcas,spill year,JF-FlTs,-0.0167863872744411,0.0,-0.0
+701,transient orcas,spill year,JF-FlTs,-0.0028789427671904,0.0,-0.0
+702,porpoises,spill year,JF-FlTn,-0.0167109379479779,0.003,-0.003
+703,seals,spill year,JF-FlTn,-0.0029388853391909,0.0001,-0.0001
+704,humpbacks,spill year,JF-FlTn,-0.1818958415558735,0.0,-0.0
+705,sealions,spill year,JF-FlTn,-0.0048236900010967,0.0,-0.0
+706,resident orcas,spill year,JF-FlTn,-0.0124576930125031,0.0,-0.0
+707,transient orcas,spill year,JF-FlTn,-0.0024829975904905,0.0,-0.0
+708,porpoises,spill year,JF-FhTs,-0.0072986449180323,0.003,-0.003
+709,seals,spill year,JF-FhTs,-0.0025648576724213,0.0001,-0.0001
+710,humpbacks,spill year,JF-FhTs,-0.0760201118071102,0.0,-0.0
+711,sealions,spill year,JF-FhTs,-0.0020691084898338,0.0,-0.0
+712,resident orcas,spill year,JF-FhTs,-0.004274620573369,0.0,-0.0
+713,transient orcas,spill year,JF-FhTs,-0.0007306220777381,0.0,-0.0
+714,porpoises,spill year,JF-FhTn,-0.0072035007828519,0.003,-0.003
+715,seals,spill year,JF-FhTn,-0.0032799363661784,0.0001,-0.0001
+716,humpbacks,spill year,JF-FhTn,-0.0919441612632243,0.0,-0.0
+717,sealions,spill year,JF-FhTn,-0.0021732455596956,0.0,-0.0
+718,resident orcas,spill year,JF-FhTn,-0.0059834946440018,0.0,-0.0
+719,transient orcas,spill year,JF-FhTn,-0.0006700984373131,0.0,-0.0
+720,porpoises,10 years later,AP-FlTs,-0.0809900492111792,0.003,-0.003
+721,seals,10 years later,AP-FlTs,-0.101332572310423,0.0001,-0.0001
+722,humpbacks,10 years later,AP-FlTs,-0.4353201319201038,0.0,-0.0
+723,sealions,10 years later,AP-FlTs,-0.0424024837508141,0.0,-0.0
+724,resident orcas,10 years later,AP-FlTs,-0.1045084428706799,0.0,-0.0
+725,transient orcas,10 years later,AP-FlTs,-0.0232435956691778,0.0,-0.0
+726,porpoises,10 years later,AP-FlTn,-0.2458107070591153,0.003,-0.003
+727,seals,10 years later,AP-FlTn,-0.0656134215141779,0.0001,-0.0001
+728,humpbacks,10 years later,AP-FlTn,-0.4616002272975817,0.0,-0.0
+729,sealions,10 years later,AP-FlTn,-0.0278728693722252,0.0,-0.0
+730,resident orcas,10 years later,AP-FlTn,-0.0580968537528814,0.0,-0.0
+731,transient orcas,10 years later,AP-FlTn,-0.0433156334247175,0.0,-0.0
+732,porpoises,10 years later,AP-FhTs,-1.180731140820924,0.003,-0.003
+733,seals,10 years later,AP-FhTs,-0.2538068880095034,0.0001,-0.0001
+734,humpbacks,10 years later,AP-FhTs,-2.315433771411322,0.0,-0.0
+735,sealions,10 years later,AP-FhTs,-0.1565251794042099,0.0,-0.0
+736,resident orcas,10 years later,AP-FhTs,-0.2025872290432462,0.0,-0.0
+737,transient orcas,10 years later,AP-FhTs,-0.1603034475029752,0.0,-0.0
+738,porpoises,10 years later,AP-FhTn,-0.8317368333510722,0.003,-0.003
+739,seals,10 years later,AP-FhTn,-0.1368167284389043,0.0001,-0.0001
+740,humpbacks,10 years later,AP-FhTn,-1.4405092859349098,0.0,-0.0
+741,sealions,10 years later,AP-FhTn,-0.1069943545306983,0.0,-0.0
+742,resident orcas,10 years later,AP-FhTn,-0.1285176680119215,0.0,-0.0
+743,transient orcas,10 years later,AP-FhTn,-0.115544976283185,0.0,-0.0
+744,porpoises,10 years later,TP-FlTs,-0.837161555360969,0.003,-0.003
+745,seals,10 years later,TP-FlTs,-0.2108354966829495,0.0001,-0.0001
+746,humpbacks,10 years later,TP-FlTs,-2.374023290322552,0.0,-0.0
+747,sealions,10 years later,TP-FlTs,-0.0575598316815073,0.0,-0.0
+748,resident orcas,10 years later,TP-FlTs,-0.211230317786869,0.0,-0.0
+749,transient orcas,10 years later,TP-FlTs,-0.1808917202008575,0.0,-0.0
+750,porpoises,10 years later,TP-FlTn,-0.2730816872174157,0.003,-0.003
+751,seals,10 years later,TP-FlTn,-0.0713260746975719,0.0001,-0.0001
+752,humpbacks,10 years later,TP-FlTn,-0.7912890445839184,0.0,-0.0
+753,sealions,10 years later,TP-FlTn,0.0429186760654765,0.0,-0.0
+754,resident orcas,10 years later,TP-FlTn,-0.1468566933002246,0.0,-0.0
+755,transient orcas,10 years later,TP-FlTn,-0.0726960058563364,0.0,-0.0
+756,porpoises,10 years later,TP-FhTs,0.6059196810743894,0.003,-0.003
+757,seals,10 years later,TP-FhTs,0.0312226424927919,0.0001,-0.0001
+758,humpbacks,10 years later,TP-FhTs,1.1733272518240612,0.0,-0.0
+759,sealions,10 years later,TP-FhTs,0.2020649894326709,0.0,-0.0
+760,resident orcas,10 years later,TP-FhTs,-0.120064115766052,0.0,-0.0
+761,transient orcas,10 years later,TP-FhTs,0.0734458227234702,0.0,-0.0
+762,porpoises,10 years later,TP-FhTn,-0.9886995552166148,0.003,-0.003
+763,seals,10 years later,TP-FhTn,-0.0403826407767915,0.0001,-0.0001
+764,humpbacks,10 years later,TP-FhTn,-2.8264152342486524,0.0,-0.0
+765,sealions,10 years later,TP-FhTn,-0.0526348304589974,0.0,-0.0
+766,resident orcas,10 years later,TP-FhTn,-0.261185799645558,0.0,-0.0
+767,transient orcas,10 years later,TP-FhTn,-0.1424724007218969,0.0,-0.0
+768,porpoises,10 years later,EB-FlTs,-0.1650926953723075,0.003,-0.003
+769,seals,10 years later,EB-FlTs,-0.1749513797090951,0.0001,-0.0001
+770,humpbacks,10 years later,EB-FlTs,-0.798359327411009,0.0,-0.0
+771,sealions,10 years later,EB-FlTs,-0.0831401448623703,0.0,-0.0
+772,resident orcas,10 years later,EB-FlTs,-0.1823957785741903,0.0,-0.0
+773,transient orcas,10 years later,EB-FlTs,-0.0482106657335634,0.0,-0.0
+774,porpoises,10 years later,EB-FlTn,-0.2739398787328273,0.003,-0.003
+775,seals,10 years later,EB-FlTn,-0.1772280793105374,0.0001,-0.0001
+776,humpbacks,10 years later,EB-FlTn,-0.7830054239693907,0.0,-0.0
+777,sealions,10 years later,EB-FlTn,-0.0841354195675869,0.0,-0.0
+778,resident orcas,10 years later,EB-FlTn,-0.1890141877698303,0.0,-0.0
+779,transient orcas,10 years later,EB-FlTn,-0.0622789878431029,0.0,-0.0
+780,porpoises,10 years later,EB-FhTs,-0.0905579607103224,0.003,-0.003
+781,seals,10 years later,EB-FhTs,-0.1469134088226698,0.0001,-0.0001
+782,humpbacks,10 years later,EB-FhTs,-0.3657592953380428,0.0,-0.0
+783,sealions,10 years later,EB-FhTs,-0.0665061527948185,0.0,-0.0
+784,resident orcas,10 years later,EB-FhTs,-0.1465256052245145,0.0,-0.0
+785,transient orcas,10 years later,EB-FhTs,-0.0269496352429543,0.0,-0.0
+786,porpoises,10 years later,EB-FhTn,-0.0507249742178672,0.003,-0.003
+787,seals,10 years later,EB-FhTn,-0.082563388442225,0.0001,-0.0001
+788,humpbacks,10 years later,EB-FhTn,-0.2350327079967518,0.0,-0.0
+789,sealions,10 years later,EB-FhTn,-0.0318543619115396,0.0,-0.0
+790,resident orcas,10 years later,EB-FhTn,-0.093620315037749,0.0,-0.0
+791,transient orcas,10 years later,EB-FhTn,-0.0146656929193045,0.0,-0.0
+792,porpoises,10 years later,JF-FlTs,-0.3553949110566312,0.003,-0.003
+793,seals,10 years later,JF-FlTs,-0.0651594008947287,0.0001,-0.0001
+794,humpbacks,10 years later,JF-FlTs,-0.9820045596924885,0.0,-0.0
+795,sealions,10 years later,JF-FlTs,0.0039063276259798,0.0,-0.0
+796,resident orcas,10 years later,JF-FlTs,-0.1139168727609951,0.0,-0.0
+797,transient orcas,10 years later,JF-FlTs,-0.0871963167202716,0.0,-0.0
+798,porpoises,10 years later,JF-FlTn,-0.3550288082051411,0.003,-0.003
+799,seals,10 years later,JF-FlTn,-0.0655317960016499,0.0001,-0.0001
+800,humpbacks,10 years later,JF-FlTn,-1.0064381361664432,0.0,-0.0
+801,sealions,10 years later,JF-FlTn,0.0072226888113346,0.0,-0.0
+802,resident orcas,10 years later,JF-FlTn,-0.0930250128303189,0.0,-0.0
+803,transient orcas,10 years later,JF-FlTn,-0.0847713272467132,0.0,-0.0
+804,porpoises,10 years later,JF-FhTs,-0.3441408250410638,0.003,-0.003
+805,seals,10 years later,JF-FhTs,-0.0650278429919892,0.0001,-0.0001
+806,humpbacks,10 years later,JF-FhTs,-0.9909206008051497,0.0,-0.0
+807,sealions,10 years later,JF-FhTs,-0.0096246674327182,0.0,-0.0
+808,resident orcas,10 years later,JF-FhTs,-0.0962838878567595,0.0,-0.0
+809,transient orcas,10 years later,JF-FhTs,-0.0756592532930944,0.0,-0.0
+810,porpoises,10 years later,JF-FhTn,-0.2459103671714879,0.003,-0.003
+811,seals,10 years later,JF-FhTn,-0.0716979467063105,0.0001,-0.0001
+812,humpbacks,10 years later,JF-FhTn,-1.038495755971902,0.0,-0.0
+813,sealions,10 years later,JF-FhTn,-0.009788709632631,0.0,-0.0
+814,resident orcas,10 years later,JF-FhTn,-0.1392783352963778,0.0,-0.0
+815,transient orcas,10 years later,JF-FhTn,-0.0730204526795608,0.0,-0.0
+816,porpoises,20 years later,AP-FlTs,-0.0307330733291377,0.003,-0.003
+817,seals,20 years later,AP-FlTs,-0.0704342083304598,0.0001,-0.0001
+818,humpbacks,20 years later,AP-FlTs,-1.0006647483821718,0.0,-0.0
+819,sealions,20 years later,AP-FlTs,-0.0666351248075181,0.0,-0.0
+820,resident orcas,20 years later,AP-FlTs,-0.2156159170964233,0.0,-0.0
+821,transient orcas,20 years later,AP-FlTs,-0.0480358666621283,0.0,-0.0
+822,porpoises,20 years later,AP-FlTn,-0.4421586233135266,0.003,-0.003
+823,seals,20 years later,AP-FlTn,-0.1075612731401742,0.0001,-0.0001
+824,humpbacks,20 years later,AP-FlTn,-0.4219520084762108,0.0,-0.0
+825,sealions,20 years later,AP-FlTn,0.0155190656734427,0.0,-0.0
+826,resident orcas,20 years later,AP-FlTn,-0.0916987116183221,0.0,-0.0
+827,transient orcas,20 years later,AP-FlTn,-0.0868655710635568,0.0,-0.0
+828,porpoises,20 years later,AP-FhTs,-9.0381347663085,0.003,-0.003
+829,seals,20 years later,AP-FhTs,-1.266775056281919,0.0001,-0.0001
+830,humpbacks,20 years later,AP-FhTs,-2.0163028159679333,0.0,-0.0
+831,sealions,20 years later,AP-FhTs,-0.4296880127181279,0.0,-0.0
+832,resident orcas,20 years later,AP-FhTs,-0.4335847620326594,0.0,-0.0
+833,transient orcas,20 years later,AP-FhTs,-0.8728297386874285,0.0,-0.0
+834,porpoises,20 years later,AP-FhTn,-5.8711919789279445,0.003,-0.003
+835,seals,20 years later,AP-FhTn,-0.7693114107508614,0.0001,-0.0001
+836,humpbacks,20 years later,AP-FhTn,-1.2036840956368888,0.0,-0.0
+837,sealions,20 years later,AP-FhTn,-0.2384196660589188,0.0,-0.0
+838,resident orcas,20 years later,AP-FhTn,-0.2961569040686884,0.0,-0.0
+839,transient orcas,20 years later,AP-FhTn,-0.5574900213730093,0.0,-0.0
+840,porpoises,20 years later,TP-FlTs,-8.376358954701011,0.003,-0.003
+841,seals,20 years later,TP-FlTs,-1.2169954812849646,0.0001,-0.0001
+842,humpbacks,20 years later,TP-FlTs,-1.94260601888316,0.0,-0.0
+843,sealions,20 years later,TP-FlTs,-0.2443299090039796,0.0,-0.0
+844,resident orcas,20 years later,TP-FlTs,-0.4012415614984244,0.0,-0.0
+845,transient orcas,20 years later,TP-FlTs,-0.739749874024086,0.0,-0.0
+846,porpoises,20 years later,TP-FlTn,-6.589956521011308,0.003,-0.003
+847,seals,20 years later,TP-FlTn,-1.0089452958754,0.0001,-0.0001
+848,humpbacks,20 years later,TP-FlTn,-2.853275393288798,0.0,-0.0
+849,sealions,20 years later,TP-FlTn,-0.1375310786314476,0.0,-0.0
+850,resident orcas,20 years later,TP-FlTn,-0.348627053311914,0.0,-0.0
+851,transient orcas,20 years later,TP-FlTn,-0.7134180963100611,0.0,-0.0
+852,porpoises,20 years later,TP-FhTs,0.6326746869837652,0.003,-0.003
+853,seals,20 years later,TP-FhTs,-0.1224544520777537,0.0001,-0.0001
+854,humpbacks,20 years later,TP-FhTs,-2.760749094756007,0.0,-0.0
+855,sealions,20 years later,TP-FhTs,0.1195420630741717,0.0,-0.0
+856,resident orcas,20 years later,TP-FhTs,-0.303005056261838,0.0,-0.0
+857,transient orcas,20 years later,TP-FhTs,0.0110352035192251,0.0,-0.0
+858,porpoises,20 years later,TP-FhTn,-8.368455998361839,0.003,-0.003
+859,seals,20 years later,TP-FhTn,-1.215382009430235,0.0001,-0.0001
+860,humpbacks,20 years later,TP-FhTn,-1.8082585480409663,0.0,-0.0
+861,sealions,20 years later,TP-FhTn,-0.2221663351511027,0.0,-0.0
+862,resident orcas,20 years later,TP-FhTn,-0.3727901463484651,0.0,-0.0
+863,transient orcas,20 years later,TP-FhTn,-0.8232226786789342,0.0,-0.0
+864,porpoises,20 years later,EB-FlTs,-0.1921539097310187,0.003,-0.003
+865,seals,20 years later,EB-FlTs,-0.1977097662008431,0.0001,-0.0001
+866,humpbacks,20 years later,EB-FlTs,-2.683045569609956,0.0,-0.0
+867,sealions,20 years later,EB-FlTs,-0.1486701262873024,0.0,-0.0
+868,resident orcas,20 years later,EB-FlTs,-0.4103899420041602,0.0,-0.0
+869,transient orcas,20 years later,EB-FlTs,-0.110012008305862,0.0,-0.0
+870,porpoises,20 years later,EB-FlTn,-0.6618024808265544,0.003,-0.003
+871,seals,20 years later,EB-FlTn,-0.2744377810905951,0.0001,-0.0001
+872,humpbacks,20 years later,EB-FlTn,-1.6003823495359684,0.0,-0.0
+873,sealions,20 years later,EB-FlTn,-0.1884051819579435,0.0,-0.0
+874,resident orcas,20 years later,EB-FlTn,-0.595040475939691,0.0,-0.0
+875,transient orcas,20 years later,EB-FlTn,-0.188129904155192,0.0,-0.0
+876,porpoises,20 years later,EB-FhTs,-0.1499429357352533,0.003,-0.003
+877,seals,20 years later,EB-FhTs,-0.1859314414074908,0.0001,-0.0001
+878,humpbacks,20 years later,EB-FhTs,-1.3356859083083352,0.0,-0.0
+879,sealions,20 years later,EB-FhTs,-0.1667064443722721,0.0,-0.0
+880,resident orcas,20 years later,EB-FhTs,-0.5453980005500847,0.0,-0.0
+881,transient orcas,20 years later,EB-FhTs,-0.100701293132861,0.0,-0.0
+882,porpoises,20 years later,EB-FhTn,-0.1705591758579661,0.003,-0.003
+883,seals,20 years later,EB-FhTn,-0.1435821170984597,0.0001,-0.0001
+884,humpbacks,20 years later,EB-FhTn,-1.4787510963766115,0.0,-0.0
+885,sealions,20 years later,EB-FhTn,-0.1322997702121242,0.0,-0.0
+886,resident orcas,20 years later,EB-FhTn,-0.4949821711223013,0.0,-0.0
+887,transient orcas,20 years later,EB-FhTn,-0.0886945582244702,0.0,-0.0
+888,porpoises,20 years later,JF-FlTs,-6.021307087841349,0.003,-0.003
+889,seals,20 years later,JF-FlTs,-0.860122652408354,0.0001,-0.0001
+890,humpbacks,20 years later,JF-FlTs,-0.8970234350731887,0.0,-0.0
+891,sealions,20 years later,JF-FlTs,-0.1222948013033009,0.0,-0.0
+892,resident orcas,20 years later,JF-FlTs,-0.1056623872970707,0.0,-0.0
+893,transient orcas,20 years later,JF-FlTs,-0.607352512594056,0.0,-0.0
+894,porpoises,20 years later,JF-FlTn,-6.123959604994087,0.003,-0.003
+895,seals,20 years later,JF-FlTn,-0.8650428835842195,0.0001,-0.0001
+896,humpbacks,20 years later,JF-FlTn,-0.929462062747931,0.0,-0.0
+897,sealions,20 years later,JF-FlTn,-0.1240135332277425,0.0,-0.0
+898,resident orcas,20 years later,JF-FlTn,-0.0913175386530862,0.0,-0.0
+899,transient orcas,20 years later,JF-FlTn,-0.6144525093391862,0.0,-0.0
+900,porpoises,20 years later,JF-FhTs,-6.090605306592838,0.003,-0.003
+901,seals,20 years later,JF-FhTs,-0.8771966569147359,0.0001,-0.0001
+902,humpbacks,20 years later,JF-FhTs,-0.9114183339220472,0.0,-0.0
+903,sealions,20 years later,JF-FhTs,-0.1251635855231136,0.0,-0.0
+904,resident orcas,20 years later,JF-FhTs,-0.0897665720797857,0.0,-0.0
+905,transient orcas,20 years later,JF-FhTs,-0.5900643558654517,0.0,-0.0
+906,porpoises,20 years later,JF-FhTn,-4.932100709928342,0.003,-0.003
+907,seals,20 years later,JF-FhTn,-0.7352720398076162,0.0001,-0.0001
+908,humpbacks,20 years later,JF-FhTn,-0.9677242676698704,0.0,-0.0
+909,sealions,20 years later,JF-FhTn,-0.0945615299692281,0.0,-0.0
+910,resident orcas,20 years later,JF-FhTn,-0.120253727941032,0.0,-0.0
+911,transient orcas,20 years later,JF-FhTn,-0.5268767814841324,0.0,-0.0
+912,Chinook,spill year,AP-FlTs,-0.0131150858323914,0.0005,-0.0005
+913,Chum,spill year,AP-FlTs,-0.0240175880330628,0.0,-0.0
+914,Coho,spill year,AP-FlTs,-0.0180963393993827,0.0,-0.0
+915,Pink,spill year,AP-FlTs,-0.0415522041215199,0.0,-0.0
+916,Sockeye,spill year,AP-FlTs,-0.0180008230862571,0.02,-0.02
+917,Hatchery Chinook,spill year,AP-FlTs,-0.0198769446285459,0.0,-0.0
+918,Hatchery Coho,spill year,AP-FlTs,-0.0231400522424577,0.0,-0.0
+919,Hatchery Sockeye,spill year,AP-FlTs,-0.0388324165432848,0.0,-0.0
+920,Other salmonids,spill year,AP-FlTs,-0.0113466697504269,0.0,-0.0
+921,Chinook,spill year,AP-FlTn,-0.0103676194805424,0.0005,-0.0005
+922,Chum,spill year,AP-FlTn,-0.0209624497841254,0.0,-0.0
+923,Coho,spill year,AP-FlTn,-0.0138538768106122,0.0,-0.0
+924,Pink,spill year,AP-FlTn,-0.0235241141696485,0.0,-0.0
+925,Sockeye,spill year,AP-FlTn,-0.0149545245126136,0.02,-0.02
+926,Hatchery Chinook,spill year,AP-FlTn,-0.0169683973377946,0.0,-0.0
+927,Hatchery Coho,spill year,AP-FlTn,-0.0190912084923056,0.0,-0.0
+928,Hatchery Sockeye,spill year,AP-FlTn,-0.0452801960292588,0.0,-0.0
+929,Other salmonids,spill year,AP-FlTn,-0.0252629420681438,0.0,-0.0
+930,Chinook,spill year,AP-FhTs,-0.0099242271187072,0.0005,-0.0005
+931,Chum,spill year,AP-FhTs,-0.0164972682167419,0.0,-0.0
+932,Coho,spill year,AP-FhTs,-0.0112494782731542,0.0,-0.0
+933,Pink,spill year,AP-FhTs,-0.0224722574539337,0.0,-0.0
+934,Sockeye,spill year,AP-FhTs,-0.0114407031091889,0.02,-0.02
+935,Hatchery Chinook,spill year,AP-FhTs,-0.0157381659727451,0.0,-0.0
+936,Hatchery Coho,spill year,AP-FhTs,-0.015508530804383,0.0,-0.0
+937,Hatchery Sockeye,spill year,AP-FhTs,-0.0345873038497165,0.0,-0.0
+938,Other salmonids,spill year,AP-FhTs,-0.0079939845427909,0.0,-0.0
+939,Chinook,spill year,AP-FhTn,-0.007627665131884,0.0005,-0.0005
+940,Chum,spill year,AP-FhTn,-0.0122807771480881,0.0,-0.0
+941,Coho,spill year,AP-FhTn,-0.0093861972427378,0.0,-0.0
+942,Pink,spill year,AP-FhTn,-0.0188055278008714,0.0,-0.0
+943,Sockeye,spill year,AP-FhTn,-0.0093223430261502,0.02,-0.02
+944,Hatchery Chinook,spill year,AP-FhTn,-0.0128119662795171,0.0,-0.0
+945,Hatchery Coho,spill year,AP-FhTn,-0.0122150212677585,0.0,-0.0
+946,Hatchery Sockeye,spill year,AP-FhTn,-0.0158351345241151,0.0,-0.0
+947,Other salmonids,spill year,AP-FhTn,-0.0065129196115371,0.0,-0.0
+948,Chinook,spill year,TP-FlTs,-0.0863691574867919,0.0005,-0.0005
+949,Chum,spill year,TP-FlTs,-0.1456600237211391,0.0,-0.0
+950,Coho,spill year,TP-FlTs,-0.1020525781361292,0.0,-0.0
+951,Pink,spill year,TP-FlTs,-0.158391030220899,0.0,-0.0
+952,Sockeye,spill year,TP-FlTs,-0.1096537722269475,0.02,-0.02
+953,Hatchery Chinook,spill year,TP-FlTs,-0.1341198480298751,0.0,-0.0
+954,Hatchery Coho,spill year,TP-FlTs,-0.1248165726946156,0.0,-0.0
+955,Hatchery Sockeye,spill year,TP-FlTs,-0.3362331026933322,0.0,-0.0
+956,Other salmonids,spill year,TP-FlTs,-0.1416141174351695,0.0,-0.0
+957,Chinook,spill year,TP-FlTn,-0.0817036265205528,0.0005,-0.0005
+958,Chum,spill year,TP-FlTn,-0.1375363727358136,0.0,-0.0
+959,Coho,spill year,TP-FlTn,-0.0934522895045053,0.0,-0.0
+960,Pink,spill year,TP-FlTn,-0.1387568331699329,0.0,-0.0
+961,Sockeye,spill year,TP-FlTn,-0.10075541144134,0.02,-0.02
+962,Hatchery Chinook,spill year,TP-FlTn,-0.1080021623693953,0.0,-0.0
+963,Hatchery Coho,spill year,TP-FlTn,-0.1010766658259794,0.0,-0.0
+964,Hatchery Sockeye,spill year,TP-FlTn,-0.143300872364549,0.0,-0.0
+965,Other salmonids,spill year,TP-FlTn,-0.14125762340947,0.0,-0.0
+966,Chinook,spill year,TP-FhTs,-0.038948573827986,0.0005,-0.0005
+967,Chum,spill year,TP-FhTs,-0.0654690547275871,0.0,-0.0
+968,Coho,spill year,TP-FhTs,-0.043783919634055,0.0,-0.0
+969,Pink,spill year,TP-FhTs,-0.064154101044489,0.0,-0.0
+970,Sockeye,spill year,TP-FhTs,-0.0442523012239148,0.02,-0.02
+971,Hatchery Chinook,spill year,TP-FhTs,-0.0441358097655775,0.0,-0.0
+972,Hatchery Coho,spill year,TP-FhTs,-0.0465414269194219,0.0,-0.0
+973,Hatchery Sockeye,spill year,TP-FhTs,-0.1311550870548757,0.0,-0.0
+974,Other salmonids,spill year,TP-FhTs,-0.0435273110282102,0.0,-0.0
+975,Chinook,spill year,TP-FhTn,-0.042576515900925,0.0005,-0.0005
+976,Chum,spill year,TP-FhTn,-0.0727827427148053,0.0,-0.0
+977,Coho,spill year,TP-FhTn,-0.0491915451620528,0.0,-0.0
+978,Pink,spill year,TP-FhTn,-0.0785269994576687,0.0,-0.0
+979,Sockeye,spill year,TP-FhTn,-0.0473500099778179,0.02,-0.02
+980,Hatchery Chinook,spill year,TP-FhTn,-0.0519944591127363,0.0,-0.0
+981,Hatchery Coho,spill year,TP-FhTn,-0.0537534614707328,0.0,-0.0
+982,Hatchery Sockeye,spill year,TP-FhTn,-0.1899561422515831,0.0,-0.0
+983,Other salmonids,spill year,TP-FhTn,-0.0486227526988111,0.0,-0.0
+984,Chinook,spill year,EB-FlTs,-0.0292134325235937,0.0005,-0.0005
+985,Chum,spill year,EB-FlTs,-0.0512273005029095,0.0,-0.0
+986,Coho,spill year,EB-FlTs,-0.0366908568206447,0.0,-0.0
+987,Pink,spill year,EB-FlTs,-0.0619726716079771,0.0,-0.0
+988,Sockeye,spill year,EB-FlTs,-0.0417063332969158,0.02,-0.02
+989,Hatchery Chinook,spill year,EB-FlTs,-0.0480965679395965,0.0,-0.0
+990,Hatchery Coho,spill year,EB-FlTs,-0.0615113104414236,0.0,-0.0
+991,Hatchery Sockeye,spill year,EB-FlTs,-0.0845929925209117,0.0,-0.0
+992,Other salmonids,spill year,EB-FlTs,-0.0551194372105781,0.0,-0.0
+993,Chinook,spill year,EB-FlTn,-0.0269071017728195,0.0005,-0.0005
+994,Chum,spill year,EB-FlTn,-0.0520316031361001,0.0,-0.0
+995,Coho,spill year,EB-FlTn,-0.034221661173126,0.0,-0.0
+996,Pink,spill year,EB-FlTn,-0.060743288416778,0.0,-0.0
+997,Sockeye,spill year,EB-FlTn,-0.0385120429918828,0.02,-0.02
+998,Hatchery Chinook,spill year,EB-FlTn,-0.0375937695968923,0.0,-0.0
+999,Hatchery Coho,spill year,EB-FlTn,-0.0523450412519295,0.0,-0.0
+1000,Hatchery Sockeye,spill year,EB-FlTn,-0.0721446057554235,0.0,-0.0
+1001,Other salmonids,spill year,EB-FlTn,-0.052012743494742,0.0,-0.0
+1002,Chinook,spill year,EB-FhTs,-0.0099368382085374,0.0005,-0.0005
+1003,Chum,spill year,EB-FhTs,-0.013634700397751,0.0,-0.0
+1004,Coho,spill year,EB-FhTs,-0.0108133235137453,0.0,-0.0
+1005,Pink,spill year,EB-FhTs,-0.0172084783198966,0.0,-0.0
+1006,Sockeye,spill year,EB-FhTs,-0.0106638263224501,0.02,-0.02
+1007,Hatchery Chinook,spill year,EB-FhTs,-0.0225351013370659,0.0,-0.0
+1008,Hatchery Coho,spill year,EB-FhTs,-0.0230427282925512,0.0,-0.0
+1009,Hatchery Sockeye,spill year,EB-FhTs,-0.0253754850971973,0.0,-0.0
+1010,Other salmonids,spill year,EB-FhTs,-0.0091145560787209,0.0,-0.0
+1011,Chinook,spill year,EB-FhTn,-0.0034093324560791,0.0005,-0.0005
+1012,Chum,spill year,EB-FhTn,-0.004747816373738,0.0,-0.0
+1013,Coho,spill year,EB-FhTn,-0.003837685696193,0.0,-0.0
+1014,Pink,spill year,EB-FhTn,-0.0050177121359551,0.0,-0.0
+1015,Sockeye,spill year,EB-FhTn,-0.0037384332579426,0.02,-0.02
+1016,Hatchery Chinook,spill year,EB-FhTn,-0.0099597735683169,0.0,-0.0
+1017,Hatchery Coho,spill year,EB-FhTn,-0.0099571721010753,0.0,-0.0
+1018,Hatchery Sockeye,spill year,EB-FhTn,-0.0033868726137938,0.0,-0.0
+1019,Other salmonids,spill year,EB-FhTn,-0.0051051123469633,0.0,-0.0
+1020,Chinook,spill year,JF-FlTs,-0.0661293967101261,0.0005,-0.0005
+1021,Chum,spill year,JF-FlTs,-0.0926340310788553,0.0,-0.0
+1022,Coho,spill year,JF-FlTs,-0.0623446018902984,0.0,-0.0
+1023,Pink,spill year,JF-FlTs,-0.0256760472405925,0.0,-0.0
+1024,Sockeye,spill year,JF-FlTs,-0.0683839362522742,0.02,-0.02
+1025,Hatchery Chinook,spill year,JF-FlTs,-0.0664225976142796,0.0,-0.0
+1026,Hatchery Coho,spill year,JF-FlTs,-0.0483805744321016,0.0,-0.0
+1027,Hatchery Sockeye,spill year,JF-FlTs,-0.0624234317523527,0.0,-0.0
+1028,Other salmonids,spill year,JF-FlTs,-0.0820619671084252,0.0,-0.0
+1029,Chinook,spill year,JF-FlTn,-0.0472207895907161,0.0005,-0.0005
+1030,Chum,spill year,JF-FlTn,-0.0688970031176672,0.0,-0.0
+1031,Coho,spill year,JF-FlTn,-0.045444844615472,0.0,-0.0
+1032,Pink,spill year,JF-FlTn,-0.0248376174112108,0.0,-0.0
+1033,Sockeye,spill year,JF-FlTn,-0.048665254254947,0.02,-0.02
+1034,Hatchery Chinook,spill year,JF-FlTn,-0.0485053984954723,0.0,-0.0
+1035,Hatchery Coho,spill year,JF-FlTn,-0.0377025756421955,0.0,-0.0
+1036,Hatchery Sockeye,spill year,JF-FlTn,-0.0488147310837942,0.0,-0.0
+1037,Other salmonids,spill year,JF-FlTn,-0.0755675635078154,0.0,-0.0
+1038,Chinook,spill year,JF-FhTs,-0.0282308641181794,0.0005,-0.0005
+1039,Chum,spill year,JF-FhTs,-0.0399711468967223,0.0,-0.0
+1040,Coho,spill year,JF-FhTs,-0.0276356001063149,0.0,-0.0
+1041,Pink,spill year,JF-FhTs,-0.0230316954455966,0.0,-0.0
+1042,Sockeye,spill year,JF-FhTs,-0.0292867943102659,0.02,-0.02
+1043,Hatchery Chinook,spill year,JF-FhTs,-0.024437686855594,0.0,-0.0
+1044,Hatchery Coho,spill year,JF-FhTs,-0.0216260927811721,0.0,-0.0
+1045,Hatchery Sockeye,spill year,JF-FhTs,-0.0281015710331937,0.0,-0.0
+1046,Other salmonids,spill year,JF-FhTs,-0.0272150657806641,0.0,-0.0
+1047,Chinook,spill year,JF-FhTn,-0.0375030437010259,0.0005,-0.0005
+1048,Chum,spill year,JF-FhTn,-0.0538624603558313,0.0,-0.0
+1049,Coho,spill year,JF-FhTn,-0.0359749872959969,0.0,-0.0
+1050,Pink,spill year,JF-FhTn,-0.0277474095878438,0.0,-0.0
+1051,Sockeye,spill year,JF-FhTn,-0.0368506976256988,0.02,-0.02
+1052,Hatchery Chinook,spill year,JF-FhTn,-0.024435161071364,0.0,-0.0
+1053,Hatchery Coho,spill year,JF-FhTn,-0.0226460660164555,0.0,-0.0
+1054,Hatchery Sockeye,spill year,JF-FhTn,-0.0310515021916405,0.0,-0.0
+1055,Other salmonids,spill year,JF-FhTn,-0.0315534054043706,0.0,-0.0
+1056,Chinook,10 years later,AP-FlTs,-0.0882688715102841,0.0005,-0.0005
+1057,Chum,10 years later,AP-FlTs,-0.2370350730733106,0.0,-0.0
+1058,Coho,10 years later,AP-FlTs,-0.1129825838274389,0.0,-0.0
+1059,Pink,10 years later,AP-FlTs,-0.1775267711343353,0.0,-0.0
+1060,Sockeye,10 years later,AP-FlTs,-0.1757523276133454,0.02,-0.02
+1061,Hatchery Chinook,10 years later,AP-FlTs,-0.2151478923826203,0.0,-0.0
+1062,Hatchery Coho,10 years later,AP-FlTs,-0.0860771243387052,0.0,-0.0
+1063,Hatchery Sockeye,10 years later,AP-FlTs,-0.1813140937926542,0.0,-0.0
+1064,Other salmonids,10 years later,AP-FlTs,0.7316674234151888,0.0,-0.0
+1065,Chinook,10 years later,AP-FlTn,-0.0092903061871174,0.0005,-0.0005
+1066,Chum,10 years later,AP-FlTn,-0.0431934323742622,0.0,-0.0
+1067,Coho,10 years later,AP-FlTn,0.001014385092386,0.0,-0.0
+1068,Pink,10 years later,AP-FlTn,0.0241690638747682,0.0,-0.0
+1069,Sockeye,10 years later,AP-FlTn,0.0658193508853699,0.02,-0.02
+1070,Hatchery Chinook,10 years later,AP-FlTn,-0.2149859695400861,0.0,-0.0
+1071,Hatchery Coho,10 years later,AP-FlTn,-0.1734796744798298,0.0,-0.0
+1072,Hatchery Sockeye,10 years later,AP-FlTn,-0.4094637417429695,0.0,-0.0
+1073,Other salmonids,10 years later,AP-FlTn,0.0715093218162585,0.0,-0.0
+1074,Chinook,10 years later,AP-FhTs,-0.2277309876816469,0.0005,-0.0005
+1075,Chum,10 years later,AP-FhTs,-0.6122551157319389,0.0,-0.0
+1076,Coho,10 years later,AP-FhTs,-0.2508055815623944,0.0,-0.0
+1077,Pink,10 years later,AP-FhTs,-0.305041475908685,0.0,-0.0
+1078,Sockeye,10 years later,AP-FhTs,-0.3256255030321564,0.02,-0.02
+1079,Hatchery Chinook,10 years later,AP-FhTs,-0.5293428150917009,0.0,-0.0
+1080,Hatchery Coho,10 years later,AP-FhTs,-0.5264323070261923,0.0,-0.0
+1081,Hatchery Sockeye,10 years later,AP-FhTs,-0.810526270271598,0.0,-0.0
+1082,Other salmonids,10 years later,AP-FhTs,0.6287929258676176,0.0,-0.0
+1083,Chinook,10 years later,AP-FhTn,-0.1167637209214378,0.0005,-0.0005
+1084,Chum,10 years later,AP-FhTn,-0.3124973977065748,0.0,-0.0
+1085,Coho,10 years later,AP-FhTn,-0.1204527775854868,0.0,-0.0
+1086,Pink,10 years later,AP-FhTn,-0.1849449867941954,0.0,-0.0
+1087,Sockeye,10 years later,AP-FhTn,-0.1202608264930993,0.02,-0.02
+1088,Hatchery Chinook,10 years later,AP-FhTn,-0.3881710457145322,0.0,-0.0
+1089,Hatchery Coho,10 years later,AP-FhTn,-0.3749837169118475,0.0,-0.0
+1090,Hatchery Sockeye,10 years later,AP-FhTn,-0.5187639315151574,0.0,-0.0
+1091,Other salmonids,10 years later,AP-FhTn,0.2700815894474337,0.0,-0.0
+1092,Chinook,10 years later,TP-FlTs,0.2694110483126311,0.0005,-0.0005
+1093,Chum,10 years later,TP-FlTs,0.2990544462611222,0.0,-0.0
+1094,Coho,10 years later,TP-FlTs,0.1397243541890613,0.0,-0.0
+1095,Pink,10 years later,TP-FlTs,0.2813827710642314,0.0,-0.0
+1096,Sockeye,10 years later,TP-FlTs,0.6185085279891589,0.02,-0.02
+1097,Hatchery Chinook,10 years later,TP-FlTs,-0.4780740530301012,0.0,-0.0
+1098,Hatchery Coho,10 years later,TP-FlTs,-0.5796806400804008,0.0,-0.0
+1099,Hatchery Sockeye,10 years later,TP-FlTs,-0.9946414902457734,0.0,-0.0
+1100,Other salmonids,10 years later,TP-FlTs,0.0912195707533342,0.0,-0.0
+1101,Chinook,10 years later,TP-FlTn,0.2511172453779942,0.0005,-0.0005
+1102,Chum,10 years later,TP-FlTn,0.2309244325245352,0.0,-0.0
+1103,Coho,10 years later,TP-FlTn,0.213834360481806,0.0,-0.0
+1104,Pink,10 years later,TP-FlTn,0.2659498110077085,0.0,-0.0
+1105,Sockeye,10 years later,TP-FlTn,0.5539967810356416,0.02,-0.02
+1106,Hatchery Chinook,10 years later,TP-FlTn,-0.3579044693875414,0.0,-0.0
+1107,Hatchery Coho,10 years later,TP-FlTn,-0.3742310647696811,0.0,-0.0
+1108,Hatchery Sockeye,10 years later,TP-FlTn,-0.6279023128830737,0.0,-0.0
+1109,Other salmonids,10 years later,TP-FlTn,-0.2421402460169266,0.0,-0.0
+1110,Chinook,10 years later,TP-FhTs,0.2401782789920226,0.0005,-0.0005
+1111,Chum,10 years later,TP-FhTs,0.3381268618893052,0.0,-0.0
+1112,Coho,10 years later,TP-FhTs,0.4444267783616173,0.0,-0.0
+1113,Pink,10 years later,TP-FhTs,0.5215474489450189,0.0,-0.0
+1114,Sockeye,10 years later,TP-FhTs,1.0621505346659887,0.02,-0.02
+1115,Hatchery Chinook,10 years later,TP-FhTs,-0.364959352905699,0.0,-0.0
+1116,Hatchery Coho,10 years later,TP-FhTs,-0.270972776989864,0.0,-0.0
+1117,Hatchery Sockeye,10 years later,TP-FhTs,-0.9993929603931824,0.0,-0.0
+1118,Other salmonids,10 years later,TP-FhTs,-0.0107885140298233,0.0,-0.0
+1119,Chinook,10 years later,TP-FhTn,0.1861903896273187,0.0005,-0.0005
+1120,Chum,10 years later,TP-FhTn,0.0695619749044107,0.0,-0.0
+1121,Coho,10 years later,TP-FhTn,0.1718079103864078,0.0,-0.0
+1122,Pink,10 years later,TP-FhTn,0.2270464239667879,0.0,-0.0
+1123,Sockeye,10 years later,TP-FhTn,0.6957160071509304,0.02,-0.02
+1124,Hatchery Chinook,10 years later,TP-FhTn,-0.5647411069116074,0.0,-0.0
+1125,Hatchery Coho,10 years later,TP-FhTn,-0.6529032846707583,0.0,-0.0
+1126,Hatchery Sockeye,10 years later,TP-FhTn,-1.050658999454727,0.0,-0.0
+1127,Other salmonids,10 years later,TP-FhTn,0.6728714156443119,0.0,-0.0
+1128,Chinook,10 years later,EB-FlTs,-0.1704728621922169,0.0005,-0.0005
+1129,Chum,10 years later,EB-FlTs,-0.4528260681912255,0.0,-0.0
+1130,Coho,10 years later,EB-FlTs,-0.193602151940333,0.0,-0.0
+1131,Pink,10 years later,EB-FlTs,-0.2601418211926343,0.0,-0.0
+1132,Sockeye,10 years later,EB-FlTs,-0.2957187427770757,0.02,-0.02
+1133,Hatchery Chinook,10 years later,EB-FlTs,-0.3953275254922728,0.0,-0.0
+1134,Hatchery Coho,10 years later,EB-FlTs,-0.208132772732635,0.0,-0.0
+1135,Hatchery Sockeye,10 years later,EB-FlTs,-0.4433388549516359,0.0,-0.0
+1136,Other salmonids,10 years later,EB-FlTs,0.424317877420581,0.0,-0.0
+1137,Chinook,10 years later,EB-FlTn,-0.1607716479006238,0.0005,-0.0005
+1138,Chum,10 years later,EB-FlTn,-0.4383310370360838,0.0,-0.0
+1139,Coho,10 years later,EB-FlTn,-0.1763930019880488,0.0,-0.0
+1140,Pink,10 years later,EB-FlTn,-0.2191525760648516,0.0,-0.0
+1141,Sockeye,10 years later,EB-FlTn,-0.2622009086741239,0.02,-0.02
+1142,Hatchery Chinook,10 years later,EB-FlTn,-0.422473358055464,0.0,-0.0
+1143,Hatchery Coho,10 years later,EB-FlTn,-0.3086107856774507,0.0,-0.0
+1144,Hatchery Sockeye,10 years later,EB-FlTn,-0.5773824709937406,0.0,-0.0
+1145,Other salmonids,10 years later,EB-FlTn,0.4040919542288592,0.0,-0.0
+1146,Chinook,10 years later,EB-FhTs,-0.1583389266602064,0.0005,-0.0005
+1147,Chum,10 years later,EB-FhTs,-0.3794543728294219,0.0,-0.0
+1148,Coho,10 years later,EB-FhTs,-0.1707471462755516,0.0,-0.0
+1149,Pink,10 years later,EB-FhTs,-0.222199537257608,0.0,-0.0
+1150,Sockeye,10 years later,EB-FhTs,-0.2579457485469794,0.02,-0.02
+1151,Hatchery Chinook,10 years later,EB-FhTs,-0.3547205389655361,0.0,-0.0
+1152,Hatchery Coho,10 years later,EB-FhTs,-0.2340076537704368,0.0,-0.0
+1153,Hatchery Sockeye,10 years later,EB-FhTs,-0.5045078057897556,0.0,-0.0
+1154,Other salmonids,10 years later,EB-FhTs,0.0559008463904608,0.0,-0.0
+1155,Chinook,10 years later,EB-FhTn,-0.0666182951688321,0.0005,-0.0005
+1156,Chum,10 years later,EB-FhTn,-0.1944833041755833,0.0,-0.0
+1157,Coho,10 years later,EB-FhTn,-0.0658366242653962,0.0,-0.0
+1158,Pink,10 years later,EB-FhTn,-0.0991974421199914,0.0,-0.0
+1159,Sockeye,10 years later,EB-FhTn,-0.1075042090127897,0.02,-0.02
+1160,Hatchery Chinook,10 years later,EB-FhTn,-0.1591610087004036,0.0,-0.0
+1161,Hatchery Coho,10 years later,EB-FhTn,-0.0834485414079192,0.0,-0.0
+1162,Hatchery Sockeye,10 years later,EB-FhTn,-0.0370212533777336,0.0,-0.0
+1163,Other salmonids,10 years later,EB-FhTn,-0.3094905188924801,0.0,-0.0
+1164,Chinook,10 years later,JF-FlTs,0.246149832484972,0.0005,-0.0005
+1165,Chum,10 years later,JF-FlTs,0.3602466483694111,0.0,-0.0
+1166,Coho,10 years later,JF-FlTs,0.1757359841902395,0.0,-0.0
+1167,Pink,10 years later,JF-FlTs,0.3084029348344286,0.0,-0.0
+1168,Sockeye,10 years later,JF-FlTs,0.4910471336970978,0.02,-0.02
+1169,Hatchery Chinook,10 years later,JF-FlTs,-0.1665444649209072,0.0,-0.0
+1170,Hatchery Coho,10 years later,JF-FlTs,-0.2090239762339167,0.0,-0.0
+1171,Hatchery Sockeye,10 years later,JF-FlTs,-0.1849333968379422,0.0,-0.0
+1172,Other salmonids,10 years later,JF-FlTs,-0.0348641210403274,0.0,-0.0
+1173,Chinook,10 years later,JF-FlTn,0.2733431354697124,0.0005,-0.0005
+1174,Chum,10 years later,JF-FlTn,0.3909482308460776,0.0,-0.0
+1175,Coho,10 years later,JF-FlTn,0.1967602426539394,0.0,-0.0
+1176,Pink,10 years later,JF-FlTn,0.3094165943005844,0.0,-0.0
+1177,Sockeye,10 years later,JF-FlTn,0.5149016782759719,0.02,-0.02
+1178,Hatchery Chinook,10 years later,JF-FlTn,-0.1677537892901185,0.0,-0.0
+1179,Hatchery Coho,10 years later,JF-FlTn,-0.2067788981841345,0.0,-0.0
+1180,Hatchery Sockeye,10 years later,JF-FlTn,-0.1866507502592577,0.0,-0.0
+1181,Other salmonids,10 years later,JF-FlTn,-0.0060351941955943,0.0,-0.0
+1182,Chinook,10 years later,JF-FhTs,0.2461654321844775,0.0005,-0.0005
+1183,Chum,10 years later,JF-FhTs,0.3451550627272093,0.0,-0.0
+1184,Coho,10 years later,JF-FhTs,0.1700415329186855,0.0,-0.0
+1185,Pink,10 years later,JF-FhTs,0.273061172860638,0.0,-0.0
+1186,Sockeye,10 years later,JF-FhTs,0.4691581003049605,0.02,-0.02
+1187,Hatchery Chinook,10 years later,JF-FhTs,-0.1747919333340841,0.0,-0.0
+1188,Hatchery Coho,10 years later,JF-FhTs,-0.2132236858139014,0.0,-0.0
+1189,Hatchery Sockeye,10 years later,JF-FhTs,-0.1920218889571427,0.0,-0.0
+1190,Other salmonids,10 years later,JF-FhTs,0.004858407611169,0.0,-0.0
+1191,Chinook,10 years later,JF-FhTn,0.2169140186138962,0.0005,-0.0005
+1192,Chum,10 years later,JF-FhTn,0.2910191029171671,0.0,-0.0
+1193,Coho,10 years later,JF-FhTn,0.1404597396941831,0.0,-0.0
+1194,Pink,10 years later,JF-FhTn,0.2270218146583902,0.0,-0.0
+1195,Sockeye,10 years later,JF-FhTn,0.429224963273469,0.02,-0.02
+1196,Hatchery Chinook,10 years later,JF-FhTn,-0.216060111710048,0.0,-0.0
+1197,Hatchery Coho,10 years later,JF-FhTn,-0.1932678791859876,0.0,-0.0
+1198,Hatchery Sockeye,10 years later,JF-FhTn,-0.1978192006716968,0.0,-0.0
+1199,Other salmonids,10 years later,JF-FhTn,0.1146478663825376,0.0,-0.0
+1200,Chinook,20 years later,AP-FlTs,-0.0377201280280603,0.0005,-0.0005
+1201,Chum,20 years later,AP-FlTs,0.1177040044937749,0.0,-0.0
+1202,Coho,20 years later,AP-FlTs,-0.0290500642752911,0.0,-0.0
+1203,Pink,20 years later,AP-FlTs,-0.0869310405706125,0.0,-0.0
+1204,Sockeye,20 years later,AP-FlTs,0.084344593477208,0.02,-0.02
+1205,Hatchery Chinook,20 years later,AP-FlTs,-0.1810232483479482,0.0,-0.0
+1206,Hatchery Coho,20 years later,AP-FlTs,-0.0931941085781836,0.0,-0.0
+1207,Hatchery Sockeye,20 years later,AP-FlTs,0.0580132908755914,0.0,-0.0
+1208,Other salmonids,20 years later,AP-FlTs,0.1930476859522287,0.0,-0.0
+1209,Chinook,20 years later,AP-FlTn,0.094696185703671,0.0005,-0.0005
+1210,Chum,20 years later,AP-FlTn,0.6157815414025869,0.0,-0.0
+1211,Coho,20 years later,AP-FlTn,0.1607051000291814,0.0,-0.0
+1212,Pink,20 years later,AP-FlTn,0.1493785112677503,0.0,-0.0
+1213,Sockeye,20 years later,AP-FlTn,0.4363227100958622,0.02,-0.02
+1214,Hatchery Chinook,20 years later,AP-FlTn,-0.1951260216647932,0.0,-0.0
+1215,Hatchery Coho,20 years later,AP-FlTn,-0.1493891052972669,0.0,-0.0
+1216,Hatchery Sockeye,20 years later,AP-FlTn,-1.2478143032236488,0.0,-0.0
+1217,Other salmonids,20 years later,AP-FlTn,-0.1759045807912126,0.0,-0.0
+1218,Chinook,20 years later,AP-FhTs,-0.9233774776686032,0.0005,-0.0005
+1219,Chum,20 years later,AP-FhTs,-1.361641644745384,0.0,-0.0
+1220,Coho,20 years later,AP-FhTs,-1.326820517059384,0.0,-0.0
+1221,Pink,20 years later,AP-FhTs,-0.3987941112176707,0.0,-0.0
+1222,Sockeye,20 years later,AP-FhTs,-1.811146336837124,0.02,-0.02
+1223,Hatchery Chinook,20 years later,AP-FhTs,-0.8005686224687595,0.0,-0.0
+1224,Hatchery Coho,20 years later,AP-FhTs,-3.3543356151362023,0.0,-0.0
+1225,Hatchery Sockeye,20 years later,AP-FhTs,-12.906389207543652,0.0,-0.0
+1226,Other salmonids,20 years later,AP-FhTs,-0.5325096425906826,0.0,-0.0
+1227,Chinook,20 years later,AP-FhTn,-0.4674177042479654,0.0005,-0.0005
+1228,Chum,20 years later,AP-FhTn,-0.4536640227543675,0.0,-0.0
+1229,Coho,20 years later,AP-FhTn,-0.7035457870627515,0.0,-0.0
+1230,Pink,20 years later,AP-FhTn,-0.0685052031069499,0.0,-0.0
+1231,Sockeye,20 years later,AP-FhTn,-0.9384304950297848,0.02,-0.02
+1232,Hatchery Chinook,20 years later,AP-FhTn,-0.5898817614749826,0.0,-0.0
+1233,Hatchery Coho,20 years later,AP-FhTn,-2.579216274509854,0.0,-0.0
+1234,Hatchery Sockeye,20 years later,AP-FhTn,-7.042363169410682,0.0,-0.0
+1235,Other salmonids,20 years later,AP-FhTn,-0.4799027934372576,0.0,-0.0
+1236,Chinook,20 years later,TP-FlTs,-0.0836912907617914,0.0005,-0.0005
+1237,Chum,20 years later,TP-FlTs,-0.2110514393629503,0.0,-0.0
+1238,Coho,20 years later,TP-FlTs,-0.6289182241354618,0.0,-0.0
+1239,Pink,20 years later,TP-FlTs,0.5596557111736655,0.0,-0.0
+1240,Sockeye,20 years later,TP-FlTs,-0.48163693483251,0.02,-0.02
+1241,Hatchery Chinook,20 years later,TP-FlTs,-0.5834236775537146,0.0,-0.0
+1242,Hatchery Coho,20 years later,TP-FlTs,-3.3050164482771613,0.0,-0.0
+1243,Hatchery Sockeye,20 years later,TP-FlTs,-12.967740711543726,0.0,-0.0
+1244,Other salmonids,20 years later,TP-FlTs,-0.6622975521913654,0.0,-0.0
+1245,Chinook,20 years later,TP-FlTn,-0.0971589963801711,0.0005,-0.0005
+1246,Chum,20 years later,TP-FlTn,-0.354592957041453,0.0,-0.0
+1247,Coho,20 years later,TP-FlTn,-0.3261321572980491,0.0,-0.0
+1248,Pink,20 years later,TP-FlTn,0.4091015455241287,0.0,-0.0
+1249,Sockeye,20 years later,TP-FlTn,-0.2573154302354674,0.02,-0.02
+1250,Hatchery Chinook,20 years later,TP-FlTn,-0.6532219487306867,0.0,-0.0
+1251,Hatchery Coho,20 years later,TP-FlTn,-2.779157593158473,0.0,-0.0
+1252,Hatchery Sockeye,20 years later,TP-FlTn,-7.6655290552274336,0.0,-0.0
+1253,Other salmonids,20 years later,TP-FlTn,-0.8497931056633379,0.0,-0.0
+1254,Chinook,20 years later,TP-FhTs,0.378518507008605,0.0005,-0.0005
+1255,Chum,20 years later,TP-FhTs,0.95208941289743,0.0,-0.0
+1256,Coho,20 years later,TP-FhTs,0.7346556828614514,0.0,-0.0
+1257,Pink,20 years later,TP-FhTs,0.7834476944402313,0.0,-0.0
+1258,Sockeye,20 years later,TP-FhTs,1.152567967581286,0.02,-0.02
+1259,Hatchery Chinook,20 years later,TP-FhTs,-0.4041776981172288,0.0,-0.0
+1260,Hatchery Coho,20 years later,TP-FhTs,-0.1697673586378364,0.0,-0.0
+1261,Hatchery Sockeye,20 years later,TP-FhTs,-1.6964958524190816,0.0,-0.0
+1262,Other salmonids,20 years later,TP-FhTs,-0.625865372342585,0.0,-0.0
+1263,Chinook,20 years later,TP-FhTn,-0.2501588241161223,0.0005,-0.0005
+1264,Chum,20 years later,TP-FhTn,-0.6575977065717131,0.0,-0.0
+1265,Coho,20 years later,TP-FhTn,-0.5888811311011954,0.0,-0.0
+1266,Pink,20 years later,TP-FhTn,0.2565110416457283,0.0,-0.0
+1267,Sockeye,20 years later,TP-FhTn,-0.5524056794359256,0.02,-0.02
+1268,Hatchery Chinook,20 years later,TP-FhTn,-0.7872349787518015,0.0,-0.0
+1269,Hatchery Coho,20 years later,TP-FhTn,-3.4489172018829244,0.0,-0.0
+1270,Hatchery Sockeye,20 years later,TP-FhTn,-13.379798022389712,0.0,-0.0
+1271,Other salmonids,20 years later,TP-FhTn,-0.6143529562722654,0.0,-0.0
+1272,Chinook,20 years later,EB-FlTs,-0.2236291530254841,0.0005,-0.0005
+1273,Chum,20 years later,EB-FlTs,0.0673774246351932,0.0,-0.0
+1274,Coho,20 years later,EB-FlTs,-0.1359077744804238,0.0,-0.0
+1275,Pink,20 years later,EB-FlTs,-0.4801010197003674,0.0,-0.0
+1276,Sockeye,20 years later,EB-FlTs,-0.1686585966970799,0.02,-0.02
+1277,Hatchery Chinook,20 years later,EB-FlTs,-0.435485104956379,0.0,-0.0
+1278,Hatchery Coho,20 years later,EB-FlTs,-0.1876314751334207,0.0,-0.0
+1279,Hatchery Sockeye,20 years later,EB-FlTs,-1.7788267268040023,0.0,-0.0
+1280,Other salmonids,20 years later,EB-FlTs,-0.1971165904998795,0.0,-0.0
+1281,Chinook,20 years later,EB-FlTn,-0.255285679806374,0.0005,-0.0005
+1282,Chum,20 years later,EB-FlTn,0.1036773778562905,0.0,-0.0
+1283,Coho,20 years later,EB-FlTn,-0.2171786784047591,0.0,-0.0
+1284,Pink,20 years later,EB-FlTn,-0.354996146893396,0.0,-0.0
+1285,Sockeye,20 years later,EB-FlTn,-0.262634855345969,0.02,-0.02
+1286,Hatchery Chinook,20 years later,EB-FlTn,-0.5755677680368554,0.0,-0.0
+1287,Hatchery Coho,20 years later,EB-FlTn,-0.4064156607978209,0.0,-0.0
+1288,Hatchery Sockeye,20 years later,EB-FlTn,-1.747113494898186,0.0,-0.0
+1289,Other salmonids,20 years later,EB-FlTn,-0.2061982140179385,0.0,-0.0
+1290,Chinook,20 years later,EB-FhTs,-0.1972550823722429,0.0005,-0.0005
+1291,Chum,20 years later,EB-FhTs,0.1289805909875552,0.0,-0.0
+1292,Coho,20 years later,EB-FhTs,-0.1013380881294079,0.0,-0.0
+1293,Pink,20 years later,EB-FhTs,-0.5213425470456157,0.0,-0.0
+1294,Sockeye,20 years later,EB-FhTs,-0.1168282549709087,0.02,-0.02
+1295,Hatchery Chinook,20 years later,EB-FhTs,-0.4121661718948418,0.0,-0.0
+1296,Hatchery Coho,20 years later,EB-FhTs,-0.1296329968085448,0.0,-0.0
+1297,Hatchery Sockeye,20 years later,EB-FhTs,-1.4025368478819706,0.0,-0.0
+1298,Other salmonids,20 years later,EB-FhTs,-0.1960593001686203,0.0,-0.0
+1299,Chinook,20 years later,EB-FhTn,-0.1139516097032666,0.0005,-0.0005
+1300,Chum,20 years later,EB-FhTn,0.0195062097332399,0.0,-0.0
+1301,Coho,20 years later,EB-FhTn,-0.0712748745140623,0.0,-0.0
+1302,Pink,20 years later,EB-FhTn,-0.2487612344534029,0.0,-0.0
+1303,Sockeye,20 years later,EB-FhTn,-0.1154839846486766,0.02,-0.02
+1304,Hatchery Chinook,20 years later,EB-FhTn,-0.3530511041951086,0.0,-0.0
+1305,Hatchery Coho,20 years later,EB-FhTn,-0.1039264866457371,0.0,-0.0
+1306,Hatchery Sockeye,20 years later,EB-FhTn,-0.0631106695692218,0.0,-0.0
+1307,Other salmonids,20 years later,EB-FhTn,0.2248405137003972,0.0,-0.0
+1308,Chinook,20 years later,JF-FlTs,-0.1598337520478643,0.0005,-0.0005
+1309,Chum,20 years later,JF-FlTs,-0.5188267341430497,0.0,-0.0
+1310,Coho,20 years later,JF-FlTs,-0.5378044588208986,0.0,-0.0
+1311,Pink,20 years later,JF-FlTs,0.1510693951211683,0.0,-0.0
+1312,Sockeye,20 years later,JF-FlTs,-0.5387510282929764,0.02,-0.02
+1313,Hatchery Chinook,20 years later,JF-FlTs,-0.3527885757098984,0.0,-0.0
+1314,Hatchery Coho,20 years later,JF-FlTs,-2.7612831806562004,0.0,-0.0
+1315,Hatchery Sockeye,20 years later,JF-FlTs,-7.502160571229122,0.0,-0.0
+1316,Other salmonids,20 years later,JF-FlTs,-0.2886990248350929,0.0,-0.0
+1317,Chinook,20 years later,JF-FlTn,-0.1712123315101577,0.0005,-0.0005
+1318,Chum,20 years later,JF-FlTn,-0.5246177425177434,0.0,-0.0
+1319,Coho,20 years later,JF-FlTn,-0.5227291024099712,0.0,-0.0
+1320,Pink,20 years later,JF-FlTn,0.1908915865771421,0.0,-0.0
+1321,Sockeye,20 years later,JF-FlTn,-0.4845749478065708,0.02,-0.02
+1322,Hatchery Chinook,20 years later,JF-FlTn,-0.3387531158383121,0.0,-0.0
+1323,Hatchery Coho,20 years later,JF-FlTn,-2.7616329739410563,0.0,-0.0
+1324,Hatchery Sockeye,20 years later,JF-FlTn,-7.4604398893254755,0.0,-0.0
+1325,Other salmonids,20 years later,JF-FlTn,-0.2859951548757455,0.0,-0.0
+1326,Chinook,20 years later,JF-FhTs,-0.0640693722809127,0.0005,-0.0005
+1327,Chum,20 years later,JF-FhTs,-0.3542793085871865,0.0,-0.0
+1328,Coho,20 years later,JF-FhTs,-0.5187384277022455,0.0,-0.0
+1329,Pink,20 years later,JF-FhTs,0.262182013522636,0.0,-0.0
+1330,Sockeye,20 years later,JF-FhTs,-0.4465857586438515,0.02,-0.02
+1331,Hatchery Chinook,20 years later,JF-FhTs,-0.299461038733595,0.0,-0.0
+1332,Hatchery Coho,20 years later,JF-FhTs,-2.71950070149648,0.0,-0.0
+1333,Hatchery Sockeye,20 years later,JF-FhTs,-7.432298986600808,0.0,-0.0
+1334,Other salmonids,20 years later,JF-FhTs,-0.1312439757945052,0.0,-0.0
+1335,Chinook,20 years later,JF-FhTn,-0.0606393091831924,0.0005,-0.0005
+1336,Chum,20 years later,JF-FhTn,-0.3282842179556078,0.0,-0.0
+1337,Coho,20 years later,JF-FhTn,-0.3254428172795709,0.0,-0.0
+1338,Pink,20 years later,JF-FhTn,0.1348077045003037,0.0,-0.0
+1339,Sockeye,20 years later,JF-FhTn,-0.3672490391381933,0.02,-0.02
+1340,Hatchery Chinook,20 years later,JF-FhTn,-0.4917372172075921,0.0,-0.0
+1341,Hatchery Coho,20 years later,JF-FhTn,-2.634869601247809,0.0,-0.0
+1342,Hatchery Sockeye,20 years later,JF-FhTn,-6.822627139340621,0.0,-0.0
+1343,Other salmonids,20 years later,JF-FhTn,-0.2867042735532579,0.0,-0.0
+1344,hake,spill year,AP-FlTs,-0.2051527401594444,0.007,-0.007
+1345,lingcod,spill year,AP-FlTs,-0.0289456878572424,0.0005,-0.0005
+1346,pollock,spill year,AP-FlTs,-0.0386400437038392,0.0,-0.0
+1347,sandlance,spill year,AP-FlTs,-0.5612560638990975,0.0003,-0.0003
+1348,rockfish,spill year,AP-FlTs,-0.0022233085127598,0.0003,-0.0003
+1349,pacific herring,spill year,AP-FlTs,-0.1390910916927212,0.08,-0.08
+1350,hake,spill year,AP-FlTn,-0.0977679697466571,0.007,-0.007
+1351,lingcod,spill year,AP-FlTn,-0.0164511785010257,0.0005,-0.0005
+1352,pollock,spill year,AP-FlTn,-0.0301218383332124,0.0,-0.0
+1353,sandlance,spill year,AP-FlTn,-0.188496868896139,0.0003,-0.0003
+1354,rockfish,spill year,AP-FlTn,-0.0007383543510808,0.0003,-0.0003
+1355,pacific herring,spill year,AP-FlTn,-0.089087059528754,0.08,-0.08
+1356,hake,spill year,AP-FhTs,-0.0949670359806353,0.007,-0.007
+1357,lingcod,spill year,AP-FhTs,-0.0177250337056711,0.0005,-0.0005
+1358,pollock,spill year,AP-FhTs,-0.0266053062257665,0.0,-0.0
+1359,sandlance,spill year,AP-FhTs,-0.2037298486823848,0.0003,-0.0003
+1360,rockfish,spill year,AP-FhTs,-0.0045549033666414,0.0003,-0.0003
+1361,pacific herring,spill year,AP-FhTs,-0.1202471770910351,0.08,-0.08
+1362,hake,spill year,AP-FhTn,-0.0694930671234939,0.007,-0.007
+1363,lingcod,spill year,AP-FhTn,-0.0143219984581088,0.0005,-0.0005
+1364,pollock,spill year,AP-FhTn,-0.0183236485351412,0.0,-0.0
+1365,sandlance,spill year,AP-FhTn,-0.1485276653913419,0.0003,-0.0003
+1366,rockfish,spill year,AP-FhTn,-0.0056866457161564,0.0003,-0.0003
+1367,pacific herring,spill year,AP-FhTn,-0.0860917152305751,0.08,-0.08
+1368,hake,spill year,TP-FlTs,-0.4150363392067625,0.007,-0.007
+1369,lingcod,spill year,TP-FlTs,-0.1345222058702322,0.0005,-0.0005
+1370,pollock,spill year,TP-FlTs,-0.2285879139329283,0.0,-0.0
+1371,sandlance,spill year,TP-FlTs,-0.5967296340022941,0.0003,-0.0003
+1372,rockfish,spill year,TP-FlTs,-0.0249071236944564,0.0003,-0.0003
+1373,pacific herring,spill year,TP-FlTs,-0.450709436550849,0.08,-0.08
+1374,hake,spill year,TP-FlTn,-0.3899083185255025,0.007,-0.007
+1375,lingcod,spill year,TP-FlTn,-0.1240292815749688,0.0005,-0.0005
+1376,pollock,spill year,TP-FlTn,-0.2344677059013222,0.0,-0.0
+1377,sandlance,spill year,TP-FlTn,-0.6106076049619895,0.0003,-0.0003
+1378,rockfish,spill year,TP-FlTn,-0.0177303215718149,0.0003,-0.0003
+1379,pacific herring,spill year,TP-FlTn,-0.3949959502310596,0.08,-0.08
+1380,hake,spill year,TP-FhTs,-0.2132781948054363,0.007,-0.007
+1381,lingcod,spill year,TP-FhTs,-0.0518471989439162,0.0005,-0.0005
+1382,pollock,spill year,TP-FhTs,-0.0916490398583791,0.0,-0.0
+1383,sandlance,spill year,TP-FhTs,-0.3639171509388591,0.0003,-0.0003
+1384,rockfish,spill year,TP-FhTs,-0.0213549058778106,0.0003,-0.0003
+1385,pacific herring,spill year,TP-FhTs,-0.2167737345604325,0.08,-0.08
+1386,hake,spill year,TP-FhTn,-0.3095945633296182,0.007,-0.007
+1387,lingcod,spill year,TP-FhTn,-0.0642761040659245,0.0005,-0.0005
+1388,pollock,spill year,TP-FhTn,-0.1043274648438019,0.0,-0.0
+1389,sandlance,spill year,TP-FhTn,-0.6431181806281422,0.0003,-0.0003
+1390,rockfish,spill year,TP-FhTn,-0.0215042295245326,0.0003,-0.0003
+1391,pacific herring,spill year,TP-FhTn,-0.2751431678266069,0.08,-0.08
+1392,hake,spill year,EB-FlTs,-0.3456632631775103,0.007,-0.007
+1393,lingcod,spill year,EB-FlTs,-0.0543527669774446,0.0005,-0.0005
+1394,pollock,spill year,EB-FlTs,-0.0737553155417525,0.0,-0.0
+1395,sandlance,spill year,EB-FlTs,-1.3651700370895787,0.0003,-0.0003
+1396,rockfish,spill year,EB-FlTs,-0.0046114379772732,0.0003,-0.0003
+1397,pacific herring,spill year,EB-FlTs,-0.2338191172425219,0.08,-0.08
+1398,hake,spill year,EB-FlTn,-0.3287197773457861,0.007,-0.007
+1399,lingcod,spill year,EB-FlTn,-0.0540867168531045,0.0005,-0.0005
+1400,pollock,spill year,EB-FlTn,-0.07569858081374,0.0,-0.0
+1401,sandlance,spill year,EB-FlTn,-1.296192947465321,0.0003,-0.0003
+1402,rockfish,spill year,EB-FlTn,-0.0094458842493283,0.0003,-0.0003
+1403,pacific herring,spill year,EB-FlTn,-0.2266011752836871,0.08,-0.08
+1404,hake,spill year,EB-FhTs,-0.0775789367612656,0.007,-0.007
+1405,lingcod,spill year,EB-FhTs,-0.0151098450602715,0.0005,-0.0005
+1406,pollock,spill year,EB-FhTs,-0.0138166216026347,0.0,-0.0
+1407,sandlance,spill year,EB-FhTs,-0.2931035401449408,0.0003,-0.0003
+1408,rockfish,spill year,EB-FhTs,-0.0062976028894767,0.0003,-0.0003
+1409,pacific herring,spill year,EB-FhTs,-0.0732018656630772,0.08,-0.08
+1410,hake,spill year,EB-FhTn,-0.0353599484386535,0.007,-0.007
+1411,lingcod,spill year,EB-FhTn,-0.0054140254704104,0.0005,-0.0005
+1412,pollock,spill year,EB-FhTn,-0.0047744023432017,0.0,-0.0
+1413,sandlance,spill year,EB-FhTn,-0.1791100937096176,0.0003,-0.0003
+1414,rockfish,spill year,EB-FhTn,-0.0033204743376136,0.0003,-0.0003
+1415,pacific herring,spill year,EB-FhTn,-0.0293809983504722,0.08,-0.08
+1416,hake,spill year,JF-FlTs,-0.1506403353034169,0.007,-0.007
+1417,lingcod,spill year,JF-FlTs,-0.1032547829243679,0.0005,-0.0005
+1418,pollock,spill year,JF-FlTs,-0.1115025341144937,0.0,-0.0
+1419,sandlance,spill year,JF-FlTs,-0.0363688359470965,0.0003,-0.0003
+1420,rockfish,spill year,JF-FlTs,-0.0733672320486145,0.0003,-0.0003
+1421,pacific herring,spill year,JF-FlTs,-0.2897804785704905,0.08,-0.08
+1422,hake,spill year,JF-FlTn,-0.12609149612262,0.007,-0.007
+1423,lingcod,spill year,JF-FlTn,-0.0755563186180141,0.0005,-0.0005
+1424,pollock,spill year,JF-FlTn,-0.0904657187021895,0.0,-0.0
+1425,sandlance,spill year,JF-FlTn,-0.0746439603549333,0.0003,-0.0003
+1426,rockfish,spill year,JF-FlTn,-0.0405113005633361,0.0003,-0.0003
+1427,pacific herring,spill year,JF-FlTn,-0.2192533207987057,0.08,-0.08
+1428,hake,spill year,JF-FhTs,-0.064378629343107,0.007,-0.007
+1429,lingcod,spill year,JF-FhTs,-0.0374056372942332,0.0005,-0.0005
+1430,pollock,spill year,JF-FhTs,-0.0447063700338967,0.0,-0.0
+1431,sandlance,spill year,JF-FhTs,-0.0592628071753182,0.0003,-0.0003
+1432,rockfish,spill year,JF-FhTs,-0.0210002918069118,0.0003,-0.0003
+1433,pacific herring,spill year,JF-FhTs,-0.1134189306501121,0.08,-0.08
+1434,hake,spill year,JF-FhTn,-0.1148662395568089,0.007,-0.007
+1435,lingcod,spill year,JF-FhTn,-0.0495052451753474,0.0005,-0.0005
+1436,pollock,spill year,JF-FhTn,-0.053745332796109,0.0,-0.0
+1437,sandlance,spill year,JF-FhTn,-0.1467361828074831,0.0003,-0.0003
+1438,rockfish,spill year,JF-FhTn,-0.0380614687528668,0.0003,-0.0003
+1439,pacific herring,spill year,JF-FhTn,-0.1736729669231118,0.08,-0.08
+1440,hake,10 years later,AP-FlTs,-0.5259637760273937,0.007,-0.007
+1441,lingcod,10 years later,AP-FlTs,-0.2376026446137613,0.0005,-0.0005
+1442,pollock,10 years later,AP-FlTs,-0.4184283672731604,0.0,-0.0
+1443,sandlance,10 years later,AP-FlTs,-0.3229765972424953,0.0003,-0.0003
+1444,rockfish,10 years later,AP-FlTs,0.702813097212337,0.0003,-0.0003
+1445,pacific herring,10 years later,AP-FlTs,-0.8285639523532773,0.08,-0.08
+1446,hake,10 years later,AP-FlTn,0.0747216680293882,0.007,-0.007
+1447,lingcod,10 years later,AP-FlTn,-0.1352746894622869,0.0005,-0.0005
+1448,pollock,10 years later,AP-FlTn,-0.2056407233843726,0.0,-0.0
+1449,sandlance,10 years later,AP-FlTn,1.1038458427163318,0.0003,-0.0003
+1450,rockfish,10 years later,AP-FlTn,0.4617639127873196,0.0003,-0.0003
+1451,pacific herring,10 years later,AP-FlTn,-0.1877929756264917,0.08,-0.08
+1452,hake,10 years later,AP-FhTs,0.1528312132469678,0.007,-0.007
+1453,lingcod,10 years later,AP-FhTs,-0.5101257943818671,0.0005,-0.0005
+1454,pollock,10 years later,AP-FhTs,-0.9776351471557996,0.0,-0.0
+1455,sandlance,10 years later,AP-FhTs,1.66430762757001,0.0003,-0.0003
+1456,rockfish,10 years later,AP-FhTs,1.213933704666821,0.0003,-0.0003
+1457,pacific herring,10 years later,AP-FhTs,-1.1486644002555015,0.08,-0.08
+1458,hake,10 years later,AP-FhTn,0.225812390402682,0.007,-0.007
+1459,lingcod,10 years later,AP-FhTn,-0.3475365360849669,0.0005,-0.0005
+1460,pollock,10 years later,AP-FhTn,-0.5412713538215973,0.0,-0.0
+1461,sandlance,10 years later,AP-FhTn,1.9445082099551252,0.0003,-0.0003
+1462,rockfish,10 years later,AP-FhTn,0.6986058105989646,0.0003,-0.0003
+1463,pacific herring,10 years later,AP-FhTn,-0.3675465152307899,0.08,-0.08
+1464,hake,10 years later,TP-FlTs,0.5549076610851823,0.007,-0.007
+1465,lingcod,10 years later,TP-FlTs,-0.5265026092619528,0.0005,-0.0005
+1466,pollock,10 years later,TP-FlTs,-1.043427483928452,0.0,-0.0
+1467,sandlance,10 years later,TP-FlTs,2.7303995744600376,0.0003,-0.0003
+1468,rockfish,10 years later,TP-FlTs,1.4404637589187783,0.0003,-0.0003
+1469,pacific herring,10 years later,TP-FlTs,-0.5139428357582776,0.08,-0.08
+1470,hake,10 years later,TP-FlTn,-0.0864670541918588,0.007,-0.007
+1471,lingcod,10 years later,TP-FlTn,-0.4202248527686336,0.0005,-0.0005
+1472,pollock,10 years later,TP-FlTn,-1.1754500997164483,0.0,-0.0
+1473,sandlance,10 years later,TP-FlTn,1.7838885391961832,0.0003,-0.0003
+1474,rockfish,10 years later,TP-FlTn,1.1619301254739554,0.0003,-0.0003
+1475,pacific herring,10 years later,TP-FlTn,-0.4489962996789732,0.08,-0.08
+1476,hake,10 years later,TP-FhTs,-0.5145673164473962,0.007,-0.007
+1477,lingcod,10 years later,TP-FhTs,-0.3338560320953831,0.0005,-0.0005
+1478,pollock,10 years later,TP-FhTs,-0.8417356766213858,0.0,-0.0
+1479,sandlance,10 years later,TP-FhTs,3.1382423503255814,0.0003,-0.0003
+1480,rockfish,10 years later,TP-FhTs,1.458463605376078,0.0003,-0.0003
+1481,pacific herring,10 years later,TP-FhTs,-0.4027416951006324,0.08,-0.08
+1482,hake,10 years later,TP-FhTn,0.2477274708521837,0.007,-0.007
+1483,lingcod,10 years later,TP-FhTn,-0.6509696018298439,0.0005,-0.0005
+1484,pollock,10 years later,TP-FhTn,-1.1497696707293712,0.0,-0.0
+1485,sandlance,10 years later,TP-FhTn,3.017888116129784,0.0003,-0.0003
+1486,rockfish,10 years later,TP-FhTn,2.2357637306333453,0.0003,-0.0003
+1487,pacific herring,10 years later,TP-FhTn,-0.7953975907678823,0.08,-0.08
+1488,hake,10 years later,EB-FlTs,-1.0005764703440556,0.007,-0.007
+1489,lingcod,10 years later,EB-FlTs,-0.4310848460220672,0.0005,-0.0005
+1490,pollock,10 years later,EB-FlTs,-0.6653132272715899,0.0,-0.0
+1491,sandlance,10 years later,EB-FlTs,-5.4080113946147526,0.0003,-0.0003
+1492,rockfish,10 years later,EB-FlTs,1.147847395470224,0.0003,-0.0003
+1493,pacific herring,10 years later,EB-FlTs,-1.258720885657748,0.08,-0.08
+1494,hake,10 years later,EB-FlTn,-0.7839540080642602,0.007,-0.007
+1495,lingcod,10 years later,EB-FlTn,-0.4346475366878666,0.0005,-0.0005
+1496,pollock,10 years later,EB-FlTn,-0.6696450008195642,0.0,-0.0
+1497,sandlance,10 years later,EB-FlTn,-2.663702489262053,0.0003,-0.0003
+1498,rockfish,10 years later,EB-FlTn,1.0521262071218245,0.0003,-0.0003
+1499,pacific herring,10 years later,EB-FlTn,-1.273329327779412,0.08,-0.08
+1500,hake,10 years later,EB-FhTs,-0.7650386799294939,0.007,-0.007
+1501,lingcod,10 years later,EB-FhTs,-0.3526632037444444,0.0005,-0.0005
+1502,pollock,10 years later,EB-FhTs,-0.4436430263204505,0.0,-0.0
+1503,sandlance,10 years later,EB-FhTs,-5.340793613842102,0.0003,-0.0003
+1504,rockfish,10 years later,EB-FhTs,0.6325635016986009,0.0003,-0.0003
+1505,pacific herring,10 years later,EB-FhTs,-1.1202625909231103,0.08,-0.08
+1506,hake,10 years later,EB-FhTn,-0.5140539188162485,0.007,-0.007
+1507,lingcod,10 years later,EB-FhTn,-0.2068193757254366,0.0005,-0.0005
+1508,pollock,10 years later,EB-FhTn,-0.3207697871046866,0.0,-0.0
+1509,sandlance,10 years later,EB-FhTn,-2.603201774919571,0.0003,-0.0003
+1510,rockfish,10 years later,EB-FhTn,0.2038367313934419,0.0003,-0.0003
+1511,pacific herring,10 years later,EB-FhTn,-0.8127337000471181,0.08,-0.08
+1512,hake,10 years later,JF-FlTs,0.2594331269877514,0.007,-0.007
+1513,lingcod,10 years later,JF-FlTs,-0.3015601717330829,0.0005,-0.0005
+1514,pollock,10 years later,JF-FlTs,-0.4451571447309154,0.0,-0.0
+1515,sandlance,10 years later,JF-FlTs,0.9573915890179496,0.0003,-0.0003
+1516,rockfish,10 years later,JF-FlTs,0.3623835713221435,0.0003,-0.0003
+1517,pacific herring,10 years later,JF-FlTs,-0.24288433513866,0.08,-0.08
+1518,hake,10 years later,JF-FlTn,0.2998483503343752,0.007,-0.007
+1519,lingcod,10 years later,JF-FlTn,-0.2430393903709493,0.0005,-0.0005
+1520,pollock,10 years later,JF-FlTn,-0.4235032379302927,0.0,-0.0
+1521,sandlance,10 years later,JF-FlTn,0.790310648689328,0.0003,-0.0003
+1522,rockfish,10 years later,JF-FlTn,0.4017730303893618,0.0003,-0.0003
+1523,pacific herring,10 years later,JF-FlTn,-0.1981608304608251,0.08,-0.08
+1524,hake,10 years later,JF-FhTs,0.2789668002231083,0.007,-0.007
+1525,lingcod,10 years later,JF-FhTs,-0.2498393662939768,0.0005,-0.0005
+1526,pollock,10 years later,JF-FhTs,-0.3767595915876842,0.0,-0.0
+1527,sandlance,10 years later,JF-FhTs,1.3068905000065507,0.0003,-0.0003
+1528,rockfish,10 years later,JF-FhTs,0.4076381003086194,0.0003,-0.0003
+1529,pacific herring,10 years later,JF-FhTs,-0.2348581842761177,0.08,-0.08
+1530,hake,10 years later,JF-FhTn,0.0012407495737598,0.007,-0.007
+1531,lingcod,10 years later,JF-FhTn,-0.3474996881002767,0.0005,-0.0005
+1532,pollock,10 years later,JF-FhTn,-0.4685775767049271,0.0,-0.0
+1533,sandlance,10 years later,JF-FhTn,1.347019894883905,0.0003,-0.0003
+1534,rockfish,10 years later,JF-FhTn,0.5486054256029571,0.0003,-0.0003
+1535,pacific herring,10 years later,JF-FhTn,-0.425593825910261,0.08,-0.08
+1536,hake,20 years later,AP-FlTs,-0.6797080210314267,0.007,-0.007
+1537,lingcod,20 years later,AP-FlTs,-0.3199926246606632,0.0005,-0.0005
+1538,pollock,20 years later,AP-FlTs,-0.9260281558884512,0.0,-0.0
+1539,sandlance,20 years later,AP-FlTs,-0.4296548418736675,0.0003,-0.0003
+1540,rockfish,20 years later,AP-FlTs,1.1761280319021958,0.0003,-0.0003
+1541,pacific herring,20 years later,AP-FlTs,-0.5486721085111302,0.08,-0.08
+1542,hake,20 years later,AP-FlTn,-0.1062350230343811,0.007,-0.007
+1543,lingcod,20 years later,AP-FlTn,-0.1832350409914418,0.0005,-0.0005
+1544,pollock,20 years later,AP-FlTn,-0.2759933682746895,0.0,-0.0
+1545,sandlance,20 years later,AP-FlTn,-4.198632268161981,0.0003,-0.0003
+1546,rockfish,20 years later,AP-FlTn,0.4680771539975792,0.0003,-0.0003
+1547,pacific herring,20 years later,AP-FlTn,-0.6481670801928929,0.08,-0.08
+1548,hake,20 years later,AP-FhTs,0.6751643828754827,0.007,-0.007
+1549,lingcod,20 years later,AP-FhTs,-0.899529440293394,0.0005,-0.0005
+1550,pollock,20 years later,AP-FhTs,-0.3533596772570291,0.0,-0.0
+1551,sandlance,20 years later,AP-FhTs,-7.104700527678609,0.0003,-0.0003
+1552,rockfish,20 years later,AP-FhTs,1.36434937216803,0.0003,-0.0003
+1553,pacific herring,20 years later,AP-FhTs,-1.6430535803694082,0.08,-0.08
+1554,hake,20 years later,AP-FhTn,0.5998860796338811,0.007,-0.007
+1555,lingcod,20 years later,AP-FhTn,-0.6437279268770402,0.0005,-0.0005
+1556,pollock,20 years later,AP-FhTn,0.0072320167332795,0.0,-0.0
+1557,sandlance,20 years later,AP-FhTn,-4.611011069233268,0.0003,-0.0003
+1558,rockfish,20 years later,AP-FhTn,1.1453077707670425,0.0003,-0.0003
+1559,pacific herring,20 years later,AP-FhTn,-1.3729070529750975,0.08,-0.08
+1560,hake,20 years later,TP-FlTs,0.7424235213009556,0.007,-0.007
+1561,lingcod,20 years later,TP-FlTs,-0.84964134340192,0.0005,-0.0005
+1562,pollock,20 years later,TP-FlTs,-1.2508770589827145,0.0,-0.0
+1563,sandlance,20 years later,TP-FlTs,-3.213976248188932,0.0003,-0.0003
+1564,rockfish,20 years later,TP-FlTs,2.635912081062629,0.0003,-0.0003
+1565,pacific herring,20 years later,TP-FlTs,-1.2555196427920856,0.08,-0.08
+1566,hake,20 years later,TP-FlTn,0.8229801513121183,0.007,-0.007
+1567,lingcod,20 years later,TP-FlTn,-0.7840795474564278,0.0005,-0.0005
+1568,pollock,20 years later,TP-FlTn,-1.7928830607138095,0.0,-0.0
+1569,sandlance,20 years later,TP-FlTn,-7.627611809430137,0.0003,-0.0003
+1570,rockfish,20 years later,TP-FlTn,2.20624398985592,0.0003,-0.0003
+1571,pacific herring,20 years later,TP-FlTn,-1.5773428222676322,0.08,-0.08
+1572,hake,20 years later,TP-FhTs,-0.4710607196470507,0.007,-0.007
+1573,lingcod,20 years later,TP-FhTs,-0.5844230930739502,0.0005,-0.0005
+1574,pollock,20 years later,TP-FhTs,-2.0614077111180307,0.0,-0.0
+1575,sandlance,20 years later,TP-FhTs,-0.4154824293159244,0.0003,-0.0003
+1576,rockfish,20 years later,TP-FhTs,3.302876633577057,0.0003,-0.0003
+1577,pacific herring,20 years later,TP-FhTs,-1.192011300207986,0.08,-0.08
+1578,hake,20 years later,TP-FhTn,0.6482850078029812,0.007,-0.007
+1579,lingcod,20 years later,TP-FhTn,-0.928061855166612,0.0005,-0.0005
+1580,pollock,20 years later,TP-FhTn,-1.5632932814888592,0.0,-0.0
+1581,sandlance,20 years later,TP-FhTn,-6.981022100716314,0.0003,-0.0003
+1582,rockfish,20 years later,TP-FhTn,3.076132365454926,0.0003,-0.0003
+1583,pacific herring,20 years later,TP-FhTn,-1.4840543643641966,0.08,-0.08
+1584,hake,20 years later,EB-FlTs,-1.8145845256028792,0.007,-0.007
+1585,lingcod,20 years later,EB-FlTs,-0.7436779566499574,0.0005,-0.0005
+1586,pollock,20 years later,EB-FlTs,-2.627743924413508,0.0,-0.0
+1587,sandlance,20 years later,EB-FlTs,-3.768981905158518,0.0003,-0.0003
+1588,rockfish,20 years later,EB-FlTs,2.0958582354698407,0.0003,-0.0003
+1589,pacific herring,20 years later,EB-FlTs,-1.3804141030875503,0.08,-0.08
+1590,hake,20 years later,EB-FlTn,-1.3867253393089185,0.007,-0.007
+1591,lingcod,20 years later,EB-FlTn,-0.9002521260592236,0.0005,-0.0005
+1592,pollock,20 years later,EB-FlTn,-1.972484019637848,0.0,-0.0
+1593,sandlance,20 years later,EB-FlTn,-5.1873028178499725,0.0003,-0.0003
+1594,rockfish,20 years later,EB-FlTn,1.6168306409115096,0.0003,-0.0003
+1595,pacific herring,20 years later,EB-FlTn,-1.7862250469614929,0.08,-0.08
+1596,hake,20 years later,EB-FhTs,-1.919541957031689,0.007,-0.007
+1597,lingcod,20 years later,EB-FhTs,-0.8795439566159026,0.0005,-0.0005
+1598,pollock,20 years later,EB-FhTs,-1.9504875790095568,0.0,-0.0
+1599,sandlance,20 years later,EB-FhTs,-3.8475030065386897,0.0003,-0.0003
+1600,rockfish,20 years later,EB-FhTs,1.2168467288212026,0.0003,-0.0003
+1601,pacific herring,20 years later,EB-FhTs,-1.5741523571549751,0.08,-0.08
+1602,hake,20 years later,EB-FhTn,-1.2576512350666715,0.007,-0.007
+1603,lingcod,20 years later,EB-FhTn,-0.6438269944992969,0.0005,-0.0005
+1604,pollock,20 years later,EB-FhTn,-1.7878263761079978,0.0,-0.0
+1605,sandlance,20 years later,EB-FhTn,-1.858493369667277,0.0003,-0.0003
+1606,rockfish,20 years later,EB-FhTn,0.826564782107344,0.0003,-0.0003
+1607,pacific herring,20 years later,EB-FhTn,-1.1248214797359335,0.08,-0.08
+1608,hake,20 years later,JF-FlTs,1.235164036457575,0.007,-0.007
+1609,lingcod,20 years later,JF-FlTs,-0.3768742280985815,0.0005,-0.0005
+1610,pollock,20 years later,JF-FlTs,-0.4736616295792739,0.0,-0.0
+1611,sandlance,20 years later,JF-FlTs,-5.145562692073804,0.0003,-0.0003
+1612,rockfish,20 years later,JF-FlTs,0.524416703777526,0.0003,-0.0003
+1613,pacific herring,20 years later,JF-FlTs,-0.3172067732860162,0.08,-0.08
+1614,hake,20 years later,JF-FlTn,1.2525420771962947,0.007,-0.007
+1615,lingcod,20 years later,JF-FlTn,-0.3426144010875731,0.0005,-0.0005
+1616,pollock,20 years later,JF-FlTn,-0.4779643591699202,0.0,-0.0
+1617,sandlance,20 years later,JF-FlTn,-3.8185415512982033,0.0003,-0.0003
+1618,rockfish,20 years later,JF-FlTn,0.4960857120227047,0.0003,-0.0003
+1619,pacific herring,20 years later,JF-FlTn,-0.2677298665003957,0.08,-0.08
+1620,hake,20 years later,JF-FhTs,1.244154862323528,0.007,-0.007
+1621,lingcod,20 years later,JF-FhTs,-0.3302356181452293,0.0005,-0.0005
+1622,pollock,20 years later,JF-FhTs,-0.2874115557754519,0.0,-0.0
+1623,sandlance,20 years later,JF-FhTs,-4.263865234211563,0.0003,-0.0003
+1624,rockfish,20 years later,JF-FhTs,0.5965633170041784,0.0003,-0.0003
+1625,pacific herring,20 years later,JF-FhTs,-0.2497174246084887,0.08,-0.08
+1626,hake,20 years later,JF-FhTn,1.0281183194040069,0.007,-0.007
+1627,lingcod,20 years later,JF-FhTn,-0.4047748194087441,0.0005,-0.0005
+1628,pollock,20 years later,JF-FhTn,-0.4647205952049704,0.0,-0.0
+1629,sandlance,20 years later,JF-FhTn,-5.200077993972942,0.0003,-0.0003
+1630,rockfish,20 years later,JF-FhTn,0.7467885330002078,0.0003,-0.0003
+1631,pacific herring,20 years later,JF-FhTn,-0.4155751836037213,0.08,-0.08
+1632,gelatinous zooplantkon,spill year,AP-FlTs,0.0080360533078582,0.004,-0.004
+1633,microzooplankton,spill year,AP-FlTs,0.0008905373497514,0.001,-0.001
+1634,mesozooplankton,spill year,AP-FlTs,-0.8550264451635425,0.003,-0.003
+1635,diatoms,spill year,AP-FlTs,0.0893406453502221,0.09,-0.09
+1636,picophytoplankton,spill year,AP-FlTs,-0.2792753780218149,0.004,-0.004
+1637,pelagic bacteria,spill year,AP-FlTs,-0.1617648454590226,0.002,-0.002
+1638,gelatinous zooplantkon,spill year,AP-FlTn,-0.4830725925192847,0.004,-0.004
+1639,microzooplankton,spill year,AP-FlTn,-0.0507429719434404,0.001,-0.001
+1640,mesozooplankton,spill year,AP-FlTn,-0.649185384563411,0.003,-0.003
+1641,diatoms,spill year,AP-FlTn,-0.3977390314522933,0.09,-0.09
+1642,picophytoplankton,spill year,AP-FlTn,-0.1346454751215198,0.004,-0.004
+1643,pelagic bacteria,spill year,AP-FlTn,-0.058228002755345,0.002,-0.002
+1644,gelatinous zooplantkon,spill year,AP-FhTs,-0.4715398545641736,0.004,-0.004
+1645,microzooplankton,spill year,AP-FhTs,0.0028699429277301,0.001,-0.001
+1646,mesozooplankton,spill year,AP-FhTs,-0.9066110250695704,0.003,-0.003
+1647,diatoms,spill year,AP-FhTs,-0.46965404015471,0.09,-0.09
+1648,picophytoplankton,spill year,AP-FhTs,-0.3211347004130283,0.004,-0.004
+1649,pelagic bacteria,spill year,AP-FhTs,-0.0886175453795878,0.002,-0.002
+1650,gelatinous zooplantkon,spill year,AP-FhTn,-0.3605727580759499,0.004,-0.004
+1651,microzooplankton,spill year,AP-FhTn,0.0018862850968748,0.001,-0.001
+1652,mesozooplankton,spill year,AP-FhTn,-0.5981164518297111,0.003,-0.003
+1653,diatoms,spill year,AP-FhTn,-0.2940038664200117,0.09,-0.09
+1654,picophytoplankton,spill year,AP-FhTn,-0.1554981671105793,0.004,-0.004
+1655,pelagic bacteria,spill year,AP-FhTn,-0.0487558511239605,0.002,-0.002
+1656,gelatinous zooplantkon,spill year,TP-FlTs,-2.3736615391266813,0.004,-0.004
+1657,microzooplankton,spill year,TP-FlTs,-0.1495706473325753,0.001,-0.001
+1658,mesozooplankton,spill year,TP-FlTs,-1.8221334267508604,0.003,-0.003
+1659,diatoms,spill year,TP-FlTs,-2.1084510567726977,0.09,-0.09
+1660,picophytoplankton,spill year,TP-FlTs,-0.573498923883764,0.004,-0.004
+1661,pelagic bacteria,spill year,TP-FlTs,-0.1710627606531845,0.002,-0.002
+1662,gelatinous zooplantkon,spill year,TP-FlTn,-2.8078620970734325,0.004,-0.004
+1663,microzooplankton,spill year,TP-FlTn,-0.0761066573050306,0.001,-0.001
+1664,mesozooplankton,spill year,TP-FlTn,-1.597916745420891,0.003,-0.003
+1665,diatoms,spill year,TP-FlTn,-2.144517905560195,0.09,-0.09
+1666,picophytoplankton,spill year,TP-FlTn,-0.6219187757879774,0.004,-0.004
+1667,pelagic bacteria,spill year,TP-FlTn,-0.1574206223739715,0.002,-0.002
+1668,gelatinous zooplantkon,spill year,TP-FhTs,-1.4329084966445582,0.004,-0.004
+1669,microzooplankton,spill year,TP-FhTs,0.0051390155935582,0.001,-0.001
+1670,mesozooplankton,spill year,TP-FhTs,-1.583205451385017,0.003,-0.003
+1671,diatoms,spill year,TP-FhTs,-0.5758721108881759,0.09,-0.09
+1672,picophytoplankton,spill year,TP-FhTs,-0.4951695471505313,0.004,-0.004
+1673,pelagic bacteria,spill year,TP-FhTs,-0.1500796628680412,0.002,-0.002
+1674,gelatinous zooplantkon,spill year,TP-FhTn,-0.7144011118229265,0.004,-0.004
+1675,microzooplankton,spill year,TP-FhTn,0.0090387421862736,0.001,-0.001
+1676,mesozooplankton,spill year,TP-FhTn,-1.8495409906067903,0.003,-0.003
+1677,diatoms,spill year,TP-FhTn,-1.0149308138008073,0.09,-0.09
+1678,picophytoplankton,spill year,TP-FhTn,-0.3932307980484606,0.004,-0.004
+1679,pelagic bacteria,spill year,TP-FhTn,-0.1930492854044341,0.002,-0.002
+1680,gelatinous zooplantkon,spill year,EB-FlTs,0.0099872313513493,0.004,-0.004
+1681,microzooplankton,spill year,EB-FlTs,-0.6153693553598183,0.001,-0.001
+1682,mesozooplankton,spill year,EB-FlTs,-1.82299378259837,0.003,-0.003
+1683,diatoms,spill year,EB-FlTs,-0.417530301026503,0.09,-0.09
+1684,picophytoplankton,spill year,EB-FlTs,-0.4445457265471186,0.004,-0.004
+1685,pelagic bacteria,spill year,EB-FlTs,-0.3164850528297402,0.002,-0.002
+1686,gelatinous zooplantkon,spill year,EB-FlTn,-0.4698490817166334,0.004,-0.004
+1687,microzooplankton,spill year,EB-FlTn,-0.5608840562078998,0.001,-0.001
+1688,mesozooplankton,spill year,EB-FlTn,-1.6089996406643547,0.003,-0.003
+1689,diatoms,spill year,EB-FlTn,-0.1239475485281249,0.09,-0.09
+1690,picophytoplankton,spill year,EB-FlTn,-0.698992296768497,0.004,-0.004
+1691,pelagic bacteria,spill year,EB-FlTn,-0.3601719293478189,0.002,-0.002
+1692,gelatinous zooplantkon,spill year,EB-FhTs,0.0025346782841273,0.004,-0.004
+1693,microzooplankton,spill year,EB-FhTs,-0.1346494260924258,0.001,-0.001
+1694,mesozooplankton,spill year,EB-FhTs,-0.8735572894695065,0.003,-0.003
+1695,diatoms,spill year,EB-FhTs,-0.0770672821162832,0.09,-0.09
+1696,picophytoplankton,spill year,EB-FhTs,-0.2456595055920774,0.004,-0.004
+1697,pelagic bacteria,spill year,EB-FhTs,-0.0919837082960506,0.002,-0.002
+1698,gelatinous zooplantkon,spill year,EB-FhTn,0.0008859600762356,0.004,-0.004
+1699,microzooplankton,spill year,EB-FhTn,-0.1274837800284589,0.001,-0.001
+1700,mesozooplankton,spill year,EB-FhTn,-0.2507419511107223,0.003,-0.003
+1701,diatoms,spill year,EB-FhTn,-0.1026138504079177,0.09,-0.09
+1702,picophytoplankton,spill year,EB-FhTn,-0.0949045534626158,0.004,-0.004
+1703,pelagic bacteria,spill year,EB-FhTn,-0.0297859079759654,0.002,-0.002
+1704,gelatinous zooplantkon,spill year,JF-FlTs,-0.037891205520113,0.004,-0.004
+1705,microzooplankton,spill year,JF-FlTs,0.083349879477379,0.001,-0.001
+1706,mesozooplankton,spill year,JF-FlTs,-0.1281969705802743,0.003,-0.003
+1707,diatoms,spill year,JF-FlTs,-0.7567913833099071,0.09,-0.09
+1708,picophytoplankton,spill year,JF-FlTs,0.0191029947349319,0.004,-0.004
+1709,pelagic bacteria,spill year,JF-FlTs,0.0129368908192484,0.002,-0.002
+1710,gelatinous zooplantkon,spill year,JF-FlTn,-0.046285826799064,0.004,-0.004
+1711,microzooplankton,spill year,JF-FlTn,0.0787256624219301,0.001,-0.001
+1712,mesozooplankton,spill year,JF-FlTn,-0.1511014550149347,0.003,-0.003
+1713,diatoms,spill year,JF-FlTn,-0.7846905484842015,0.09,-0.09
+1714,picophytoplankton,spill year,JF-FlTn,0.0046167658224405,0.004,-0.004
+1715,pelagic bacteria,spill year,JF-FlTn,0.0071443919114955,0.002,-0.002
+1716,gelatinous zooplantkon,spill year,JF-FhTs,-0.0383292385370381,0.004,-0.004
+1717,microzooplankton,spill year,JF-FhTs,0.0298285112702467,0.001,-0.001
+1718,mesozooplankton,spill year,JF-FhTs,-0.1047148587565605,0.003,-0.003
+1719,diatoms,spill year,JF-FhTs,-0.4604577855422009,0.09,-0.09
+1720,picophytoplankton,spill year,JF-FhTs,0.0074232994968115,0.004,-0.004
+1721,pelagic bacteria,spill year,JF-FhTs,-0.0019197283728455,0.002,-0.002
+1722,gelatinous zooplantkon,spill year,JF-FhTn,-0.0061880285584292,0.004,-0.004
+1723,microzooplankton,spill year,JF-FhTn,0.0135247725042697,0.001,-0.001
+1724,mesozooplankton,spill year,JF-FhTn,-0.2942240031355014,0.003,-0.003
+1725,diatoms,spill year,JF-FhTn,-0.4633470374811765,0.09,-0.09
+1726,picophytoplankton,spill year,JF-FhTn,0.0186029423167477,0.004,-0.004
+1727,pelagic bacteria,spill year,JF-FhTn,-0.0129835897110242,0.002,-0.002
+1728,gelatinous zooplantkon,10 years later,AP-FlTs,-6.481831926725102,0.004,-0.004
+1729,microzooplankton,10 years later,AP-FlTs,-0.0150322437284189,0.001,-0.001
+1730,mesozooplankton,10 years later,AP-FlTs,-0.554106333005544,0.003,-0.003
+1731,diatoms,10 years later,AP-FlTs,0.1590593490328862,0.09,-0.09
+1732,picophytoplankton,10 years later,AP-FlTs,-0.9936272422094716,0.004,-0.004
+1733,pelagic bacteria,10 years later,AP-FlTs,0.7757663323793684,0.002,-0.002
+1734,gelatinous zooplantkon,10 years later,AP-FlTn,-0.2406773291333874,0.004,-0.004
+1735,microzooplankton,10 years later,AP-FlTn,8.836000042755643e-06,0.001,-0.001
+1736,mesozooplankton,10 years later,AP-FlTn,0.4278503577948012,0.003,-0.003
+1737,diatoms,10 years later,AP-FlTn,-0.0823419033832872,0.09,-0.09
+1738,picophytoplankton,10 years later,AP-FlTn,-0.6651914510023227,0.004,-0.004
+1739,pelagic bacteria,10 years later,AP-FlTn,-0.184971286334179,0.002,-0.002
+1740,gelatinous zooplantkon,10 years later,AP-FhTs,-10.460551666746188,0.004,-0.004
+1741,microzooplankton,10 years later,AP-FhTs,-3.767888399187802,0.001,-0.001
+1742,mesozooplankton,10 years later,AP-FhTs,0.2627181964383718,0.003,-0.003
+1743,diatoms,10 years later,AP-FhTs,-0.7047686246392848,0.09,-0.09
+1744,picophytoplankton,10 years later,AP-FhTs,-0.692282137577771,0.004,-0.004
+1745,pelagic bacteria,10 years later,AP-FhTs,1.405223905950348,0.002,-0.002
+1746,gelatinous zooplantkon,10 years later,AP-FhTn,-1.4522853901379085,0.004,-0.004
+1747,microzooplankton,10 years later,AP-FhTn,-2.522064902372423,0.001,-0.001
+1748,mesozooplankton,10 years later,AP-FhTn,0.6444933856543766,0.003,-0.003
+1749,diatoms,10 years later,AP-FhTn,-0.1229041062596358,0.09,-0.09
+1750,picophytoplankton,10 years later,AP-FhTn,0.0194535770285941,0.004,-0.004
+1751,pelagic bacteria,10 years later,AP-FhTn,0.0283911450486007,0.002,-0.002
+1752,gelatinous zooplantkon,10 years later,TP-FlTs,-2.511832285070492,0.004,-0.004
+1753,microzooplankton,10 years later,TP-FlTs,0.8618926605718391,0.001,-0.001
+1754,mesozooplankton,10 years later,TP-FlTs,1.774795007520824,0.003,-0.003
+1755,diatoms,10 years later,TP-FlTs,-0.240328594511463,0.09,-0.09
+1756,picophytoplankton,10 years later,TP-FlTs,-1.1447183080103618,0.004,-0.004
+1757,pelagic bacteria,10 years later,TP-FlTs,-0.0316352268393105,0.002,-0.002
+1758,gelatinous zooplantkon,10 years later,TP-FlTn,-2.644130477443618,0.004,-0.004
+1759,microzooplankton,10 years later,TP-FlTn,-3.099048014756567,0.001,-0.001
+1760,mesozooplankton,10 years later,TP-FlTn,0.1592151202784331,0.003,-0.003
+1761,diatoms,10 years later,TP-FlTn,-0.9359459487279232,0.09,-0.09
+1762,picophytoplankton,10 years later,TP-FlTn,-0.1230086674547603,0.004,-0.004
+1763,pelagic bacteria,10 years later,TP-FlTn,-0.1740591137367908,0.002,-0.002
+1764,gelatinous zooplantkon,10 years later,TP-FhTs,-1.418950187288981,0.004,-0.004
+1765,microzooplankton,10 years later,TP-FhTs,-3.077853082798998,0.001,-0.001
+1766,mesozooplankton,10 years later,TP-FhTs,-0.3095238201553663,0.003,-0.003
+1767,diatoms,10 years later,TP-FhTs,0.5010166313096143,0.09,-0.09
+1768,picophytoplankton,10 years later,TP-FhTs,-0.9300959021152132,0.004,-0.004
+1769,pelagic bacteria,10 years later,TP-FhTs,-1.1828278673302384,0.002,-0.002
+1770,gelatinous zooplantkon,10 years later,TP-FhTn,-2.6812958109703744,0.004,-0.004
+1771,microzooplankton,10 years later,TP-FhTn,0.5604400451456382,0.001,-0.001
+1772,mesozooplankton,10 years later,TP-FhTn,1.0968983287490408,0.003,-0.003
+1773,diatoms,10 years later,TP-FhTn,-0.5122488644880518,0.09,-0.09
+1774,picophytoplankton,10 years later,TP-FhTn,-1.002957606861432,0.004,-0.004
+1775,pelagic bacteria,10 years later,TP-FhTn,0.0877888309326113,0.002,-0.002
+1776,gelatinous zooplantkon,10 years later,EB-FlTs,-7.863876110148404,0.004,-0.004
+1777,microzooplankton,10 years later,EB-FlTs,-3.503369406151513,0.001,-0.001
+1778,mesozooplankton,10 years later,EB-FlTs,-1.5459421541174634,0.003,-0.003
+1779,diatoms,10 years later,EB-FlTs,-1.3449992333156249,0.09,-0.09
+1780,picophytoplankton,10 years later,EB-FlTs,-0.5498387177343078,0.004,-0.004
+1781,pelagic bacteria,10 years later,EB-FlTs,0.4103604001435945,0.002,-0.002
+1782,gelatinous zooplantkon,10 years later,EB-FlTn,-7.504148052123593,0.004,-0.004
+1783,microzooplankton,10 years later,EB-FlTn,-2.64475730943754,0.001,-0.001
+1784,mesozooplankton,10 years later,EB-FlTn,-0.4153084342698232,0.003,-0.003
+1785,diatoms,10 years later,EB-FlTn,-0.1901319010492397,0.09,-0.09
+1786,picophytoplankton,10 years later,EB-FlTn,-1.851065730262147,0.004,-0.004
+1787,pelagic bacteria,10 years later,EB-FlTn,0.0278276166096658,0.002,-0.002
+1788,gelatinous zooplantkon,10 years later,EB-FhTs,-6.476316064029309,0.004,-0.004
+1789,microzooplankton,10 years later,EB-FhTs,-3.517533302133058,0.001,-0.001
+1790,mesozooplankton,10 years later,EB-FhTs,-1.3496980604053133,0.003,-0.003
+1791,diatoms,10 years later,EB-FhTs,-0.275751049084505,0.09,-0.09
+1792,picophytoplankton,10 years later,EB-FhTs,-0.8718935587553545,0.004,-0.004
+1793,pelagic bacteria,10 years later,EB-FhTs,0.3118410179678399,0.002,-0.002
+1794,gelatinous zooplantkon,10 years later,EB-FhTn,-6.526479493617121,0.004,-0.004
+1795,microzooplankton,10 years later,EB-FhTn,-2.625960977267672,0.001,-0.001
+1796,mesozooplankton,10 years later,EB-FhTn,-0.5016625345265369,0.003,-0.003
+1797,diatoms,10 years later,EB-FhTn,-0.5116119812201836,0.09,-0.09
+1798,picophytoplankton,10 years later,EB-FhTn,-0.1678417594553005,0.004,-0.004
+1799,pelagic bacteria,10 years later,EB-FhTn,0.8896460123764882,0.002,-0.002
+1800,gelatinous zooplantkon,10 years later,JF-FlTs,0.1446405593217514,0.004,-0.004
+1801,microzooplankton,10 years later,JF-FlTs,0.013077364051206,0.001,-0.001
+1802,mesozooplankton,10 years later,JF-FlTs,0.721610316395016,0.003,-0.003
+1803,diatoms,10 years later,JF-FlTs,-0.5327137113855462,0.09,-0.09
+1804,picophytoplankton,10 years later,JF-FlTs,0.2204848307518103,0.004,-0.004
+1805,pelagic bacteria,10 years later,JF-FlTs,0.2746960356965422,0.002,-0.002
+1806,gelatinous zooplantkon,10 years later,JF-FlTn,-0.0760878721774993,0.004,-0.004
+1807,microzooplankton,10 years later,JF-FlTn,0.0800629741238623,0.001,-0.001
+1808,mesozooplankton,10 years later,JF-FlTn,0.7180326948311944,0.003,-0.003
+1809,diatoms,10 years later,JF-FlTn,-0.5171300178354987,0.09,-0.09
+1810,picophytoplankton,10 years later,JF-FlTn,0.1591494689682671,0.004,-0.004
+1811,pelagic bacteria,10 years later,JF-FlTn,0.3069309223487915,0.002,-0.002
+1812,gelatinous zooplantkon,10 years later,JF-FhTs,-0.4262611338462507,0.004,-0.004
+1813,microzooplankton,10 years later,JF-FhTs,0.1064031829881129,0.001,-0.001
+1814,mesozooplankton,10 years later,JF-FhTs,0.7235441613937299,0.003,-0.003
+1815,diatoms,10 years later,JF-FhTs,-0.493714996168515,0.09,-0.09
+1816,picophytoplankton,10 years later,JF-FhTs,0.1542171751255816,0.004,-0.004
+1817,pelagic bacteria,10 years later,JF-FhTs,0.3896245394995556,0.002,-0.002
+1818,gelatinous zooplantkon,10 years later,JF-FhTn,0.0462905454025941,0.004,-0.004
+1819,microzooplankton,10 years later,JF-FhTn,-0.0272393764702449,0.001,-0.001
+1820,mesozooplankton,10 years later,JF-FhTn,0.3199880515009301,0.003,-0.003
+1821,diatoms,10 years later,JF-FhTn,-0.6715390558635126,0.09,-0.09
+1822,picophytoplankton,10 years later,JF-FhTn,0.1726136768070763,0.004,-0.004
+1823,pelagic bacteria,10 years later,JF-FhTn,0.2044430749332804,0.002,-0.002
+1824,gelatinous zooplantkon,20 years later,AP-FlTs,1.3119417535618405,0.004,-0.004
+1825,microzooplankton,20 years later,AP-FlTs,0.703257807985258,0.001,-0.001
+1826,mesozooplankton,20 years later,AP-FlTs,-0.678921951067335,0.003,-0.003
+1827,diatoms,20 years later,AP-FlTs,-0.6020077754877784,0.09,-0.09
+1828,picophytoplankton,20 years later,AP-FlTs,-1.01001654952817,0.004,-0.004
+1829,pelagic bacteria,20 years later,AP-FlTs,-0.3920021883355717,0.002,-0.002
+1830,gelatinous zooplantkon,20 years later,AP-FlTn,-0.3800495025651385,0.004,-0.004
+1831,microzooplankton,20 years later,AP-FlTn,0.5979049190393049,0.001,-0.001
+1832,mesozooplankton,20 years later,AP-FlTn,-0.2164024368276118,0.003,-0.003
+1833,diatoms,20 years later,AP-FlTn,-0.4944479299810123,0.09,-0.09
+1834,picophytoplankton,20 years later,AP-FlTn,-0.8115460319154333,0.004,-0.004
+1835,pelagic bacteria,20 years later,AP-FlTn,-0.3991565246145856,0.002,-0.002
+1836,gelatinous zooplantkon,20 years later,AP-FhTs,6.1210759347314125,0.004,-0.004
+1837,microzooplankton,20 years later,AP-FhTs,-0.4703424605129847,0.001,-0.001
+1838,mesozooplankton,20 years later,AP-FhTs,0.8849424586309329,0.003,-0.003
+1839,diatoms,20 years later,AP-FhTs,-5.461446370308975,0.09,-0.09
+1840,picophytoplankton,20 years later,AP-FhTs,-2.8204685934147933,0.004,-0.004
+1841,pelagic bacteria,20 years later,AP-FhTs,-0.8239281473698012,0.002,-0.002
+1842,gelatinous zooplantkon,20 years later,AP-FhTn,4.657839311975476,0.004,-0.004
+1843,microzooplankton,20 years later,AP-FhTn,0.6745246088214252,0.001,-0.001
+1844,mesozooplankton,20 years later,AP-FhTn,0.242660540195061,0.003,-0.003
+1845,diatoms,20 years later,AP-FhTn,-5.108041346876114,0.09,-0.09
+1846,picophytoplankton,20 years later,AP-FhTn,-0.3536429679276254,0.004,-0.004
+1847,pelagic bacteria,20 years later,AP-FhTn,-0.5049490595734785,0.002,-0.002
+1848,gelatinous zooplantkon,20 years later,TP-FlTs,1.9022016491522689,0.004,-0.004
+1849,microzooplankton,20 years later,TP-FlTs,0.8668986526036759,0.001,-0.001
+1850,mesozooplankton,20 years later,TP-FlTs,0.4636922049043424,0.003,-0.003
+1851,diatoms,20 years later,TP-FlTs,-5.504489553780867,0.09,-0.09
+1852,picophytoplankton,20 years later,TP-FlTs,0.3647461489307391,0.004,-0.004
+1853,pelagic bacteria,20 years later,TP-FlTs,-0.3432606589989451,0.002,-0.002
+1854,gelatinous zooplantkon,20 years later,TP-FlTn,2.64872662599418,0.004,-0.004
+1855,microzooplankton,20 years later,TP-FlTn,-0.5432936963378099,0.001,-0.001
+1856,mesozooplankton,20 years later,TP-FlTn,0.2370390235931552,0.003,-0.003
+1857,diatoms,20 years later,TP-FlTn,-7.13661092516209,0.09,-0.09
+1858,picophytoplankton,20 years later,TP-FlTn,0.6809208836796143,0.004,-0.004
+1859,pelagic bacteria,20 years later,TP-FlTn,-0.1165718132476345,0.002,-0.002
+1860,gelatinous zooplantkon,20 years later,TP-FhTs,0.20511223197337,0.004,-0.004
+1861,microzooplankton,20 years later,TP-FhTs,1.4747539620067365,0.001,-0.001
+1862,mesozooplankton,20 years later,TP-FhTs,-0.4800601428806117,0.003,-0.003
+1863,diatoms,20 years later,TP-FhTs,-9.549395061652644,0.09,-0.09
+1864,picophytoplankton,20 years later,TP-FhTs,0.8243839080805504,0.004,-0.004
+1865,pelagic bacteria,20 years later,TP-FhTs,-0.6391326431695821,0.002,-0.002
+1866,gelatinous zooplantkon,20 years later,TP-FhTn,-1.8711747897080189,0.004,-0.004
+1867,microzooplankton,20 years later,TP-FhTn,0.1470874279808187,0.001,-0.001
+1868,mesozooplankton,20 years later,TP-FhTn,-0.6195389740704993,0.003,-0.003
+1869,diatoms,20 years later,TP-FhTn,1.838921643321112,0.09,-0.09
+1870,picophytoplankton,20 years later,TP-FhTn,-2.1930086105723223,0.004,-0.004
+1871,pelagic bacteria,20 years later,TP-FhTn,-1.1122637271730795,0.002,-0.002
+1872,gelatinous zooplantkon,20 years later,EB-FlTs,-1.162874512233647,0.004,-0.004
+1873,microzooplankton,20 years later,EB-FlTs,0.846721501612202,0.001,-0.001
+1874,mesozooplankton,20 years later,EB-FlTs,-2.3548064136457048,0.003,-0.003
+1875,diatoms,20 years later,EB-FlTs,-4.916284756551425,0.09,-0.09
+1876,picophytoplankton,20 years later,EB-FlTs,1.429183455800298,0.004,-0.004
+1877,pelagic bacteria,20 years later,EB-FlTs,-0.7211363911457935,0.002,-0.002
+1878,gelatinous zooplantkon,20 years later,EB-FlTn,1.6256347114162797,0.004,-0.004
+1879,microzooplankton,20 years later,EB-FlTn,-1.6784211073377908,0.001,-0.001
+1880,mesozooplankton,20 years later,EB-FlTn,-1.5194927018620683,0.003,-0.003
+1881,diatoms,20 years later,EB-FlTn,-1.6456367107855696,0.09,-0.09
+1882,picophytoplankton,20 years later,EB-FlTn,-1.5662592993820112,0.004,-0.004
+1883,pelagic bacteria,20 years later,EB-FlTn,-1.2032385694435763,0.002,-0.002
+1884,gelatinous zooplantkon,20 years later,EB-FhTs,1.163022401247682,0.004,-0.004
+1885,microzooplankton,20 years later,EB-FhTs,1.2287087538443098,0.001,-0.001
+1886,mesozooplankton,20 years later,EB-FhTs,-1.2240101369957237,0.003,-0.003
+1887,diatoms,20 years later,EB-FhTs,-0.8134817588456689,0.09,-0.09
+1888,picophytoplankton,20 years later,EB-FhTs,-2.3951144338403063,0.004,-0.004
+1889,pelagic bacteria,20 years later,EB-FhTs,-1.056226468411969,0.002,-0.002
+1890,gelatinous zooplantkon,20 years later,EB-FhTn,1.2749083936108851,0.004,-0.004
+1891,microzooplankton,20 years later,EB-FhTn,0.1733172505149482,0.001,-0.001
+1892,mesozooplankton,20 years later,EB-FhTn,-0.9751957887549678,0.003,-0.003
+1893,diatoms,20 years later,EB-FhTn,-1.3096723648953312,0.09,-0.09
+1894,picophytoplankton,20 years later,EB-FhTn,-0.0852610014345556,0.004,-0.004
+1895,pelagic bacteria,20 years later,EB-FhTn,0.1625040237200448,0.002,-0.002
+1896,gelatinous zooplantkon,20 years later,JF-FlTs,-0.6061644625481311,0.004,-0.004
+1897,microzooplankton,20 years later,JF-FlTs,0.829311254399312,0.001,-0.001
+1898,mesozooplankton,20 years later,JF-FlTs,0.4586256383899645,0.003,-0.003
+1899,diatoms,20 years later,JF-FlTs,1.1648563987530336,0.09,-0.09
+1900,picophytoplankton,20 years later,JF-FlTs,-0.1349764778347473,0.004,-0.004
+1901,pelagic bacteria,20 years later,JF-FlTs,0.1243175339512792,0.002,-0.002
+1902,gelatinous zooplantkon,20 years later,JF-FlTn,-0.6274779786948015,0.004,-0.004
+1903,microzooplankton,20 years later,JF-FlTn,0.3685055331678954,0.001,-0.001
+1904,mesozooplankton,20 years later,JF-FlTn,0.4835660787529949,0.003,-0.003
+1905,diatoms,20 years later,JF-FlTn,1.2153388127472242,0.09,-0.09
+1906,picophytoplankton,20 years later,JF-FlTn,-0.1805068762051442,0.004,-0.004
+1907,pelagic bacteria,20 years later,JF-FlTn,0.1605680270976739,0.002,-0.002
+1908,gelatinous zooplantkon,20 years later,JF-FhTs,-0.5368701733984738,0.004,-0.004
+1909,microzooplankton,20 years later,JF-FhTs,0.9913108949942906,0.001,-0.001
+1910,mesozooplankton,20 years later,JF-FhTs,0.5060096138458814,0.003,-0.003
+1911,diatoms,20 years later,JF-FhTs,1.445359843873395,0.09,-0.09
+1912,picophytoplankton,20 years later,JF-FhTs,-0.2889834412349357,0.004,-0.004
+1913,pelagic bacteria,20 years later,JF-FhTs,0.1744157487572506,0.002,-0.002
+1914,gelatinous zooplantkon,20 years later,JF-FhTn,-0.4542999302687311,0.004,-0.004
+1915,microzooplankton,20 years later,JF-FhTn,-0.1759770849305897,0.001,-0.001
+1916,mesozooplankton,20 years later,JF-FhTn,0.2280194941969737,0.003,-0.003
+1917,diatoms,20 years later,JF-FhTn,0.6022538211623463,0.09,-0.09
+1918,picophytoplankton,20 years later,JF-FhTn,-0.0412830132736519,0.004,-0.004
+1919,pelagic bacteria,20 years later,JF-FhTn,0.0238244024961531,0.002,-0.002
+1920,seagulls,spill year,AP-FlTs,-0.0052548183337153,0.0,-0.0
+1921,other seabirds,spill year,AP-FlTs,-0.0012205890885519,0.0,-0.0
+1922,seagulls,spill year,AP-FlTn,-0.0005328472716237,0.0,-0.0
+1923,other seabirds,spill year,AP-FlTn,-0.0008016897495222,0.0,-0.0
+1924,seagulls,spill year,AP-FhTs,-0.0015503264921301,0.0,-0.0
+1925,other seabirds,spill year,AP-FhTs,-0.0005119875132053,0.0,-0.0
+1926,seagulls,spill year,AP-FhTn,-0.0012628512237222,0.0,-0.0
+1927,other seabirds,spill year,AP-FhTn,-0.0003393512542837,0.0,-0.0
+1928,seagulls,spill year,TP-FlTs,0.0097446982973437,0.0,-0.0
+1929,other seabirds,spill year,TP-FlTs,-0.0038292396674999,0.0,-0.0
+1930,seagulls,spill year,TP-FlTn,0.0077355743530405,0.0,-0.0
+1931,other seabirds,spill year,TP-FlTn,-0.0035932118129278,0.0,-0.0
+1932,seagulls,spill year,TP-FhTs,-0.0023084990459931,0.0,-0.0
+1933,other seabirds,spill year,TP-FhTs,-0.0015630154853762,0.0,-0.0
+1934,seagulls,spill year,TP-FhTn,-0.0043893846345366,0.0,-0.0
+1935,other seabirds,spill year,TP-FhTn,-0.0020679460665107,0.0,-0.0
+1936,seagulls,spill year,EB-FlTs,-0.0111424165043394,0.0,-0.0
+1937,other seabirds,spill year,EB-FlTs,-0.0021224304543909,0.0,-0.0
+1938,seagulls,spill year,EB-FlTn,-0.0103294607652604,0.0,-0.0
+1939,other seabirds,spill year,EB-FlTn,-0.0020237943601231,0.0,-0.0
+1940,seagulls,spill year,EB-FhTs,-0.0018442868909496,0.0,-0.0
+1941,other seabirds,spill year,EB-FhTs,-0.0003265532156548,0.0,-0.0
+1942,seagulls,spill year,EB-FhTn,-0.0011767363071724,0.0,-0.0
+1943,other seabirds,spill year,EB-FhTn,-0.0001033397509486,0.0,-0.0
+1944,seagulls,spill year,JF-FlTs,0.0133922264718422,0.0,-0.0
+1945,other seabirds,spill year,JF-FlTs,-0.0011820949428731,0.0,-0.0
+1946,seagulls,spill year,JF-FlTn,0.0127565918850125,0.0,-0.0
+1947,other seabirds,spill year,JF-FlTn,-0.0010979898805274,0.0,-0.0
+1948,seagulls,spill year,JF-FhTs,0.0006040185586875,0.0,-0.0
+1949,other seabirds,spill year,JF-FhTs,-0.0004563690837344,0.0,-0.0
+1950,seagulls,spill year,JF-FhTn,-0.0001428123318047,0.0,-0.0
+1951,other seabirds,spill year,JF-FhTn,-0.0007728725546074,0.0,-0.0
+1952,seagulls,10 years later,AP-FlTs,-0.037375145923747,0.0,-0.0
+1953,other seabirds,10 years later,AP-FlTs,-0.0197351021670932,0.0,-0.0
+1954,seagulls,10 years later,AP-FlTn,0.1930901090227821,0.0,-0.0
+1955,other seabirds,10 years later,AP-FlTn,-0.0110079068523427,0.0,-0.0
+1956,seagulls,10 years later,AP-FhTs,0.12964247384325,0.0,-0.0
+1957,other seabirds,10 years later,AP-FhTs,-0.0397359074117098,0.0,-0.0
+1958,seagulls,10 years later,AP-FhTn,0.172522171662357,0.0,-0.0
+1959,other seabirds,10 years later,AP-FhTn,-0.0196923299557805,0.0,-0.0
+1960,seagulls,10 years later,TP-FlTs,1.0230767526390403,0.0,-0.0
+1961,other seabirds,10 years later,TP-FlTs,-0.0324847804787309,0.0,-0.0
+1962,seagulls,10 years later,TP-FlTn,0.8744294667642883,0.0,-0.0
+1963,other seabirds,10 years later,TP-FlTn,-0.0245556554346804,0.0,-0.0
+1964,seagulls,10 years later,TP-FhTs,1.3617362540095448,0.0,-0.0
+1965,other seabirds,10 years later,TP-FhTs,-0.0225890203977152,0.0,-0.0
+1966,seagulls,10 years later,TP-FhTn,1.2095737908153947,0.0,-0.0
+1967,other seabirds,10 years later,TP-FhTn,-0.0370718760346089,0.0,-0.0
+1968,seagulls,10 years later,EB-FlTs,-0.0076682989446363,0.0,-0.0
+1969,other seabirds,10 years later,EB-FlTs,-0.0313247362344404,0.0,-0.0
+1970,seagulls,10 years later,EB-FlTn,0.0104999274546824,0.0,-0.0
+1971,other seabirds,10 years later,EB-FlTn,-0.0328863653061473,0.0,-0.0
+1972,seagulls,10 years later,EB-FhTs,-0.0207849181996733,0.0,-0.0
+1973,other seabirds,10 years later,EB-FhTs,-0.0265478150844744,0.0,-0.0
+1974,seagulls,10 years later,EB-FhTn,0.0169799209300769,0.0,-0.0
+1975,other seabirds,10 years later,EB-FhTn,-0.0122457220085658,0.0,-0.0
+1976,seagulls,10 years later,JF-FlTs,0.6248940547246096,0.0,-0.0
+1977,other seabirds,10 years later,JF-FlTs,-0.0116617978337019,0.0,-0.0
+1978,seagulls,10 years later,JF-FlTn,0.6441144968312651,0.0,-0.0
+1979,other seabirds,10 years later,JF-FlTn,-0.0103403610116592,0.0,-0.0
+1980,seagulls,10 years later,JF-FhTs,0.6277481847940636,0.0,-0.0
+1981,other seabirds,10 years later,JF-FhTs,-0.0088534535286777,0.0,-0.0
+1982,seagulls,10 years later,JF-FhTn,0.6213627681764211,0.0,-0.0
+1983,other seabirds,10 years later,JF-FhTn,-0.0123213190585669,0.0,-0.0
+1984,seagulls,20 years later,AP-FlTs,0.0965498017198729,0.0,-0.0
+1985,other seabirds,20 years later,AP-FlTs,-0.0527577639301912,0.0,-0.0
+1986,seagulls,20 years later,AP-FlTn,0.6461908626737212,0.0,-0.0
+1987,other seabirds,20 years later,AP-FlTn,-0.0139456130103043,0.0,-0.0
+1988,seagulls,20 years later,AP-FhTs,-0.4042258148410605,0.0,-0.0
+1989,other seabirds,20 years later,AP-FhTs,-0.1074833350141746,0.0,-0.0
+1990,seagulls,20 years later,AP-FhTn,0.2060700729879261,0.0,-0.0
+1991,other seabirds,20 years later,AP-FhTn,-0.0462047139494925,0.0,-0.0
+1992,seagulls,20 years later,TP-FlTs,1.4784994592972645,0.0,-0.0
+1993,other seabirds,20 years later,TP-FlTs,-0.0641114340019655,0.0,-0.0
+1994,seagulls,20 years later,TP-FlTn,1.6014738490449232,0.0,-0.0
+1995,other seabirds,20 years later,TP-FlTn,-0.0707517693720083,0.0,-0.0
+1996,seagulls,20 years later,TP-FhTs,2.354956883425023,0.0,-0.0
+1997,other seabirds,20 years later,TP-FhTs,-0.0442586633965047,0.0,-0.0
+1998,seagulls,20 years later,TP-FhTn,1.6420123642953797,0.0,-0.0
+1999,other seabirds,20 years later,TP-FhTn,-0.0502272268668968,0.0,-0.0
+2000,seagulls,20 years later,EB-FlTs,0.0626301539405838,0.0,-0.0
+2001,other seabirds,20 years later,EB-FlTs,-0.1085797588323167,0.0,-0.0
+2002,seagulls,20 years later,EB-FlTn,-0.1242129901013788,0.0,-0.0
+2003,other seabirds,20 years later,EB-FlTn,-0.1989356062090785,0.0,-0.0
+2004,seagulls,20 years later,EB-FhTs,-0.0198730078473685,0.0,-0.0
+2005,other seabirds,20 years later,EB-FhTs,-0.1612648786932613,0.0,-0.0
+2006,seagulls,20 years later,EB-FhTn,-0.1589831407006814,0.0,-0.0
+2007,other seabirds,20 years later,EB-FhTn,-0.1766457037646551,0.0,-0.0
+2008,seagulls,20 years later,JF-FlTs,0.7829433911862216,0.0,-0.0
+2009,other seabirds,20 years later,JF-FlTs,-0.0004631745206462,0.0,-0.0
+2010,seagulls,20 years later,JF-FlTn,0.9823061956123704,0.0,-0.0
+2011,other seabirds,20 years later,JF-FlTn,0.0262331916033542,0.0,-0.0
+2012,seagulls,20 years later,JF-FhTs,1.0120502602629355,0.0,-0.0
+2013,other seabirds,20 years later,JF-FhTs,0.0324574994376913,0.0,-0.0
+2014,seagulls,20 years later,JF-FhTn,1.1474574889089495,0.0,-0.0
+2015,other seabirds,20 years later,JF-FhTn,0.014394060780124,0.0,-0.0
+2016,macroalgae,spill year,AP-FlTs,0.0004823440615364,0.06,-0.06
+2017,seagrass,spill year,AP-FlTs,-0.000456267087745,0.06,-0.06
+2018,macroalgae,spill year,AP-FlTn,0.0003861759612089,0.06,-0.06
+2019,seagrass,spill year,AP-FlTn,-0.0003572133518425,0.06,-0.06
+2020,macroalgae,spill year,AP-FhTs,-0.0041566419002325,0.06,-0.06
+2021,seagrass,spill year,AP-FhTs,-8.209019963789643e-05,0.06,-0.06
+2022,macroalgae,spill year,AP-FhTn,7.714980092554669e-05,0.06,-0.06
+2023,seagrass,spill year,AP-FhTn,-5.092462795897035e-06,0.06,-0.06
+2024,macroalgae,spill year,TP-FlTs,0.002316006848968,0.06,-0.06
+2025,seagrass,spill year,TP-FlTs,-0.0048780725011687,0.06,-0.06
+2026,macroalgae,spill year,TP-FlTn,0.0023596651330226,0.06,-0.06
+2027,seagrass,spill year,TP-FlTn,-0.0038520394302965,0.06,-0.06
+2028,macroalgae,spill year,TP-FhTs,0.0006276345729583,0.06,-0.06
+2029,seagrass,spill year,TP-FhTs,-0.0001336950616215,0.06,-0.06
+2030,macroalgae,spill year,TP-FhTn,0.0007551844662501,0.06,-0.06
+2031,seagrass,spill year,TP-FhTn,-0.0001264702066183,0.06,-0.06
+2032,macroalgae,spill year,EB-FlTs,0.0012372074202904,0.06,-0.06
+2033,seagrass,spill year,EB-FlTs,-0.0002689003677169,0.06,-0.06
+2034,macroalgae,spill year,EB-FlTn,0.0019975243538139,0.06,-0.06
+2035,seagrass,spill year,EB-FlTn,-0.0003210341471659,0.06,-0.06
+2036,macroalgae,spill year,EB-FhTs,0.0001278829247608,0.06,-0.06
+2037,seagrass,spill year,EB-FhTs,8.313681965077535e-07,0.06,-0.06
+2038,macroalgae,spill year,EB-FhTn,9.4759970492575e-05,0.06,-0.06
+2039,seagrass,spill year,EB-FhTn,1.7148980679948522e-06,0.06,-0.06
+2040,macroalgae,spill year,JF-FlTs,0.0020131712623161,0.06,-0.06
+2041,seagrass,spill year,JF-FlTs,-0.0061148745975625,0.06,-0.06
+2042,macroalgae,spill year,JF-FlTn,0.0014077183765115,0.06,-0.06
+2043,seagrass,spill year,JF-FlTn,-0.004065285201471,0.06,-0.06
+2044,macroalgae,spill year,JF-FhTs,0.0005118342871091,0.06,-0.06
+2045,seagrass,spill year,JF-FhTs,-0.0001400781672877,0.06,-0.06
+2046,macroalgae,spill year,JF-FhTn,0.000658623679417,0.06,-0.06
+2047,seagrass,spill year,JF-FhTn,-0.0002143085821137,0.06,-0.06
+2048,macroalgae,10 years later,AP-FlTs,0.0269608315229596,0.06,-0.06
+2049,seagrass,10 years later,AP-FlTs,-0.0056098887409539,0.06,-0.06
+2050,macroalgae,10 years later,AP-FlTn,0.0189423264338239,0.06,-0.06
+2051,seagrass,10 years later,AP-FlTn,-0.0050543884197007,0.06,-0.06
+2052,macroalgae,10 years later,AP-FhTs,0.0672481628086085,0.06,-0.06
+2053,seagrass,10 years later,AP-FhTs,-0.0050125779731402,0.06,-0.06
+2054,macroalgae,10 years later,AP-FhTn,0.0523192253127025,0.06,-0.06
+2055,seagrass,10 years later,AP-FhTn,-0.0049163006667463,0.06,-0.06
+2056,macroalgae,10 years later,TP-FlTs,0.1194404216129596,0.06,-0.06
+2057,seagrass,10 years later,TP-FlTs,-0.0391252916033257,0.06,-0.06
+2058,macroalgae,10 years later,TP-FlTn,0.0904838341447611,0.06,-0.06
+2059,seagrass,10 years later,TP-FlTn,-0.030957923464181,0.06,-0.06
+2060,macroalgae,10 years later,TP-FhTs,0.0661463098473591,0.06,-0.06
+2061,seagrass,10 years later,TP-FhTs,-0.0111119073386678,0.06,-0.06
+2062,macroalgae,10 years later,TP-FhTn,0.1145005102112017,0.06,-0.06
+2063,seagrass,10 years later,TP-FhTn,-0.0083210858537019,0.06,-0.06
+2064,macroalgae,10 years later,EB-FlTs,0.0535941330657374,0.06,-0.06
+2065,seagrass,10 years later,EB-FlTs,-0.0002362623067186,0.06,-0.06
+2066,macroalgae,10 years later,EB-FlTn,0.0580707482224829,0.06,-0.06
+2067,seagrass,10 years later,EB-FlTn,0.000566839964744,0.06,-0.06
+2068,macroalgae,10 years later,EB-FhTs,0.0439819949084929,0.06,-0.06
+2069,seagrass,10 years later,EB-FhTs,0.0028347886900537,0.06,-0.06
+2070,macroalgae,10 years later,EB-FhTn,0.0212616294608336,0.06,-0.06
+2071,seagrass,10 years later,EB-FhTn,0.0034850904128802,0.06,-0.06
+2072,macroalgae,10 years later,JF-FlTs,0.0966718051761628,0.06,-0.06
+2073,seagrass,10 years later,JF-FlTs,-0.0490069018659222,0.06,-0.06
+2074,macroalgae,10 years later,JF-FlTn,0.0746129889712676,0.06,-0.06
+2075,seagrass,10 years later,JF-FlTn,-0.035108539856854,0.06,-0.06
+2076,macroalgae,10 years later,JF-FhTs,0.0779893737232084,0.06,-0.06
+2077,seagrass,10 years later,JF-FhTs,-0.0120662623355416,0.06,-0.06
+2078,macroalgae,10 years later,JF-FhTn,0.108918026249416,0.06,-0.06
+2079,seagrass,10 years later,JF-FhTn,-0.016656594650688,0.06,-0.06
+2080,macroalgae,20 years later,AP-FlTs,1.3340155013482846,0.06,-0.06
+2081,seagrass,20 years later,AP-FlTs,-0.2858513296783882,0.06,-0.06
+2082,macroalgae,20 years later,AP-FlTn,1.5814134462984295,0.06,-0.06
+2083,seagrass,20 years later,AP-FlTn,-0.0506814010833411,0.06,-0.06
+2084,macroalgae,20 years later,AP-FhTs,0.3325734920019529,0.06,-0.06
+2085,seagrass,20 years later,AP-FhTs,-0.7960788533160734,0.06,-0.06
+2086,macroalgae,20 years later,AP-FhTn,0.931469334026458,0.06,-0.06
+2087,seagrass,20 years later,AP-FhTn,-0.2632313872492631,0.06,-0.06
+2088,macroalgae,20 years later,TP-FlTs,1.599610824335418,0.06,-0.06
+2089,seagrass,20 years later,TP-FlTs,-0.2802217845384813,0.06,-0.06
+2090,macroalgae,20 years later,TP-FlTn,1.1370508789698697,0.06,-0.06
+2091,seagrass,20 years later,TP-FlTn,-0.4699960323466534,0.06,-0.06
+2092,macroalgae,20 years later,TP-FhTs,1.673219672717963,0.06,-0.06
+2093,seagrass,20 years later,TP-FhTs,0.0130169579317218,0.06,-0.06
+2094,macroalgae,20 years later,TP-FhTn,1.368379628136096,0.06,-0.06
+2095,seagrass,20 years later,TP-FhTn,-0.2008639174843729,0.06,-0.06
+2096,macroalgae,20 years later,EB-FlTs,0.5898761799217667,0.06,-0.06
+2097,seagrass,20 years later,EB-FlTs,-0.5575289641495673,0.06,-0.06
+2098,macroalgae,20 years later,EB-FlTn,0.5526501362468572,0.06,-0.06
+2099,seagrass,20 years later,EB-FlTn,-1.871128604748784,0.06,-0.06
+2100,macroalgae,20 years later,EB-FhTs,0.5508149457479794,0.06,-0.06
+2101,seagrass,20 years later,EB-FhTs,-1.4818605813096353,0.06,-0.06
+2102,macroalgae,20 years later,EB-FhTn,0.6658500381015564,0.06,-0.06
+2103,seagrass,20 years later,EB-FhTn,-1.6074795068407033,0.06,-0.06
+2104,macroalgae,20 years later,JF-FlTs,1.0455245371002952,0.06,-0.06
+2105,seagrass,20 years later,JF-FlTs,-0.0176275625969779,0.06,-0.06
+2106,macroalgae,20 years later,JF-FlTn,1.1254440414776967,0.06,-0.06
+2107,seagrass,20 years later,JF-FlTn,0.0177700567396632,0.06,-0.06
+2108,macroalgae,20 years later,JF-FhTs,1.0866485749503774,0.06,-0.06
+2109,seagrass,20 years later,JF-FhTs,0.0407218817147114,0.06,-0.06
+2110,macroalgae,20 years later,JF-FhTn,1.9317767992097945,0.06,-0.06
+2111,seagrass,20 years later,JF-FhTn,-0.0242158853360541,0.06,-0.06
+2112,dogfish,spill year,AP-FlTs,-0.0014860655517978,0.0,-0.0
+2113,ratfish,spill year,AP-FlTs,-6.882587124890094e-05,0.0,-0.0
+2114,sixgill,spill year,AP-FlTs,0.0003509199625528,0.0,-0.0
+2115,skates,spill year,AP-FlTs,-0.0011110278117787,0.0004,-0.0004
+2116,dogfish,spill year,AP-FlTn,-0.002289605783502,0.0,-0.0
+2117,ratfish,spill year,AP-FlTn,0.0002669339093519,0.0,-0.0
+2118,sixgill,spill year,AP-FlTn,-0.000343652726531,0.0,-0.0
+2119,skates,spill year,AP-FlTn,-0.0007660094335049,0.0004,-0.0004
+2120,dogfish,spill year,AP-FhTs,-0.0015163918376837,0.0,-0.0
+2121,ratfish,spill year,AP-FhTs,2.5653689830207327e-05,0.0,-0.0
+2122,sixgill,spill year,AP-FhTs,-0.0004208070185207,0.0,-0.0
+2123,skates,spill year,AP-FhTs,-0.0004733325478623,0.0004,-0.0004
+2124,dogfish,spill year,AP-FhTn,-0.0010813008867183,0.0,-0.0
+2125,ratfish,spill year,AP-FhTn,-2.8525923079225635e-06,0.0,-0.0
+2126,sixgill,spill year,AP-FhTn,-0.0003453375963835,0.0,-0.0
+2127,skates,spill year,AP-FhTn,-0.0003721672119239,0.0004,-0.0004
+2128,dogfish,spill year,TP-FlTs,-0.0224640372590856,0.0,-0.0
+2129,ratfish,spill year,TP-FlTs,0.0094168270998928,0.0,-0.0
+2130,sixgill,spill year,TP-FlTs,-0.0029145526826657,0.0,-0.0
+2131,skates,spill year,TP-FlTs,-0.0079201467168643,0.0004,-0.0004
+2132,dogfish,spill year,TP-FlTn,-0.0233813449049502,0.0,-0.0
+2133,ratfish,spill year,TP-FlTn,0.0076365725233018,0.0,-0.0
+2134,sixgill,spill year,TP-FlTn,-0.0029572777329789,0.0,-0.0
+2135,skates,spill year,TP-FlTn,-0.0073953826447992,0.0004,-0.0004
+2136,dogfish,spill year,TP-FhTs,-0.0068231527027229,0.0,-0.0
+2137,ratfish,spill year,TP-FhTs,0.0004715120768783,0.0,-0.0
+2138,sixgill,spill year,TP-FhTs,-0.0012979741320184,0.0,-0.0
+2139,skates,spill year,TP-FhTs,-0.0010834185102681,0.0004,-0.0004
+2140,dogfish,spill year,TP-FhTn,-0.0066829793960521,0.0,-0.0
+2141,ratfish,spill year,TP-FhTn,0.000759656173539,0.0,-0.0
+2142,sixgill,spill year,TP-FhTn,-0.0010624879910703,0.0,-0.0
+2143,skates,spill year,TP-FhTn,-0.0021932534823554,0.0004,-0.0004
+2144,dogfish,spill year,EB-FlTs,-0.0024343936507875,0.0,-0.0
+2145,ratfish,spill year,EB-FlTs,-0.0006012570727986,0.0,-0.0
+2146,sixgill,spill year,EB-FlTs,7.149511275450493e-05,0.0,-0.0
+2147,skates,spill year,EB-FlTs,-0.001648314273106,0.0004,-0.0004
+2148,dogfish,spill year,EB-FlTn,-0.0041936382117069,0.0,-0.0
+2149,ratfish,spill year,EB-FlTn,-0.0007381846326792,0.0,-0.0
+2150,sixgill,spill year,EB-FlTn,0.0002413327838934,0.0,-0.0
+2151,skates,spill year,EB-FlTn,-0.0019648600352839,0.0004,-0.0004
+2152,dogfish,spill year,EB-FhTs,-0.0003777512307834,0.0,-0.0
+2153,ratfish,spill year,EB-FhTs,-5.050918242432978e-05,0.0,-0.0
+2154,sixgill,spill year,EB-FhTs,-0.000210741040264,0.0,-0.0
+2155,skates,spill year,EB-FhTs,-0.0002131561333462,0.0004,-0.0004
+2156,dogfish,spill year,EB-FhTn,-0.000128754277251,0.0,-0.0
+2157,ratfish,spill year,EB-FhTn,-3.5588652000928533e-05,0.0,-0.0
+2158,sixgill,spill year,EB-FhTn,-5.1247972405743525e-05,0.0,-0.0
+2159,skates,spill year,EB-FhTn,-0.0001115585596866,0.0004,-0.0004
+2160,dogfish,spill year,JF-FlTs,-0.0114680123460675,0.0,-0.0
+2161,ratfish,spill year,JF-FlTs,0.0081802856070689,0.0,-0.0
+2162,sixgill,spill year,JF-FlTs,-0.0038543415708736,0.0,-0.0
+2163,skates,spill year,JF-FlTs,-0.0032814738861974,0.0004,-0.0004
+2164,dogfish,spill year,JF-FlTn,-0.0086070944243277,0.0,-0.0
+2165,ratfish,spill year,JF-FlTn,0.0058048463236826,0.0,-0.0
+2166,sixgill,spill year,JF-FlTn,-0.0026216915015475,0.0,-0.0
+2167,skates,spill year,JF-FlTn,-0.0035256256906912,0.0004,-0.0004
+2168,dogfish,spill year,JF-FhTs,-0.0035121911257751,0.0,-0.0
+2169,ratfish,spill year,JF-FhTs,0.0015440251817389,0.0,-0.0
+2170,sixgill,spill year,JF-FhTs,-0.0015664240000845,0.0,-0.0
+2171,skates,spill year,JF-FhTs,-0.0007027686744109,0.0004,-0.0004
+2172,dogfish,spill year,JF-FhTn,-0.0043240478068728,0.0,-0.0
+2173,ratfish,spill year,JF-FhTn,0.0010825146671122,0.0,-0.0
+2174,sixgill,spill year,JF-FhTn,-0.0020954978415854,0.0,-0.0
+2175,skates,spill year,JF-FhTn,-0.0012976609329795,0.0004,-0.0004
+2176,dogfish,10 years later,AP-FlTs,-0.0432070210851009,0.0,-0.0
+2177,ratfish,10 years later,AP-FlTs,-0.0023045132342036,0.0,-0.0
+2178,sixgill,10 years later,AP-FlTs,0.0326569363018858,0.0,-0.0
+2179,skates,10 years later,AP-FlTs,-0.0152644152158964,0.0004,-0.0004
+2180,dogfish,10 years later,AP-FlTn,-0.0575821377207952,0.0,-0.0
+2181,ratfish,10 years later,AP-FlTn,0.0213339437394899,0.0,-0.0
+2182,sixgill,10 years later,AP-FlTn,-0.002630666365847,0.0,-0.0
+2183,skates,10 years later,AP-FlTn,0.0129859854808878,0.0004,-0.0004
+2184,dogfish,10 years later,AP-FhTs,-0.1931071827437847,0.0,-0.0
+2185,ratfish,10 years later,AP-FhTs,0.0231228036223574,0.0,-0.0
+2186,sixgill,10 years later,AP-FhTs,0.0302206212261779,0.0,-0.0
+2187,skates,10 years later,AP-FhTs,-0.0317793123244336,0.0004,-0.0004
+2188,dogfish,10 years later,AP-FhTn,-0.1282799080738528,0.0,-0.0
+2189,ratfish,10 years later,AP-FhTn,0.0263863125887775,0.0,-0.0
+2190,sixgill,10 years later,AP-FhTn,0.0255455537876669,0.0,-0.0
+2191,skates,10 years later,AP-FhTn,-0.013370529368728,0.0004,-0.0004
+2192,dogfish,10 years later,TP-FlTs,-0.2376570072849237,0.0,-0.0
+2193,ratfish,10 years later,TP-FlTs,0.3350022945136399,0.0,-0.0
+2194,sixgill,10 years later,TP-FlTs,0.1063630144089744,0.0,-0.0
+2195,skates,10 years later,TP-FlTs,0.113992523250499,0.0004,-0.0004
+2196,dogfish,10 years later,TP-FlTn,-0.0998352149313741,0.0,-0.0
+2197,ratfish,10 years later,TP-FlTn,0.2216645931240668,0.0,-0.0
+2198,sixgill,10 years later,TP-FlTn,0.0738117907814805,0.0,-0.0
+2199,skates,10 years later,TP-FlTn,0.0277674354837587,0.0004,-0.0004
+2200,dogfish,10 years later,TP-FhTs,0.0409343237828396,0.0,-0.0
+2201,ratfish,10 years later,TP-FhTs,0.060640370096805,0.0,-0.0
+2202,sixgill,10 years later,TP-FhTs,0.0083952402036602,0.0,-0.0
+2203,skates,10 years later,TP-FhTs,0.0695031569242843,0.0004,-0.0004
+2204,dogfish,10 years later,TP-FhTn,-0.2525225310843926,0.0,-0.0
+2205,ratfish,10 years later,TP-FhTn,0.254182797657736,0.0,-0.0
+2206,sixgill,10 years later,TP-FhTn,0.0738523501016508,0.0,-0.0
+2207,skates,10 years later,TP-FhTn,0.1017254030018877,0.0004,-0.0004
+2208,dogfish,10 years later,EB-FlTs,-0.0829758260997326,0.0,-0.0
+2209,ratfish,10 years later,EB-FlTs,-0.068244462527085,0.0,-0.0
+2210,sixgill,10 years later,EB-FlTs,0.0249116451692221,0.0,-0.0
+2211,skates,10 years later,EB-FlTs,-0.0293690073636232,0.0004,-0.0004
+2212,dogfish,10 years later,EB-FlTn,-0.1032160851641494,0.0,-0.0
+2213,ratfish,10 years later,EB-FlTn,-0.1517725235237166,0.0,-0.0
+2214,sixgill,10 years later,EB-FlTn,0.0220985571247045,0.0,-0.0
+2215,skates,10 years later,EB-FlTn,-0.0329693884807202,0.0004,-0.0004
+2216,dogfish,10 years later,EB-FhTs,-0.0612239840564565,0.0,-0.0
+2217,ratfish,10 years later,EB-FhTs,-0.1375379281959277,0.0,-0.0
+2218,sixgill,10 years later,EB-FhTs,0.0007411652665678,0.0,-0.0
+2219,skates,10 years later,EB-FhTs,-0.0221216819325131,0.0004,-0.0004
+2220,dogfish,10 years later,EB-FhTn,-0.0363512833520207,0.0,-0.0
+2221,ratfish,10 years later,EB-FhTn,-0.1350409199169289,0.0,-0.0
+2222,sixgill,10 years later,EB-FhTn,-0.0145887861792248,0.0,-0.0
+2223,skates,10 years later,EB-FhTn,-0.0150263051502119,0.0004,-0.0004
+2224,dogfish,10 years later,JF-FlTs,-0.100908100651732,0.0,-0.0
+2225,ratfish,10 years later,JF-FlTs,0.2299953362151785,0.0,-0.0
+2226,sixgill,10 years later,JF-FlTs,0.0632322266142437,0.0,-0.0
+2227,skates,10 years later,JF-FlTs,0.0831648332957168,0.0004,-0.0004
+2228,dogfish,10 years later,JF-FlTn,-0.0990619972383399,0.0,-0.0
+2229,ratfish,10 years later,JF-FlTn,0.2274293073583977,0.0,-0.0
+2230,sixgill,10 years later,JF-FlTn,0.0675567468896276,0.0,-0.0
+2231,skates,10 years later,JF-FlTn,0.0848839543342283,0.0004,-0.0004
+2232,dogfish,10 years later,JF-FhTs,-0.0926838117861128,0.0,-0.0
+2233,ratfish,10 years later,JF-FhTs,0.2240601387232055,0.0,-0.0
+2234,sixgill,10 years later,JF-FhTs,0.0528552547028482,0.0,-0.0
+2235,skates,10 years later,JF-FhTs,0.1042270220218233,0.0004,-0.0004
+2236,dogfish,10 years later,JF-FhTn,-0.0947831095647222,0.0,-0.0
+2237,ratfish,10 years later,JF-FhTn,0.2201567379071534,0.0,-0.0
+2238,sixgill,10 years later,JF-FhTn,0.0488622442920438,0.0,-0.0
+2239,skates,10 years later,JF-FhTn,0.083366289488167,0.0004,-0.0004
+2240,dogfish,20 years later,AP-FlTs,-0.0330326299979955,0.0,-0.0
+2241,ratfish,20 years later,AP-FlTs,0.035010702711371,0.0,-0.0
+2242,sixgill,20 years later,AP-FlTs,-0.0208210660106267,0.0,-0.0
+2243,skates,20 years later,AP-FlTs,-0.006393763915603,0.0004,-0.0004
+2244,dogfish,20 years later,AP-FlTn,-0.0533376250588668,0.0,-0.0
+2245,ratfish,20 years later,AP-FlTn,-0.0332656420305177,0.0,-0.0
+2246,sixgill,20 years later,AP-FlTn,-0.0039483615828173,0.0,-0.0
+2247,skates,20 years later,AP-FlTn,0.1197544961259122,0.0004,-0.0004
+2248,dogfish,20 years later,AP-FhTs,-0.367853746178336,0.0,-0.0
+2249,ratfish,20 years later,AP-FhTs,-0.1443917423098417,0.0,-0.0
+2250,sixgill,20 years later,AP-FhTs,-0.0104659092062531,0.0,-0.0
+2251,skates,20 years later,AP-FhTs,0.0807240169980072,0.0004,-0.0004
+2252,dogfish,20 years later,AP-FhTn,-0.2303803695008199,0.0,-0.0
+2253,ratfish,20 years later,AP-FhTn,-0.1264174982512589,0.0,-0.0
+2254,sixgill,20 years later,AP-FhTn,0.002873558447819,0.0,-0.0
+2255,skates,20 years later,AP-FhTn,0.1383632415696056,0.0004,-0.0004
+2256,dogfish,20 years later,TP-FlTs,-0.4945762310627355,0.0,-0.0
+2257,ratfish,20 years later,TP-FlTs,0.379058163105368,0.0,-0.0
+2258,sixgill,20 years later,TP-FlTs,0.1046592794452916,0.0,-0.0
+2259,skates,20 years later,TP-FlTs,0.5758618966213858,0.0004,-0.0004
+2260,dogfish,20 years later,TP-FlTn,-0.5213499785767117,0.0,-0.0
+2261,ratfish,20 years later,TP-FlTn,0.3434565937709366,0.0,-0.0
+2262,sixgill,20 years later,TP-FlTn,0.0180328845186683,0.0,-0.0
+2263,skates,20 years later,TP-FlTn,0.2414673520675614,0.0004,-0.0004
+2264,dogfish,20 years later,TP-FhTs,-0.2668445881040593,0.0,-0.0
+2265,ratfish,20 years later,TP-FhTs,0.0470152460170958,0.0,-0.0
+2266,sixgill,20 years later,TP-FhTs,-0.0588719070432064,0.0,-0.0
+2267,skates,20 years later,TP-FhTs,0.1852500601401063,0.0004,-0.0004
+2268,dogfish,20 years later,TP-FhTn,-0.5111736534112854,0.0,-0.0
+2269,ratfish,20 years later,TP-FhTn,0.3451998094086272,0.0,-0.0
+2270,sixgill,20 years later,TP-FhTn,0.0224289047785275,0.0,-0.0
+2271,skates,20 years later,TP-FhTn,0.3749110677501666,0.0004,-0.0004
+2272,dogfish,20 years later,EB-FlTs,-0.1139896000194296,0.0,-0.0
+2273,ratfish,20 years later,EB-FlTs,-0.1547003363452292,0.0,-0.0
+2274,sixgill,20 years later,EB-FlTs,-0.0498597969559466,0.0,-0.0
+2275,skates,20 years later,EB-FlTs,-0.0356211228563352,0.0004,-0.0004
+2276,dogfish,20 years later,EB-FlTn,-0.1188097270649046,0.0,-0.0
+2277,ratfish,20 years later,EB-FlTn,-0.0776164449970728,0.0,-0.0
+2278,sixgill,20 years later,EB-FlTn,-0.049422762282838,0.0,-0.0
+2279,skates,20 years later,EB-FlTn,-0.0247616141739837,0.0004,-0.0004
+2280,dogfish,20 years later,EB-FhTs,-0.0923914268953252,0.0,-0.0
+2281,ratfish,20 years later,EB-FhTs,-0.1795002172978788,0.0,-0.0
+2282,sixgill,20 years later,EB-FhTs,-0.0592127366374284,0.0,-0.0
+2283,skates,20 years later,EB-FhTs,-0.0306796000612319,0.0004,-0.0004
+2284,dogfish,20 years later,EB-FhTn,-0.0641060909897117,0.0,-0.0
+2285,ratfish,20 years later,EB-FhTn,0.0505611089122626,0.0,-0.0
+2286,sixgill,20 years later,EB-FhTn,-0.0372583001829529,0.0,-0.0
+2287,skates,20 years later,EB-FhTn,-0.0071877555730426,0.0004,-0.0004
+2288,dogfish,20 years later,JF-FlTs,-0.2979238245968252,0.0,-0.0
+2289,ratfish,20 years later,JF-FlTs,0.3664203571997193,0.0,-0.0
+2290,sixgill,20 years later,JF-FlTs,0.0643529426851274,0.0,-0.0
+2291,skates,20 years later,JF-FlTs,0.2406853336284209,0.0004,-0.0004
+2292,dogfish,20 years later,JF-FlTn,-0.3064421063505906,0.0,-0.0
+2293,ratfish,20 years later,JF-FlTn,0.3329771311682927,0.0,-0.0
+2294,sixgill,20 years later,JF-FlTn,0.0520962125873258,0.0,-0.0
+2295,skates,20 years later,JF-FlTn,0.2134140139238893,0.0004,-0.0004
+2296,dogfish,20 years later,JF-FhTs,-0.2484388968072803,0.0,-0.0
+2297,ratfish,20 years later,JF-FhTs,0.4174025352412469,0.0,-0.0
+2298,sixgill,20 years later,JF-FhTs,0.06869192262973,0.0,-0.0
+2299,skates,20 years later,JF-FhTs,0.3962743548488112,0.0004,-0.0004
+2300,dogfish,20 years later,JF-FhTn,-0.2516668016146661,0.0,-0.0
+2301,ratfish,20 years later,JF-FhTn,0.3478911798236228,0.0,-0.0
+2302,sixgill,20 years later,JF-FhTn,0.0487799169010472,0.0,-0.0
+2303,skates,20 years later,JF-FhTn,0.2342845545740446,0.0004,-0.0004
+2304,squid,spill year,AP-FlTs,-8.48565911537591e-05,0.0,-0.0
+2305,squid,spill year,AP-FlTn,-9.190061236452608e-05,0.0,-0.0
+2306,squid,spill year,AP-FhTs,-3.783494363363005e-05,0.0,-0.0
+2307,squid,spill year,AP-FhTn,-2.253340805058457e-05,0.0,-0.0
+2308,squid,spill year,TP-FlTs,-0.0002012929476102,0.0,-0.0
+2309,squid,spill year,TP-FlTn,-5.717716712316801e-05,0.0,-0.0
+2310,squid,spill year,TP-FhTs,-0.0001035131690696,0.0,-0.0
+2311,squid,spill year,TP-FhTn,-0.0001476125833899,0.0,-0.0
+2312,squid,spill year,EB-FlTs,-0.0001598318079665,0.0,-0.0
+2313,squid,spill year,EB-FlTn,-0.0001400933468787,0.0,-0.0
+2314,squid,spill year,EB-FhTs,-4.15643917950348e-05,0.0,-0.0
+2315,squid,spill year,EB-FhTn,-2.9354077835108683e-06,0.0,-0.0
+2316,squid,spill year,JF-FlTs,8.699743303530738e-06,0.0,-0.0
+2317,squid,spill year,JF-FlTn,5.700147087672747e-06,0.0,-0.0
+2318,squid,spill year,JF-FhTs,1.9684702312616764e-06,0.0,-0.0
+2319,squid,spill year,JF-FhTn,-8.004142459938635e-06,0.0,-0.0
+2320,squid,10 years later,AP-FlTs,0.0006242531584321,0.0,-0.0
+2321,squid,10 years later,AP-FlTn,0.0006675506914577,0.0,-0.0
+2322,squid,10 years later,AP-FhTs,-0.0007074178731913,0.0,-0.0
+2323,squid,10 years later,AP-FhTn,-0.0006231694134828,0.0,-0.0
+2324,squid,10 years later,TP-FlTs,-0.0008544674287347,0.0,-0.0
+2325,squid,10 years later,TP-FlTn,-9.332194881306322e-05,0.0,-0.0
+2326,squid,10 years later,TP-FhTs,-0.0013677111059595,0.0,-0.0
+2327,squid,10 years later,TP-FhTn,-0.0020161753879532,0.0,-0.0
+2328,squid,10 years later,EB-FlTs,-0.0016314533062722,0.0,-0.0
+2329,squid,10 years later,EB-FlTn,-0.0013101951781946,0.0,-0.0
+2330,squid,10 years later,EB-FhTs,-0.0014105618607707,0.0,-0.0
+2331,squid,10 years later,EB-FhTn,0.0001977073022851,0.0,-0.0
+2332,squid,10 years later,JF-FlTs,-0.0002145286561838,0.0,-0.0
+2333,squid,10 years later,JF-FlTn,-0.0002176980687496,0.0,-0.0
+2334,squid,10 years later,JF-FhTs,-0.0001252287220809,0.0,-0.0
+2335,squid,10 years later,JF-FhTn,-0.0001201429684072,0.0,-0.0
+2336,squid,20 years later,AP-FlTs,0.0006216975658057,0.0,-0.0
+2337,squid,20 years later,AP-FlTn,-0.0001146654295625,0.0,-0.0
+2338,squid,20 years later,AP-FhTs,6.107502166230461e-05,0.0,-0.0
+2339,squid,20 years later,AP-FhTn,5.9512223793412034e-05,0.0,-0.0
+2340,squid,20 years later,TP-FlTs,9.197926398307744e-05,0.0,-0.0
+2341,squid,20 years later,TP-FlTn,-0.0006040422368625,0.0,-0.0
+2342,squid,20 years later,TP-FhTs,0.0004506639172507,0.0,-0.0
+2343,squid,20 years later,TP-FhTn,-0.0002683652974289,0.0,-0.0
+2344,squid,20 years later,EB-FlTs,0.0009158495893668,0.0,-0.0
+2345,squid,20 years later,EB-FlTn,0.0002476070280144,0.0,-0.0
+2346,squid,20 years later,EB-FhTs,0.0006611256183397,0.0,-0.0
+2347,squid,20 years later,EB-FhTn,0.0006681057339363,0.0,-0.0
+2348,squid,20 years later,JF-FlTs,-0.0003491057114834,0.0,-0.0
+2349,squid,20 years later,JF-FlTn,-0.0003488809732776,0.0,-0.0
+2350,squid,20 years later,JF-FhTs,-0.000314413017155,0.0,-0.0
+2351,squid,20 years later,JF-FhTn,-0.000273812166518,0.0,-0.0
