@@ -1,0 +1,197 @@
+,bio_group,time_label,scenario,percent_change,sensitivity,sensitivity_negative
+0,benthic grazers,spill year,EB-FlTs,-7.742766594542871e-06,0.4,-0.4
+1,other filter feeders,spill year,EB-FlTs,1.4385511448722357e-06,0.0,-0.0
+2,macrobenthos,spill year,EB-FlTs,0.0204872012099732,0.09,-0.09
+3,sponges,spill year,EB-FlTs,0.0452125890271881,0.0,-0.0
+4,bivalves,spill year,EB-FlTs,0.4491301186693386,0.02,-0.02
+5,crabs,spill year,EB-FlTs,0.0421624549719945,0.02,-0.02
+6,dungeness crabs,spill year,EB-FlTs,-0.0774828426794549,0.004,-0.004
+7,benthopelagic,spill year,EB-FlTs,-0.0875422816418125,0.0,-0.0
+8,small pelagic,spill year,EB-FlTs,-0.1967086437640954,0.06,-0.06
+9,small demersal,spill year,EB-FlTs,-0.066579353867705,0.0,-0.0
+10,large demersal,spill year,EB-FlTs,-0.0255901553464055,0.0004,-0.0004
+11,small flatfish,spill year,EB-FlTs,-0.0588419049972677,0.0006,-0.0006
+12,large flatfish,spill year,EB-FlTs,-0.0614352315859023,0.0,-0.0
+13,porpoises,spill year,EB-FlTs,-0.0136534758791717,0.003,-0.003
+14,seals,spill year,EB-FlTs,-0.0111237330533042,0.0001,-0.0001
+15,humpbacks,spill year,EB-FlTs,-0.1305026180191115,0.0,-0.0
+16,sealions,spill year,EB-FlTs,-0.0029027193756536,0.0,-0.0
+17,resident orcas,spill year,EB-FlTs,-0.0073208377993749,0.0,-0.0
+18,transient orcas,spill year,EB-FlTs,-0.0008427501828633,0.0,-0.0
+19,Chinook,spill year,EB-FlTs,-0.0292134325235937,0.0005,-0.0005
+20,Chum,spill year,EB-FlTs,-0.0512273005029095,0.0,-0.0
+21,Coho,spill year,EB-FlTs,-0.0366908568206447,0.0,-0.0
+22,Pink,spill year,EB-FlTs,-0.0619726716079771,0.0,-0.0
+23,Sockeye,spill year,EB-FlTs,-0.0417063332969158,0.02,-0.02
+24,Hatchery Chinook,spill year,EB-FlTs,-0.0480965679395965,0.0,-0.0
+25,Hatchery Coho,spill year,EB-FlTs,-0.0615113104414236,0.0,-0.0
+26,Hatchery Sockeye,spill year,EB-FlTs,-0.0845929925209117,0.0,-0.0
+27,Other salmonids,spill year,EB-FlTs,-0.0551194372105781,0.0,-0.0
+28,hake,spill year,EB-FlTs,-0.3456632631775103,0.007,-0.007
+29,lingcod,spill year,EB-FlTs,-0.0543527669774446,0.0005,-0.0005
+30,pollock,spill year,EB-FlTs,-0.0737553155417525,0.0,-0.0
+31,sandlance,spill year,EB-FlTs,-1.3651700370895787,0.0003,-0.0003
+32,rockfish,spill year,EB-FlTs,-0.0046114379772732,0.0003,-0.0003
+33,pacific herring,spill year,EB-FlTs,-0.2338191172425219,0.08,-0.08
+34,gelatinous zooplantkon,spill year,EB-FlTs,0.0099872313513493,0.004,-0.004
+35,microzooplankton,spill year,EB-FlTs,-0.6153693553598183,0.001,-0.001
+36,mesozooplankton,spill year,EB-FlTs,-1.82299378259837,0.003,-0.003
+37,diatoms,spill year,EB-FlTs,-0.417530301026503,0.09,-0.09
+38,picophytoplankton,spill year,EB-FlTs,-0.4445457265471186,0.004,-0.004
+39,pelagic bacteria,spill year,EB-FlTs,-0.3164850528297402,0.002,-0.002
+40,seagulls,spill year,EB-FlTs,-0.0111424165043394,0.0,-0.0
+41,other seabirds,spill year,EB-FlTs,-0.0021224304543909,0.0,-0.0
+42,macroalgae,spill year,EB-FlTs,0.0012372074202904,0.06,-0.06
+43,seagrass,spill year,EB-FlTs,-0.0002689003677169,0.06,-0.06
+44,dogfish,spill year,EB-FlTs,-0.0024343936507875,0.0,-0.0
+45,ratfish,spill year,EB-FlTs,-0.0006012570727986,0.0,-0.0
+46,sixgill,spill year,EB-FlTs,7.149511275450493e-05,0.0,-0.0
+47,skates,spill year,EB-FlTs,-0.001648314273106,0.0004,-0.0004
+48,squid,spill year,EB-FlTs,-0.0001598318079665,0.0,-0.0
+49,benthic grazers,20 years later,EB-FlTs,-2.338202729191652,0.4,-0.4
+50,other filter feeders,20 years later,EB-FlTs,5.321590408335908e-05,0.0,-0.0
+51,macrobenthos,20 years later,EB-FlTs,1.599779334515361,0.09,-0.09
+52,sponges,20 years later,EB-FlTs,1.5706075443587597,0.0,-0.0
+53,bivalves,20 years later,EB-FlTs,0.026780081517308,0.02,-0.02
+54,crabs,20 years later,EB-FlTs,0.014325262438386,0.02,-0.02
+55,dungeness crabs,20 years later,EB-FlTs,-0.9579211307516156,0.004,-0.004
+56,benthopelagic,20 years later,EB-FlTs,0.2733347288008026,0.0,-0.0
+57,small pelagic,20 years later,EB-FlTs,-0.0594900290336216,0.06,-0.06
+58,small demersal,20 years later,EB-FlTs,0.3516137284299558,0.0,-0.0
+59,large demersal,20 years later,EB-FlTs,0.5368542600736392,0.0004,-0.0004
+60,small flatfish,20 years later,EB-FlTs,-0.8879516148904987,0.0006,-0.0006
+61,large flatfish,20 years later,EB-FlTs,-5.013798543064662,0.0,-0.0
+62,porpoises,20 years later,EB-FlTs,-0.1921539097310187,0.003,-0.003
+63,seals,20 years later,EB-FlTs,-0.1977097662008431,0.0001,-0.0001
+64,humpbacks,20 years later,EB-FlTs,-2.683045569609956,0.0,-0.0
+65,sealions,20 years later,EB-FlTs,-0.1486701262873024,0.0,-0.0
+66,resident orcas,20 years later,EB-FlTs,-0.4103899420041602,0.0,-0.0
+67,transient orcas,20 years later,EB-FlTs,-0.110012008305862,0.0,-0.0
+68,Chinook,20 years later,EB-FlTs,-0.2236291530254841,0.0005,-0.0005
+69,Chum,20 years later,EB-FlTs,0.0673774246351932,0.0,-0.0
+70,Coho,20 years later,EB-FlTs,-0.1359077744804238,0.0,-0.0
+71,Pink,20 years later,EB-FlTs,-0.4801010197003674,0.0,-0.0
+72,Sockeye,20 years later,EB-FlTs,-0.1686585966970799,0.02,-0.02
+73,Hatchery Chinook,20 years later,EB-FlTs,-0.435485104956379,0.0,-0.0
+74,Hatchery Coho,20 years later,EB-FlTs,-0.1876314751334207,0.0,-0.0
+75,Hatchery Sockeye,20 years later,EB-FlTs,-1.7788267268040023,0.0,-0.0
+76,Other salmonids,20 years later,EB-FlTs,-0.1971165904998795,0.0,-0.0
+77,hake,20 years later,EB-FlTs,-1.8145845256028792,0.007,-0.007
+78,lingcod,20 years later,EB-FlTs,-0.7436779566499574,0.0005,-0.0005
+79,pollock,20 years later,EB-FlTs,-2.627743924413508,0.0,-0.0
+80,sandlance,20 years later,EB-FlTs,-3.768981905158518,0.0003,-0.0003
+81,rockfish,20 years later,EB-FlTs,2.0958582354698407,0.0003,-0.0003
+82,pacific herring,20 years later,EB-FlTs,-1.3804141030875503,0.08,-0.08
+83,gelatinous zooplantkon,20 years later,EB-FlTs,-1.162874512233647,0.004,-0.004
+84,microzooplankton,20 years later,EB-FlTs,0.846721501612202,0.001,-0.001
+85,mesozooplankton,20 years later,EB-FlTs,-2.3548064136457048,0.003,-0.003
+86,diatoms,20 years later,EB-FlTs,-4.916284756551425,0.09,-0.09
+87,picophytoplankton,20 years later,EB-FlTs,1.429183455800298,0.004,-0.004
+88,pelagic bacteria,20 years later,EB-FlTs,-0.7211363911457935,0.002,-0.002
+89,seagulls,20 years later,EB-FlTs,0.0626301539405838,0.0,-0.0
+90,other seabirds,20 years later,EB-FlTs,-0.1085797588323167,0.0,-0.0
+91,macroalgae,20 years later,EB-FlTs,0.5898761799217667,0.06,-0.06
+92,seagrass,20 years later,EB-FlTs,-0.5575289641495673,0.06,-0.06
+93,dogfish,20 years later,EB-FlTs,-0.1139896000194296,0.0,-0.0
+94,ratfish,20 years later,EB-FlTs,-0.1547003363452292,0.0,-0.0
+95,sixgill,20 years later,EB-FlTs,-0.0498597969559466,0.0,-0.0
+96,skates,20 years later,EB-FlTs,-0.0356211228563352,0.0004,-0.0004
+97,squid,20 years later,EB-FlTs,0.0009158495893668,0.0,-0.0
+98,benthic grazers,spill year,EB-FlTs-smother,0.0042879809576623,0.4,-0.4
+99,other filter feeders,spill year,EB-FlTs-smother,-3.13203307733545e-07,0.0,-0.0
+100,macrobenthos,spill year,EB-FlTs-smother,0.0251989778766947,0.09,-0.09
+101,sponges,spill year,EB-FlTs-smother,-0.0121791544869576,0.0,-0.0
+102,bivalves,spill year,EB-FlTs-smother,0.3371295725445034,0.02,-0.02
+103,crabs,spill year,EB-FlTs-smother,0.0336572835349491,0.02,-0.02
+104,dungeness crabs,spill year,EB-FlTs-smother,-0.087410737189264,0.004,-0.004
+105,benthic grazers,20 years later,EB-FlTs-smother,-0.5975630101081819,0.4,-0.4
+106,other filter feeders,20 years later,EB-FlTs-smother,-0.0001005093579697,0.0,-0.0
+107,macrobenthos,20 years later,EB-FlTs-smother,1.815645139668565,0.09,-0.09
+108,sponges,20 years later,EB-FlTs-smother,1.540822404069675,0.0,-0.0
+109,bivalves,20 years later,EB-FlTs-smother,0.2492795354974042,0.02,-0.02
+110,crabs,20 years later,EB-FlTs-smother,0.1344787060652663,0.02,-0.02
+111,dungeness crabs,20 years later,EB-FlTs-smother,-0.8987536308009414,0.004,-0.004
+112,benthopelagic,spill year,EB-FlTs-smother,-0.3506911265368617,0.0,-0.0
+113,small pelagic,spill year,EB-FlTs-smother,-0.5360119592718331,0.06,-0.06
+114,small demersal,spill year,EB-FlTs-smother,-0.1835998513023595,0.0,-0.0
+115,large demersal,spill year,EB-FlTs-smother,-0.0703791712425716,0.0004,-0.0004
+116,small flatfish,spill year,EB-FlTs-smother,-0.0501032272878454,0.0006,-0.0006
+117,large flatfish,spill year,EB-FlTs-smother,-0.151125361168839,0.0,-0.0
+118,benthopelagic,20 years later,EB-FlTs-smother,0.6772096383557791,0.0,-0.0
+119,small pelagic,20 years later,EB-FlTs-smother,-0.1510453197210341,0.06,-0.06
+120,small demersal,20 years later,EB-FlTs-smother,0.4057104385181798,0.0,-0.0
+121,large demersal,20 years later,EB-FlTs-smother,0.7744776220700511,0.0004,-0.0004
+122,small flatfish,20 years later,EB-FlTs-smother,0.6698139231954348,0.0006,-0.0006
+123,large flatfish,20 years later,EB-FlTs-smother,-1.9958756849190304,0.0,-0.0
+124,porpoises,spill year,EB-FlTs-smother,-0.0474392874684559,0.003,-0.003
+125,seals,spill year,EB-FlTs-smother,0.0589916574676829,0.0001,-0.0001
+126,humpbacks,spill year,EB-FlTs-smother,-0.2771055965521884,0.0,-0.0
+127,sealions,spill year,EB-FlTs-smother,-0.0093081493501501,0.0,-0.0
+128,resident orcas,spill year,EB-FlTs-smother,-0.032447730193067,0.0,-0.0
+129,transient orcas,spill year,EB-FlTs-smother,-0.0051531196302889,0.0,-0.0
+130,porpoises,20 years later,EB-FlTs-smother,0.0043506487517963,0.003,-0.003
+131,seals,20 years later,EB-FlTs-smother,-0.1442565664649386,0.0001,-0.0001
+132,humpbacks,20 years later,EB-FlTs-smother,-2.75413122165994,0.0,-0.0
+133,sealions,20 years later,EB-FlTs-smother,-0.0867125812161584,0.0,-0.0
+134,resident orcas,20 years later,EB-FlTs-smother,-0.3836378819284147,0.0,-0.0
+135,transient orcas,20 years later,EB-FlTs-smother,-0.097360112133209,0.0,-0.0
+136,Chinook,spill year,EB-FlTs-smother,-0.0623915095298133,0.0005,-0.0005
+137,Chum,spill year,EB-FlTs-smother,-0.128644620553886,0.0,-0.0
+138,Coho,spill year,EB-FlTs-smother,-0.0855858375228502,0.0,-0.0
+139,Pink,spill year,EB-FlTs-smother,-0.1934003084513436,0.0,-0.0
+140,Sockeye,spill year,EB-FlTs-smother,-0.0845084609988244,0.02,-0.02
+141,Hatchery Chinook,spill year,EB-FlTs-smother,-0.0474709107445181,0.0,-0.0
+142,Hatchery Coho,spill year,EB-FlTs-smother,-0.0427341268256794,0.0,-0.0
+143,Hatchery Sockeye,spill year,EB-FlTs-smother,-0.0313789435097559,0.0,-0.0
+144,Other salmonids,spill year,EB-FlTs-smother,-0.0839586302943534,0.0,-0.0
+145,Chinook,20 years later,EB-FlTs-smother,-0.1117387153474314,0.0005,-0.0005
+146,Chum,20 years later,EB-FlTs-smother,0.4177131253061028,0.0,-0.0
+147,Coho,20 years later,EB-FlTs-smother,0.0139609474363555,0.0,-0.0
+148,Pink,20 years later,EB-FlTs-smother,-0.3290333925357425,0.0,-0.0
+149,Sockeye,20 years later,EB-FlTs-smother,0.2537577656298784,0.02,-0.02
+150,Hatchery Chinook,20 years later,EB-FlTs-smother,-0.388514287689375,0.0,-0.0
+151,Hatchery Coho,20 years later,EB-FlTs-smother,-0.1298968363907674,0.0,-0.0
+152,Hatchery Sockeye,20 years later,EB-FlTs-smother,-1.709017652724043,0.0,-0.0
+153,Other salmonids,20 years later,EB-FlTs-smother,0.0456318913207326,0.0,-0.0
+154,hake,spill year,EB-FlTs-smother,-1.1982714367635192,0.007,-0.007
+155,lingcod,spill year,EB-FlTs-smother,-0.1564815745207926,0.0005,-0.0005
+156,pollock,spill year,EB-FlTs-smother,-0.2321176371316813,0.0,-0.0
+157,sandlance,spill year,EB-FlTs-smother,-3.640251231693037,0.0003,-0.0003
+158,rockfish,spill year,EB-FlTs-smother,-0.0088919693544176,0.0003,-0.0003
+159,pacific herring,spill year,EB-FlTs-smother,-0.79766931899104,0.08,-0.08
+160,hake,20 years later,EB-FlTs-smother,-1.8228247563592508,0.007,-0.007
+161,lingcod,20 years later,EB-FlTs-smother,-0.7006863087149517,0.0005,-0.0005
+162,pollock,20 years later,EB-FlTs-smother,-2.7334043121338247,0.0,-0.0
+163,sandlance,20 years later,EB-FlTs-smother,-3.261346507656238,0.0003,-0.0003
+164,rockfish,20 years later,EB-FlTs-smother,3.5880620211672394,0.0003,-0.0003
+165,pacific herring,20 years later,EB-FlTs-smother,-1.1944834344987576,0.08,-0.08
+166,gelatinous zooplantkon,spill year,EB-FlTs-smother,0.0510608005079626,0.004,-0.004
+167,microzooplankton,spill year,EB-FlTs-smother,-0.8091466115366708,0.001,-0.001
+168,mesozooplankton,spill year,EB-FlTs-smother,-3.1760805449144835,0.003,-0.003
+169,diatoms,spill year,EB-FlTs-smother,0.0896500143924505,0.09,-0.09
+170,picophytoplankton,spill year,EB-FlTs-smother,-1.2814419743880867,0.004,-0.004
+171,pelagic bacteria,spill year,EB-FlTs-smother,-0.1034218832141276,0.002,-0.002
+172,gelatinous zooplantkon,20 years later,EB-FlTs-smother,-1.2506263630938874,0.004,-0.004
+173,microzooplankton,20 years later,EB-FlTs-smother,2.243543139379467,0.001,-0.001
+174,mesozooplankton,20 years later,EB-FlTs-smother,-2.349479208523597,0.003,-0.003
+175,diatoms,20 years later,EB-FlTs-smother,-4.956093688162855,0.09,-0.09
+176,picophytoplankton,20 years later,EB-FlTs-smother,1.4051936881825045,0.004,-0.004
+177,pelagic bacteria,20 years later,EB-FlTs-smother,-0.7998129066646098,0.002,-0.002
+178,seagulls,spill year,EB-FlTs-smother,-69.31942235959721,0.0,-0.0
+179,other seabirds,spill year,EB-FlTs-smother,-71.06218314420019,0.0,-0.0
+180,seagulls,20 years later,EB-FlTs-smother,-61.04364025891233,0.0,-0.0
+181,other seabirds,20 years later,EB-FlTs-smother,-44.73297544604448,0.0,-0.0
+182,macroalgae,spill year,EB-FlTs-smother,0.0044661939121004,0.06,-0.06
+183,seagrass,spill year,EB-FlTs-smother,0.0031155990986908,0.06,-0.06
+184,macroalgae,20 years later,EB-FlTs-smother,1.484001284614389,0.06,-0.06
+185,seagrass,20 years later,EB-FlTs-smother,-0.2232505852751365,0.06,-0.06
+186,dogfish,spill year,EB-FlTs-smother,-0.0053057111490795,0.0,-0.0
+187,ratfish,spill year,EB-FlTs-smother,0.0201723303997436,0.0,-0.0
+188,sixgill,spill year,EB-FlTs-smother,0.000880382045737,0.0,-0.0
+189,skates,spill year,EB-FlTs-smother,-0.0104466445694539,0.0004,-0.0004
+190,dogfish,20 years later,EB-FlTs-smother,-0.0788874318135246,0.0,-0.0
+191,ratfish,20 years later,EB-FlTs-smother,0.0918155278154753,0.0,-0.0
+192,sixgill,20 years later,EB-FlTs-smother,-0.0402506375782252,0.0,-0.0
+193,skates,20 years later,EB-FlTs-smother,0.0115299125733547,0.0004,-0.0004
+194,squid,spill year,EB-FlTs-smother,-0.0004352893199666,0.0,-0.0
+195,squid,20 years later,EB-FlTs-smother,0.0009648829645492,0.0,-0.0
