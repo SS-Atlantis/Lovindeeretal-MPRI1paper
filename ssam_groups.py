@@ -24,11 +24,11 @@ mammals = {
 }
 
 pinnipeds = {
-    'porpoises':'Harbor_porpoise', 'seals':'Harbor_seals', 'sealions':'Sealions',
+    'seals':'Harbor_seals', 'sealions':'Sealions',
 }
 
 whales = {
-    'humpbacks':'Humpback_whales','resident orcas':'Orcas_resident', 'transient orcas':'Orcas_transient',
+    'humpbacks':'Humpback_whales','resident orcas':'Orcas_resident', 'transient orcas':'Orcas_transient','porpoises':'Harbor_porpoise',
 }
     
 other_fish = {
