@@ -1,6 +1,6 @@
 This repository contains interactive Jupyter notebooks and Python scripts that will allow for reproducability of the results and figures presented in:
 >Lovindeer R, S. Mynott, J. Porobic, E. A. Fulton, S. E. Allen, D. J. Latornell, H. N. Morzaria-Luna, A. Morell, N. C. Ban, 
-Integrated modelling of inland-sea ecosystem impacts from anthropogenic stressors: oil-based contaminants in the Salish Sea.
+Toxicity of oil spills has long-term implications for ecosystems – a scenario modelling study.
 
 The links below are to static renderings of the notebooks via
 [nbviewer.jupyter.org](https://nbviewer.jupyter.org/).
@@ -12,6 +12,28 @@ Descriptions below the links are from the first cell of the notebooks
     **Salish Sea Zooplankton**
     Comparing monthly zooplankton biomass from Salish Sea Cast with zooplankton in Atlantis across the entire domain of both models
 
+* ## [Spatial-biomass.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Spatial-biomass.ipynb)  
+    
+    **Spatial visualisation of biomass at the time of the contaminant injection**
+
+* ## [SSAM-smother-test.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-smother-test.ipynb)  
+    
+    Smother Experiment: comparison of die-off of coastal birds in English Bay as a result of smothering from Bunker C whole oil to impacts from the PAH toxicity from the water soluble fraction of oil. Results are 3-day Atlantis output from 2019-2022 (spill years), and 2039-2042 (20 years after) for the EB-FlTs simulation.
+
+* ## [Parcels-to-Atlantis-EnglishBay.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parcels-to-Atlantis-EnglishBay.ipynb)  
+    
+    Mapping particle tracks from Parcels unto the Salish Sea Atlantis Boxes. 
+    
+    Original code written by Bec Gordon & Javier Porobic, CSIRO.
+    Link to the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
+    
+    This notebook includes pseudo-components of PAHs, grouped by log(k_{ow}) as follows: Naphthalene (log(Kow) 3.2 - 3.5) = Naphthalene (C0-C4)
+    Acenaphthylene; Phenanthrene (log(Kow) 3.8 - 4.6) = Phenanthrene (C0-C4), Acenaphthene, Fluorene, Anthracene; Pyrene(log(Kow) 4.9 - 5.2) = Pyrene, Fluoranthene; Benzo (log(Kow) 5.7 - 6.5) = Chrysene, benzo(e)pyrene, benzo(a)pyrene, perylene, Indeno(1,2,3-cd)pyrene, Benz(a)anthracene, Benzo(b)fluoranthene, Benzo(k)fluoranthene. 
+
+* ## [Plot-map.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Plot-map.ipynb)  
+    
+    Plot study area map and Salish Sea Atlantis model polygons
+
 * ## [SSAM-contam-highres-2029.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-contam-highres-2029.ipynb)  
     
     3-day Atlantis output for all scenarios from 2029-2032
@@ -21,28 +43,51 @@ Descriptions below the links are from the first cell of the notebooks
     **Salish Sea Phytoplankton**
     Comparing phytoplankton biomass climatology from Salish Sea Cast (Suchy et al, 2025) with the phytoplankton in Atlantis over the entire Salish Sea domain
 
+* ## [SSAM-WSF-PC-partition.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-WSF-PC-partition.ipynb)  
+    
+    3-day Atlantis output for all scenarios from 2019-2022
+
+* ## [Parcels-to-Atlantis-conservative.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parcels-to-Atlantis-conservative.ipynb)  
+    
+    Mapping particle tracks from Parcels unto the Salish Sea Atlantis Boxes. 
+    
+    Original code written by Bec Gordon & Javier Porobic, CSIRO.
+    Link to the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
+    
+    This notebook includes pseudo-components of PAHs, grouped by log(k_{ow}) as follows: Naphthalene (log(Kow) 3.2 - 3.5) = Naphthalene, Acenaphthylene; Phenanthrene (log(Kow) 3.8 - 4.6) = Phenanthrene, Acenaphthene, Fluorene, Anthracene; Pyrene(log(Kow) 4.9 - 5.2) = Pyrene, Fluoranthene; Benzo (log(Kow) 5.7 - 6.5) = Chrysene, benzo(e)pyrene, benzo(a)pyrene, perylene, Indeno(1,2,3-cd)pyrene, Benz(a)anthracene, Benzo(b)fluoranthene, Benzo(k)fluoranthene. 
+
 * ## [SSAM-output-4a-activepass-spill.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-output-4a-activepass-spill.ipynb)  
     
-    **Results of point pollution surface oil spill scenarios at Active Pass**
+    **Atlantis PAH PC injection from surface spill of diesel at Active Pass**
     Tug towing a fuel barge misjudges the tides in Active Pass and barge gets pushed on the rocks puncturing one of its fuel tanks, spilling 500 m<sup>-3</sup> of marine diesel. Scenario is built on ROC report 869, 2019.
+
+* ## [SSAM-PAH-impact-comparison.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-PAH-impact-comparison.ipynb)  
+    
+    Comparison of all scenarios and simulations across the entire model domain and all biological functional groups.
+
+* ## [Parcels-to-Atlantis-JdF.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parcels-to-Atlantis-JdF.ipynb)  
+    
+    Mapping particle tracks from Parcels unto the Salish Sea Atlantis Boxes. 
+    
+    Original code written by Bec Gordon & Javier Porobic, CSIRO.
+    Link to the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
+    
+    This notebook includes pseudo-components of PAHs, grouped by log(k_{ow}) as follows: Naphthalene (log(Kow) 3.2 - 3.5) = Naphthalene (C0-C4)
+    Acenaphthylene; Phenanthrene (log(Kow) 3.8 - 4.6) = Phenanthrene (C0-C4), Acenaphthene, Fluorene, Anthracene; Pyrene(log(Kow) 4.9 - 5.2) = Pyrene, Fluoranthene; Benzo (log(Kow) 5.7 - 6.5) = Chrysene, benzo(e)pyrene, benzo(a)pyrene, perylene, Indeno(1,2,3-cd)pyrene, Benz(a)anthracene, Benzo(b)fluoranthene, Benzo(k)fluoranthene. 
 
 * ## [SSAM-contam-highres-2019.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-contam-highres-2019.ipynb)  
     
     3-day Atlantis output for all scenarios from 2019-2022
 
-* ## [SSAM-aggregated-data.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-aggregated-data.ipynb)  
+* ## [Parcels-currents.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parcels-currents.ipynb)  
     
-    Extract aggregated data for biological groups for all four spill scenarios
+    **Visualisation of Parcels surface movement for each simulation**
 
 * ## [SSAM-output-7a-jstrait-spill.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-output-7a-jstrait-spill.ipynb)  
     
-    **Results of point pollution surface oil spill scenarios in the Strait of Juan de Fuca**
+    **Atlantis PAH PC injection from surface spill of bunkerC in Juan de Fuca Strait**
     Bulker Loss of Power as vessels leaves *Johnson Strait*, gets pushed on the shore before tug arrives on scene, spilling 1000 m<sup>-3</sup> of Bunker C. Scenario built on incident ROC report 323, 2020.
     - *the description provided by the team stated this location, which we assumed should really say Jonhstone Strait, but the coordinates provided were in Juan de Fuca Strait, so Atlantis scenarios are based in Juan de Fuca*
-
-* ## [SSAM-output-5b-turnpoint-20yrs.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-output-5b-turnpoint-20yrs.ipynb)  
-    
-    Older results output at a cadence of 90 days for te entire simulation.
 
 * ## [Site-conditions.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Site-conditions.ipynb)  
     
@@ -54,23 +99,43 @@ Descriptions below the links are from the first cell of the notebooks
     
     Code taken From Suchy et al. ([Suchyetal_NPGOpaper/notebooks/Figure5_PhytoplanktonBiomass.ipynb](https://github.com/SalishSeaCast/Suchyetal_NPGOpaper/blob/main/notebooks/Figure5_PhytoplanktonBiomass.ipynb)) to extract monthly diatom and nanoflagellate biomass from 201905 to match data from [Suchy et al., 2025](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JC021036) but expanded from the central Strait of Georgia to the entire Salish Sea.
 
-* ## [Parsels-to-Atlantis.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parsels-to-Atlantis.ipynb)  
+* ## [SSAM-averaged-smother-data.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-averaged-smother-data.ipynb)  
     
-    Mapping particle tracks from Ocean Parcels unto the Salish Sea Atlantis Boxes. 
+    Extract averaged percent change in biological group biomass for each time period and contaminant release scenario location.
+
+* ## [Parcels-to-Atlantis-ActivePass.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parcels-to-Atlantis-ActivePass.ipynb)  
+    
+    Mapping particle tracks from Parcels unto the Salish Sea Atlantis Boxes. 
+    
     Original code written by Bec Gordon & Javier Porobic, CSIRO.
     Link to the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
-    This notebook includes all alkylated Naphthalene and Phenanthrenes, as well as sums all PAHs with the same chemical formulas, (i.e. Pyrene = Pyrene + Fluoranthene, and Benzo(a)pyrene = BaP + Benzo(e)pyrene + Perylene).
+    
+    This notebook includes pseudo-components of PAHs, grouped by log(k_{ow}) as follows: Naphthalene (log(Kow) 3.2 - 3.5) = Naphthalene (C0-C4)
+    Acenaphthylene; Phenanthrene (log(Kow) 3.8 - 4.6) = Phenanthrene (C0-C4), Acenaphthene, Fluorene, Anthracene; Pyrene(log(Kow) 4.9 - 5.2) = Pyrene, Fluoranthene; Benzo (log(Kow) 5.7 - 6.5) = Chrysene, benzo(e)pyrene, benzo(a)pyrene, perylene, Indeno(1,2,3-cd)pyrene, Benz(a)anthracene, Benzo(b)fluoranthene, Benzo(k)fluoranthene. 
 
 * ## [SSAM-output-5b-turnpoint-spill.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-output-5b-turnpoint-spill.ipynb)  
     
-    **Results of point pollution surface oil spill scenario at Turn Point**
+    **Atlantis PAH PC injection from surface spill of dilbit at Turn Point**
     Dilbit Tanker fails to make the turn in outbound shipping lane at Turn Point and hits Arachne Reef, spilling 2000 m<sup>-3</sup> of Dilbit.
+
+* ## [Parcels-to-Atlantis-TurnPoint.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Parcels-to-Atlantis-TurnPoint.ipynb)  
+    
+    Mapping particle tracks from Parcels unto the Salish Sea Atlantis Boxes. 
+    
+    Original code written by Bec Gordon & Javier Porobic, CSIRO.
+    Link to the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
+    
+    This notebook includes pseudo-components of PAHs, grouped by log(k_{ow}) as follows: Naphthalene (log(Kow) 3.2 - 3.5) = Naphthalene (C0-C4)
+    Acenaphthylene; Phenanthrene (log(Kow) 3.8 - 4.6) = Phenanthrene (C0-C4), Acenaphthene, Fluorene, Anthracene; Pyrene(log(Kow) 4.9 - 5.2) = Pyrene, Fluoranthene; Benzo (log(Kow) 5.7 - 6.5) = Chrysene, benzo(e)pyrene, benzo(a)pyrene, perylene, Indeno(1,2,3-cd)pyrene, Benz(a)anthracene, Benzo(b)fluoranthene, Benzo(k)fluoranthene. 
 
 * ## [SSAM-parcels.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-parcels.ipynb)  
     
-    Using [Ocean Parcels](https://oceanparcels.org) to determine the surface movement of a point pollution oil spill.
-    Original code written by Bec Gordon & Javier Porobic, CSIRO. Code requires additional python libraries stored in /Parcel_Utils/ within the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
+    Using [Parcels](https://parcels-code.org) to determine the surface movement of contaminants from oils.
+    
+    Original Parcels code written by Bec Gordon & Javier Porobic, CSIRO. Code requires additional python libraries stored in /Parcel_Utils/ within the [SSAM Ocean Parcels Repo](https://bitbucket.csiro.au/users/por07g/repos/ssam_oceanparcels/browse)
 
+* ## [SSAM-WSF-PC-partition-2039.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-WSF-PC-partition-2039.ipynb)  
+    
 * ## [Spill-scenarios.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/Spill-scenarios.ipynb)  
     
     **Salish Sea Oil Spill Scenarios**
@@ -93,21 +158,31 @@ Descriptions below the links are from the first cell of the notebooks
     
 
 
+* ## [SSAM-averaged-data.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-averaged-data.ipynb)  
+    
+    Extract averaged percent change in biological group biomass for each time period and contaminant release scenario location.
+
 * ## [SSAM-output-heatmap-by-regions.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-output-heatmap-by-regions.ipynb)  
     
     **Heatmap of Results after 20 years of point pollution spill scenarios as part of MPRI-1**
 
 * ## [SSAM-output-6a-englishbay-spill.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-output-6a-englishbay-spill.ipynb)  
     
-    **Results of point pollution surface oil spill scenarios at English Bay**
+    **Atlantis PAH PC injection from surface spill of bunkerC at English Bay**
     Loss of Power by a Bulker as it leaves Vancouver Harbour, collides with another Bulk Carier at Anchorage, spilling 15 m<sup>-3</sup> of Bunker C. Scenario built on ROC report 0570, 2020 and ROC report 201, 2019. The spill occurs in English Bay.
 
 * ## [SSAM-contam-highres-2039.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-contam-highres-2039.ipynb)  
     
     3-day Atlantis output for all scenarios from 2039-2042
 
+* ## [SSAM-WSF-PC-partition-2039-region.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-WSF-PC-partition-2039-region.ipynb)  
+    
 * ## [calibration.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/calibration.ipynb)  
     
+* ## [SSAM-PAH-injection-plot.ipynb](https://nbviewer.jupyter.org/github/SS-Atlantis/analysis-raisha/blob/main/Lovindeeretal-MPRI1paper/SSAM-PAH-injection-plot.ipynb)  
+    
+    Notebook to create figure showing PAH concentration in Atlantis polygons for all scenarios and simulations
+
 
 ## License
 
